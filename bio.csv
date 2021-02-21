@@ -1,0 +1,804 @@
+,primaryTitle,startYear,genres,averageRating,numVotes
+0,Schindler's List,1993.0,Biography Drama History,8.9,1202727
+1,The Wolf of Wall Street,2013.0,Biography Crime Drama,8.2,1167697
+2,Goodfellas,1990.0,Biography Crime Drama,8.7,1009746
+3,Braveheart,1995.0,Biography Drama History,8.3,952663
+4,A Beautiful Mind,2001.0,Biography Drama,8.2,841063
+5,Catch Me If You Can,2002.0,Biography Crime Drama,8.1,818805
+6,The Intouchables,2011.0,Biography Comedy Drama,8.5,750332
+7,The Pianist,2002.0,Biography Drama Music,8.5,721711
+8,The Imitation Game,2014.0,Biography Drama Thriller,8.0,678678
+9,The King's Speech,2010.0,Biography Drama History,8.0,635160
+10,12 Years a Slave,2013.0,Biography Drama History,8.1,634538
+11,The Social Network,2010.0,Biography Drama,7.7,619186
+12,Argo,2012.0,Biography Drama Thriller,7.7,568946
+13,Into the Wild,2007.0,Adventure Biography Drama,8.1,567857
+14,The Pursuit of Happyness,2006.0,Biography Drama,8.0,444488
+15,Bohemian Rhapsody,2018.0,Biography Drama Music,8.0,443689
+16,Dallas Buyers Club,2013.0,Biography Drama,8.0,437205
+17,American Sniper,2014.0,Action Biography Drama,7.3,436027
+18,Rush,2013.0,Action Biography Drama,8.1,429357
+19,Hacksaw Ridge,2016.0,Biography Drama History,8.1,429301
+20,Captain Phillips,2013.0,Adventure Biography Crime,7.8,417535
+21,Spotlight,2015.0,Biography Crime Drama,8.1,415395
+22,The Theory of Everything,2014.0,Biography Drama Romance,7.7,399783
+23,American Gangster,2007.0,Biography Crime Drama,7.8,389108
+24,Amadeus,1984.0,Biography Drama History,8.3,366242
+25,Moneyball,2011.0,Biography Drama Sport,7.6,365306
+26,Green Book,2018.0,Biography Comedy Drama,8.2,362420
+27,The Big Short,2015.0,Biography Comedy Drama,7.8,357359
+28,Narcos,2015.0,Biography Crime Drama,8.8,349844
+29,127 Hours,2010.0,Biography Drama,7.5,345833
+30,The Fighter,2010.0,Biography Drama Sport,7.8,338150
+31,Hotel Rwanda,2004.0,Biography Drama History,8.1,332471
+32,The Aviator,2004.0,Biography Drama,7.5,331581
+33,Downfall,2004.0,Biography Drama History,8.2,329027
+34,Raging Bull,1980.0,Biography Drama Sport,8.2,319139
+35,The Irishman,2019.0,Biography Crime Drama,7.9,317241
+36,The Blind Side,2009.0,Biography Drama Sport,7.6,290434
+37,Ford v Ferrari,2019.0,Action Biography Drama,8.1,279264
+38,Donnie Brasco,1997.0,Biography Crime Drama,7.7,276599
+39,Lone Survivor,2013.0,Action Biography Drama,7.5,264547
+40,Hachi: A Dog's Tale,2009.0,Biography Drama Family,8.1,250609
+41,Lincoln,2012.0,Biography Drama History,7.3,243153
+42,Blow,2001.0,Biography Crime Drama,7.6,239234
+43,Changeling,2008.0,Biography Crime Drama,7.7,237735
+44,Sully,2016.0,Biography Drama,7.4,234695
+45,Dog Day Afternoon,1975.0,Biography Crime Drama,8.0,234004
+46,The Greatest Showman,2017.0,Biography Drama Musical,7.6,233664
+47,Walk the Line,2005.0,Biography Drama Music,7.8,232552
+48,Spartacus,2010.0,Action Adventure Biography,8.5,221138
+49,BlacKkKlansman,2018.0,Biography Comedy Crime,7.5,218200
+50,The Elephant Man,1980.0,Biography Drama,8.1,218148
+51,Gandhi,1982.0,Biography Drama History,8.0,216795
+52,Lion,2016.0,Biography Drama,8.0,211275
+53,Ip Man,2008.0,Action Biography Drama,8.0,210228
+54,Hidden Figures,2016.0,Biography Drama History,7.8,197860
+55,Finding Neverland,2004.0,Biography Drama Family,7.7,197833
+56,Remember the Titans,2000.0,Biography Drama Sport,7.8,196674
+57,Everest,2015.0,Action Adventure Biography,7.1,195533
+58,I  Tonya,2017.0,Biography Comedy Drama,7.5,178878
+59,Straight Outta Compton,2015.0,Biography Drama History,7.8,178092
+60,War Dogs,2016.0,Biography Comedy Crime,7.1,175669
+61,Cinderella Man,2005.0,Biography Drama History,8.0,175128
+62,The Last King of Scotland,2006.0,Biography Drama History,7.7,174447
+63,Erin Brockovich,2000.0,Biography Drama,7.3,173150
+64,Darkest Hour,2017.0,Biography Drama History,7.4,169972
+65,The Favourite,2018.0,Biography Comedy Drama,7.5,169286
+66,The Assassination of Jesse James by the Coward Robert Ford,2007.0,Biography Crime Drama,7.5,168027
+67,First Man,2018.0,Biography Drama History,7.3,165750
+68,Ed Wood,1994.0,Biography Comedy Drama,7.8,164352
+69,Milk,2008.0,Biography Drama,7.5,163794
+70,Girl  Interrupted,1999.0,Biography Drama,7.3,163081
+71,The Danish Girl,2015.0,Biography Drama Romance,7.1,162485
+72,The Insider,1999.0,Biography Drama Thriller,7.8,158903
+73,In the Name of the Father,1993.0,Biography Crime Drama,8.1,155512
+74,Dangal,2016.0,Action Biography Drama,8.4,153462
+75,Steve Jobs,2015.0,Biography Drama,7.2,153064
+76,Saving Mr. Banks,2013.0,Biography Comedy Drama,7.5,150789
+77,Invictus,2009.0,Biography Drama History,7.3,149064
+78,Unbroken,2014.0,Action Biography Drama,7.2,147625
+79,Molly's Game,2017.0,Biography Crime Drama,7.4,139688
+80,Ray,2004.0,Biography Drama Music,7.7,137522
+81,The Disaster Artist,2017.0,Biography Comedy Drama,7.4,136520
+82,Snowden,2016.0,Biography Crime Drama,7.3,136275
+83,Monster,2003.0,Biography Crime Drama,7.3,135252
+84,The Crown,2016.0,Biography Drama History,8.7,135241
+85,Rocketman,2019.0,Biography Drama Music,7.3,131697
+86,Seven Years in Tibet,1997.0,Adventure Biography Drama,7.1,127780
+87,Coach Carter,2005.0,Biography Drama Sport,7.3,126615
+88,Spartacus: Gods of the Arena,2011.0,Action Adventure Biography,8.5,125825
+89,Tombstone,1993.0,Action Biography Drama,7.8,125641
+90,Good Morning  Vietnam,1987.0,Biography Comedy Drama,7.3,125159
+91,Capote,2005.0,Biography Crime Drama,7.3,124643
+92,Man on the Moon,1999.0,Biography Comedy Drama,7.4,123511
+93,Awakenings,1990.0,Biography Drama,7.8,123310
+94,The Founder,2016.0,Biography Drama,7.2,122890
+95,Glory,1989.0,Biography Drama History,7.8,121589
+96,Papillon,1973.0,Biography Crime Drama,8.0,120914
+97,Escape from Alcatraz,1979.0,Action Biography Crime,7.6,120115
+98,Wild,2014.0,Biography Drama,7.1,119595
+99,Bronson,2008.0,Action Biography Crime,7.1,119524
+100,The Walk,2015.0,Action Adventure Biography,7.3,119082
+101,Vice,2018.0,Biography Comedy Drama,7.2,119066
+102,Serpico,1973.0,Biography Crime Drama,7.7,108823
+103,Lee Daniels' The Butler,2013.0,Biography Drama,7.2,107967
+104,Men of Honor,2000.0,Biography Drama,7.2,106554
+105,The Two Popes,2019.0,Biography Comedy Drama,7.6,103712
+106,The Queen,2006.0,Biography Drama History,7.3,103703
+107,The Diving Bell and the Butterfly,2007.0,Biography Drama,8.0,102794
+108,Frost/Nixon,2008.0,Biography Drama History,7.7,102708
+109,All the President's Men,1976.0,Biography Drama History,8.0,101767
+110,The Basketball Diaries,1995.0,Biography Crime Drama,7.3,101310
+111,Rescue Dawn,2006.0,Action Biography Drama,7.3,100627
+112,Born on the Fourth of July,1989.0,Biography Drama War,7.2,97761
+113,Ip Man 2,2010.0,Action Biography Drama,7.5,97099
+114,The Motorcycle Diaries,2004.0,Adventure Biography Drama,7.8,96209
+115,Good Night  and Good Luck.,2005.0,Biography Drama History,7.4,93753
+116,Philomena,2013.0,Biography Comedy Drama,7.6,93671
+117,The Last Emperor,1987.0,Biography Drama History,7.7,93465
+118,Elizabeth,1998.0,Biography Drama History,7.4,92618
+119,Boys Don't Cry,1999.0,Biography Crime Drama,7.5,91950
+120,The Hurricane,1999.0,Biography Drama Sport,7.6,91002
+121,When They See Us,2019.0,Biography Crime Drama,8.9,88079
+122,Persepolis,2007.0,Animation Biography Drama,8.0,88074
+123,The People vs. Larry Flynt,1996.0,Biography Drama,7.3,87590
+124,Concussion,2015.0,Biography Drama Sport,7.1,86003
+125,42,2013.0,Biography Drama Sport,7.5,85681
+126,The King,2019.0,Biography Drama History,7.2,85648
+127,Selma,2014.0,Biography Drama History,7.5,85565
+128,Malcolm X,1992.0,Biography Drama History,7.7,84920
+129,Eddie the Eagle,2015.0,Biography Comedy Drama,7.4,84370
+130,The Doors,1991.0,Biography Drama Music,7.2,83322
+131,La Vie En Rose,2007.0,Biography Drama Music,7.6,82301
+132,October Sky,1999.0,Biography Drama Family,7.8,82097
+133,The Straight Story,1999.0,Biography Drama,8.0,81202
+134,Frida,2002.0,Biography Drama Romance,7.4,80838
+135,American Crime Story,2016.0,Biography Crime Drama,8.4,78837
+136,The Sea Inside,2004.0,Biography Drama,8.0,77126
+137,Trumbo,2015.0,Biography Crime Drama,7.5,75943
+138,Scam 1992: The Harshad Mehta Story,2020.0,Biography Crime Drama,9.4,75647
+139,Fruitvale Station,2013.0,Biography Crime Drama,7.5,75075
+140,The Last Dance,2020.0,Biography Documentary History,9.2,74331
+141,Midnight Express,1978.0,Biography Crime Drama,7.6,73175
+142,Da Vinci's Demons,2013.0,Adventure Biography Drama,8.0,73024
+143,Fearless,2006.0,Action Biography Drama,7.6,72626
+144,The Wind Rises,2013.0,Animation Biography Drama,7.8,72422
+145,Out of Africa,1985.0,Biography Drama Romance,7.2,72097
+146,Amistad,1997.0,Biography Drama History,7.3,70702
+147,Freedom Writers,2007.0,Biography Crime Drama,7.5,69393
+148,My Left Foot,1989.0,Biography Drama,7.9,67405
+149,Invincible,2006.0,Biography Drama Sport,7.1,65752
+150,Agora,2009.0,Adventure Biography Drama,7.2,65715
+151,Hunger,2008.0,Biography Drama,7.6,65493
+152,Fighting with My Family,2019.0,Biography Comedy Drama,7.1,65055
+153,Quiz Show,1994.0,Biography Drama History,7.5,64319
+154,Senna,2010.0,Biography Documentary Sport,8.5,63623
+155,Searching for Sugar Man,2012.0,Biography Documentary Music,8.2,63434
+156,Blackfish,2013.0,Biography Documentary News,8.1,61438
+157,Control,2007.0,Biography Drama Music,7.7,61291
+158,Bhaag Milkha Bhaag,2013.0,Biography Drama Sport,8.2,60570
+159,The Devil's Double,2011.0,Biography Drama Thriller,7.1,60016
+160,Heavenly Creatures,1994.0,Biography Crime Drama,7.3,58631
+161,A Beautiful Day in the Neighborhood,2019.0,Biography Drama,7.3,57665
+162,The Young Victoria,2009.0,Biography Drama History,7.3,57443
+163,Only the Brave,2017.0,Action Biography Drama,7.6,57194
+164,Richard Jewell,2019.0,Biography Crime Drama,7.5,56877
+165,Rudy,1993.0,Biography Drama Sport,7.5,56222
+166,The Right Stuff,1983.0,Adventure Biography Drama,7.8,55927
+167,The Great Debaters,2007.0,Biography Drama Romance,7.5,55672
+168,Dark Waters,2019.0,Biography Drama History,7.6,54834
+169,Waltz with Bashir,2008.0,Animation Biography Documentary,8.0,54826
+170,Chariots of Fire,1981.0,Biography Drama Sport,7.2,54375
+171,Woman in Gold,2015.0,Biography Drama History,7.3,53479
+172,Papillon,2017.0,Adventure Biography Crime,7.2,53227
+173,Chaplin,1992.0,Biography Comedy Drama,7.6,53050
+174,Grizzly Man,2005.0,Biography Documentary,7.8,52840
+175,Man on Wire,2008.0,Biography Crime Documentary,7.7,52427
+176,Citizenfour,2014.0,Biography Documentary History,8.0,52159
+177,Aguirre  the Wrath of God,1972.0,Action Adventure Biography,7.9,51942
+178,Beautiful Boy,2018.0,Biography Drama,7.3,51893
+179,Lords of Dogtown,2005.0,Biography Drama Sport,7.1,51818
+180,The World's Fastest Indian,2005.0,Biography Drama Sport,7.8,51717
+181,Dolemite Is My Name,2019.0,Biography Comedy Drama,7.3,51514
+182,Quills,2000.0,Biography Drama,7.3,51388
+183,Pride,2014.0,Biography Comedy Drama,7.8,51384
+184,The Killing Fields,1984.0,Biography Drama History,7.8,51251
+185,Shine,1996.0,Biography Drama Music,7.7,51041
+186,The Man Who Knew Infinity,2015.0,Biography Drama,7.2,50681
+187,Alive,1993.0,Biography Drama Thriller,7.1,50535
+188,Loving Vincent,2017.0,Animation Biography Crime,7.8,49993
+189,Hamilton,2020.0,Biography Drama History,8.6,49503
+190,Manhunt,2017.0,Biography Crime Drama,8.1,48987
+191,Ip Man 3,2015.0,Action Biography Drama,7.1,48719
+192,Amy,2015.0,Biography Documentary Music,7.8,48299
+193,Miracle,2004.0,Biography Drama History,7.5,47624
+194,American Splendor,2003.0,Biography Comedy Drama,7.4,47472
+195,Colonia,2015.0,Biography Drama History,7.1,47400
+196,The Cove,2009.0,Biography Crime Documentary,8.4,47117
+197,Sanju,2018.0,Biography Comedy Drama,7.8,46934
+198,This Boy's Life,1993.0,Biography Drama,7.3,46715
+199,Can You Ever Forgive Me?,2018.0,Biography Comedy Crime,7.1,46121
+200,Kon-Tiki,2012.0,Adventure Biography Drama,7.2,45617
+201,Kill the Irishman,2011.0,Biography Crime Drama,7.1,45541
+202,The Imposter,2012.0,Biography Crime Documentary,7.5,45008
+203,Mongol: The Rise of Genghis Khan,2007.0,Action Biography Drama,7.2,44469
+204,Che: Part One,2008.0,Biography Drama History,7.2,44087
+205,Just Mercy,2019.0,Biography Crime Drama,7.6,44033
+206,A Royal Affair,2012.0,Biography Drama History,7.5,43912
+207,The Message,1976.0,Biography Drama History,8.2,43600
+208,Anthropoid,2016.0,Action Biography Drama,7.2,43465
+209,Glory Road,2006.0,Biography Drama Sport,7.2,42884
+210,Conviction,2010.0,Biography Crime Drama,7.2,42057
+211,The Damned United,2009.0,Biography Drama Sport,7.5,41218
+212,The Sessions,2012.0,Biography Comedy Drama,7.2,41086
+213,The Mirror,1975.0,Biography Drama,8.1,39397
+214,M.S. Dhoni: The Untold Story,2016.0,Biography Drama Sport,7.8,39242
+215,The Railway Man,2013.0,Biography Drama Romance,7.1,37287
+216,Chopper,2000.0,Biography Crime Drama,7.2,36036
+217,Love & Mercy,2014.0,Biography Drama Music,7.4,35837
+218,The Baader Meinhof Complex,2008.0,Action Biography Crime,7.4,35570
+219,McFarland  USA,2015.0,Biography Drama Sport,7.4,35174
+220,Togo,2019.0,Adventure Biography Drama,8.0,35029
+221,The Act of Killing,2012.0,Biography Crime Documentary,8.2,34947
+222,Nowhere Boy,2009.0,Biography Drama Music,7.1,34929
+223,The King of Kong: A Fistful of Quarters,2007.0,Biography Documentary Sport,8.1,34603
+224,Race,2016.0,Biography Drama Sport,7.1,34559
+225,Ayla: The Daughter of War,2017.0,Biography Drama History,8.4,33390
+226,Il Postino,1994.0,Biography Comedy Drama,7.7,33346
+227,24 Hour Party People,2002.0,Biography Comedy Drama,7.3,33050
+228,Dear Zachary: A Letter to a Son About His Father,2008.0,Biography Crime Documentary,8.5,33037
+229,Paan Singh Tomar,2012.0,Action Biography Crime,8.2,32950
+230,Antwone Fisher,2002.0,Biography Drama,7.3,32766
+231,An American Crime,2007.0,Biography Crime Drama,7.3,32204
+232,The Professor and the Madman,2019.0,Biography Drama,7.3,32200
+233,The Report,2019.0,Biography Crime Drama,7.2,32180
+234,Mesrine: Killer Instinct,2008.0,Action Biography Crime,7.5,31960
+235,The Whistleblower,2010.0,Biography Crime Drama,7.1,31541
+236,Stan & Ollie,2018.0,Biography Comedy Drama,7.2,31487
+237,Official Secrets,2019.0,Biography Crime Drama,7.3,31446
+238,The Legend Is Born: Ip Man,2010.0,Action Biography Drama,7.1,31166
+239,Chasing Mavericks,2012.0,Biography Drama Sport,7.2,30661
+240,Searching for Bobby Fischer,1993.0,Biography Drama,7.4,29636
+241,Michael Collins,1996.0,Biography Drama Thriller,7.2,29349
+242,The Glass Castle,2017.0,Biography Drama,7.1,29262
+243,Gods and Monsters,1998.0,Biography Drama,7.3,29149
+244,Nixon,1995.0,Biography Drama History,7.1,28631
+245,The End of the Tour,2015.0,Biography Drama,7.3,28612
+246,Bad Education,2019.0,Biography Comedy Crime,7.1,28563
+247,Mesrine: Public Enemy No. 1,2008.0,Action Biography Crime,7.5,28273
+248,John Adams,2008.0,Biography Drama History,8.5,28163
+249,Henry V,1989.0,Action Biography Drama,7.5,28058
+250,Belle,2013.0,Biography Drama Romance,7.3,27975
+251,The Greatest Game Ever Played,2005.0,Biography Drama Sport,7.4,27962
+252,Cobain: Montage of Heck,2015.0,Animation Biography Documentary,7.5,27829
+253,Tracks,2013.0,Adventure Biography Drama,7.2,27682
+254,A Street Cat Named Bob,2016.0,Biography Drama Family,7.4,27630
+255,Rabbit-Proof Fence,2002.0,Adventure Biography Drama,7.4,27293
+256,Three Identical Strangers,2018.0,Biography Documentary Drama,7.7,26933
+257,The Good Lie,2014.0,Biography Drama,7.4,26918
+258,Testament of Youth,2014.0,Biography Drama History,7.3,26462
+259,Secretariat,2010.0,Biography Drama Family,7.2,26373
+260,Mandela: Long Walk to Freedom,2013.0,Biography Drama History,7.1,26355
+261,Sophie Scholl: The Final Days,2005.0,Biography Crime Drama,7.6,26344
+262,Max Manus,2008.0,Action Biography Drama,7.3,26293
+263,On the Basis of Sex,2018.0,Biography Drama,7.1,26223
+264,Mask,1985.0,Biography Drama,7.2,25903
+265,Alias Grace,2017.0,Biography Crime Drama,7.8,24997
+266,Goodbye Christopher Robin,2017.0,Biography Drama,7.1,24444
+267,Capturing the Friedmans,2003.0,Biography Documentary,7.7,23911
+268,Before Night Falls,2000.0,Biography Drama Romance,7.2,23889
+269,Amazing Grace,2006.0,Biography Drama History,7.4,23816
+270,Dersu Uzala,1975.0,Adventure Biography Drama,8.3,23499
+271,Ip Man 4: The Finale,2019.0,Action Biography Drama,7.1,23454
+272,Immortal Beloved,1994.0,Biography Drama Music,7.4,23116
+273,Professor Marston & the Wonder Women,2017.0,Biography Drama History,7.1,22866
+274,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003.0,Biography Documentary History,8.1,22712
+275,Won't You Be My Neighbor?,2018.0,Biography Documentary,8.4,22638
+276,Conversations with a Killer: The Ted Bundy Tapes,2019.0,Biography Crime Documentary,7.8,22410
+277,Victoria,2016.0,Biography Drama History,8.2,21979
+278,Restrepo,2010.0,Biography Documentary History,7.5,21889
+279,Guru,2007.0,Biography Drama,7.7,21845
+280,Mank,2020.0,Biography Comedy Drama,7.2,21782
+281,Christiane F.,1981.0,Biography Drama,7.6,21578
+282,Megan Leavey,2017.0,Biography Drama War,7.1,21487
+283,Miracles from Heaven,2016.0,Biography Drama Family,7.1,21329
+284,David Attenborough: A Life on Our Planet,2020.0,Biography Documentary,9.0,21317
+285,Hitler: The Rise of Evil,2003.0,Biography Drama History,7.3,20849
+286,Neerja,2016.0,Biography Drama Thriller,7.7,20791
+287,Reds,1981.0,Biography Drama History,7.3,20786
+288,Embrace of the Serpent,2015.0,Adventure Biography Drama,7.9,20637
+289,Tanhaji: The Unsung Warrior,2020.0,Action Biography Drama,7.6,20476
+290,Super 30,2019.0,Biography Drama,7.9,20379
+291,Marshall,2017.0,Biography Crime Drama,7.2,20203
+292,The Butterfly's Dream,2013.0,Biography Drama History,7.8,19819
+293,The Express,2008.0,Biography Drama Sport,7.3,19764
+294,Jesus of Nazareth,1977.0,Biography Drama History,8.5,19745
+295,The Salt of the Earth,2014.0,Biography Documentary History,8.5,19689
+296,Into the White,2012.0,Action Biography Drama,7.2,19582
+297,It's All Gone Pete Tong,2004.0,Biography Comedy Drama,7.3,19234
+298,Breathe,2017.0,Biography Drama Romance,7.2,18655
+299,The Act,2019.0,Biography Crime Drama,8.0,18560
+300,Crumb,1994.0,Biography Comedy Documentary,8.0,18442
+301,Missing,1982.0,Biography Drama History,7.7,18427
+302,Escape at Dannemora,2018.0,Biography Crime Drama,8.0,18347
+303,My Dinner with Andre,1981.0,Biography Comedy Drama,7.8,18206
+304,Silkwood,1983.0,Biography Drama History,7.2,18186
+305,Pat Garrett & Billy the Kid,1973.0,Biography Drama Western,7.3,17965
+306,Manjhi: The Mountain Man,2015.0,Adventure Biography Drama,8.0,17666
+307,O.J.: Made in America,2016.0,Biography Crime Documentary,8.9,17369
+308,A Hidden Life,2019.0,Biography Drama Romance,7.4,17151
+309,Shadowlands,1993.0,Biography Drama Romance,7.3,17015
+310,What's Love Got to Do with It,1993.0,Biography Drama Music,7.3,16840
+311,Stand and Deliver,1988.0,Biography Drama,7.3,16773
+312,Enron: The Smartest Guys in the Room,2005.0,Biography Documentary History,7.6,16763
+313,The Banker,2020.0,Biography Drama,7.3,16697
+314,Red Dog,2011.0,Biography Comedy Drama,7.4,16676
+315,Coal Miner's Daughter,1980.0,Biography Drama Music,7.5,16594
+316,Feud: Bette and Joan,2017.0,Biography Drama,8.5,16521
+317,Pele: Birth of a Legend,2016.0,Biography Drama Sport,7.2,16339
+318,The Enigma of Kaspar Hauser,1974.0,Biography Drama History,7.8,16311
+319,Queen Margot,1994.0,Biography Drama History,7.4,16236
+320,Born Into Brothels: Calcutta's Red Light Kids,2004.0,Biography Documentary News,7.2,16158
+321,The Last Waltz,1978.0,Biography Documentary Music,8.2,16131
+322,Maudie,2016.0,Biography Drama Romance,7.6,16027
+323,Genius,2017.0,Biography Drama History,8.4,15989
+324,Il Divo,2008.0,Biography Drama,7.3,15985
+325,Roots,1977.0,Biography Drama History,8.4,15930
+326,Dangerous Beauty,1998.0,Biography Drama Romance,7.2,15927
+327,Close-Up,1990.0,Biography Crime Drama,8.3,15681
+328,I  Claudius,1976.0,Biography Drama History,8.7,15605
+329,The Internet's Own Boy: The Story of Aaron Swartz,2014.0,Biography Crime Documentary,8.0,15570
+330,Anvil: The Story of Anvil,2008.0,Biography Documentary Drama,7.9,15520
+331,The Madness of King George,1994.0,Biography Comedy Drama,7.2,15340
+332,Queen of Katwe,2016.0,Biography Drama Sport,7.4,15336
+333,First They Killed My Father,2017.0,Biography Drama History,7.2,15226
+334,Medici,2016.0,Biography Drama History,7.9,15207
+335,Müslüm,2018.0,Biography Drama Music,7.8,15153
+336,The Tale,2018.0,Biography Drama Mystery,7.3,15136
+337,Shahid,2012.0,Biography Drama,8.2,15078
+338,Miss Americana,2020.0,Biography Documentary Music,7.4,15046
+339,Never Look Away,2018.0,Biography Drama Romance,7.7,14850
+340,Life Itself,2014.0,Biography Documentary,7.8,14820
+341,North Face,2008.0,Adventure Biography Drama,7.4,14781
+342,The Great,2020.0,Biography Comedy Drama,8.1,14723
+343,The Legend of Bhagat Singh,2002.0,Action Biography Drama,8.1,14655
+344,Reversal of Fortune,1990.0,Biography Drama Mystery,7.2,14632
+345,Lenny,1974.0,Biography Drama,7.6,14614
+346,Orlando,1992.0,Biography Drama Fantasy,7.2,14398
+347,Made in Dagenham,2010.0,Biography Comedy Drama,7.2,14330
+348,The Dawn Wall,2017.0,Biography Documentary Sport,8.1,14285
+349,Lion of the Desert,1980.0,Biography Drama History,8.4,14068
+350,I Can Only Imagine,2018.0,Biography Drama Family,7.3,14038
+351,Versailles,2015.0,Biography Drama History,7.9,13530
+352,The Devils,1971.0,Biography Drama History,7.8,13466
+353,Amen.,2002.0,Biography Crime Drama,7.2,13428
+354,Mrs. Brown,1997.0,Biography Drama History,7.2,13328
+355,Marley,2012.0,Biography Documentary Music,8.0,13142
+356,Finding Vivian Maier,2013.0,Biography Documentary Mystery,7.7,13086
+357,Diego Maradona,2019.0,Biography Documentary Sport,7.7,13050
+358,Carlos,2010.0,Biography Crime Drama,7.6,12910
+359,Macbeth,1971.0,Biography Drama History,7.4,12492
+360,Nowhere in Africa,2001.0,Biography Drama History,7.5,12439
+361,Desert Flower,2009.0,Biography Drama,7.4,12429
+362,Cry Freedom,1987.0,Biography Drama History,7.4,12379
+363,20 Feet from Stardom,2013.0,Biography Documentary History,7.4,12281
+364,RBG,2018.0,Biography Documentary,7.6,12238
+365,What Happened  Miss Simone?,2015.0,Biography Documentary Music,7.6,12154
+366,Tyson,2008.0,Biography Documentary Sport,7.5,12139
+367,Kilo Two Bravo,2014.0,Adventure Biography Drama,7.1,11973
+368,The Look of Silence,2014.0,Biography Documentary History,8.3,11721
+369,Topsy-Turvy,1999.0,Biography Comedy Drama,7.3,11675
+370,Goodbye Bafana,2007.0,Biography Drama History,7.1,11593
+371,The Defiant Ones,2017.0,Biography Crime Documentary,8.5,11389
+372,Bird,1988.0,Biography Drama Music,7.2,11359
+373,Shine a Light,2008.0,Biography Documentary Music,7.2,11063
+374,Aquarius,2015.0,Biography Crime Drama,7.1,11047
+375,Houdini,2014.0,Biography Drama,7.4,11016
+376,Machuca,2004.0,Biography Drama History,7.7,10913
+377,No One Killed Jessica,2011.0,Biography Crime Drama,7.2,10904
+378,Modigliani,2004.0,Biography Drama,7.4,10887
+379,Holding the Man,2015.0,Biography Drama Romance,7.4,10641
+380,George Harrison: Living in the Material World,2011.0,Biography Documentary Music,8.2,10531
+381,Battle for Sevastopol,2015.0,Biography Drama Romance,7.1,10440
+382,The Loudest Voice,2019.0,Biography Drama,7.9,10431
+383,Hannah Arendt,2012.0,Biography Drama,7.1,10402
+384,My Best Fiend,1999.0,Biography Documentary,7.9,10343
+385,The Lady,2011.0,Biography Drama History,7.1,10134
+386,Oasis: Supersonic,2016.0,Biography Documentary Music,7.9,10132
+387,A Very English Scandal,2018.0,Biography Comedy Crime,7.7,9932
+388,Stanley Kubrick: A Life in Pictures,2001.0,Biography Documentary,8.0,9921
+389,Hilary and Jackie,1998.0,Biography Drama Music,7.3,9711
+390,Mahanati,2018.0,Biography Drama,8.5,9537
+391,Wolf Hall,2015.0,Biography Drama History,8.1,9536
+392,Champion,2018.0,Biography Drama Romance,8.3,9495
+393,Talk to Me,2007.0,Biography Drama History,7.3,9405
+394,An Honest Liar,2014.0,Biography Comedy Documentary,7.5,9338
+395,The Devil and Daniel Johnston,2005.0,Biography Documentary Music,7.9,9285
+396,The Best of Enemies,2019.0,Biography Drama History,7.2,9154
+397,Once Upon a Time in China II,1992.0,Action Adventure Biography,7.4,9003
+398,Mishima: A Life in Four Chapters,1985.0,Biography Drama,8.0,8998
+399,Tupac: Resurrection,2003.0,Biography Documentary Music,7.9,8956
+400,84 Charing Cross Road,1987.0,Biography Drama Romance,7.4,8683
+401,Requiem for the American Dream,2015.0,Biography Documentary News,8.1,8579
+402,Muhammad: The Messenger of God,2015.0,Biography Drama History,7.5,8555
+403,Beyond the Mat,1999.0,Biography Documentary Sport,7.6,8451
+404,Gentleman Jack,2019.0,Biography Drama History,8.2,8381
+405,Chasing Ice,2012.0,Biography Documentary,7.8,8275
+406,A Twelve-Year Night,2018.0,Biography Crime Drama,7.6,8244
+407,The Buddy Holly Story,1978.0,Biography Drama Music,7.2,8160
+408,Stander,2003.0,Action Biography Crime,7.1,8148
+409,The General,1998.0,Biography Crime Drama,7.3,8117
+410,American Me,1992.0,Biography Crime Drama,7.2,7914
+411,Tut,2015.0,Biography Drama History,7.1,7866
+412,The Traitor,2019.0,Biography Crime Drama,7.1,7859
+413,The Dance of Reality,2013.0,Biography Drama Fantasy,7.5,7787
+414,Lemmy,2010.0,Biography Documentary Music,7.8,7754
+415,Pocket Hercules: Naim Süleymanoglu,2019.0,Biography Drama Sport,8.4,7705
+416,The Message,1976.0,Biography Drama History,9.0,7587
+417,The Whiskey Bandit,2017.0,Action Biography Crime,7.5,7544
+418,Gonzo,2008.0,Biography Documentary Music,7.7,7543
+419,The Durrells in Corfu,2016.0,Biography Comedy Drama,8.2,7542
+420,The King's Choice,2016.0,Biography Drama History,7.1,7510
+421,10 Rillington Place,1971.0,Biography Crime Drama,7.6,7503
+422,On My Skin: The Last Seven Days of Stefano Cucchi,2018.0,Biography Drama,7.3,7465
+423,Mrs. America,2020.0,Biography Drama History,7.9,7455
+424,Mao's Last Dancer,2009.0,Biography Drama Music,7.3,7380
+425,The Story of Adele H,1975.0,Biography Drama History,7.3,7317
+426,The Armstrong Lie,2013.0,Biography Documentary Sport,7.3,7221
+427,Roots,2016.0,Biography Drama History,7.9,7145
+428,Dear Diary,1993.0,Biography Comedy Drama,7.3,7116
+429,Barefoot Gen,1983.0,Animation Biography Drama,8.0,7105
+430,Fellini's Casanova,1976.0,Biography Drama History,7.2,7093
+431,The Prize Winner of Defiance  Ohio,2005.0,Biography Drama,7.3,7028
+432,Frances,1982.0,Biography Drama Romance,7.4,6984
+433,Listen to Me Marlon,2015.0,Biography Documentary,8.2,6970
+434,The Kid Stays in the Picture,2002.0,Biography Documentary,7.3,6939
+435,Robin Williams: Come Inside My Mind,2018.0,Biography Comedy Documentary,8.0,6845
+436,Bobby Fischer Against the World,2011.0,Biography Documentary History,7.4,6780
+437,The Fear of 13,2015.0,Biography Crime Documentary,7.6,6778
+438,Get Me Roger Stone,2017.0,Biography Documentary,7.4,6669
+439,Veda - Atatürk,2010.0,Biography Drama History,7.2,6640
+440,An Angel at My Table,1990.0,Biography Drama,7.5,6636
+441,See You in Montevideo,2014.0,Adventure Biography Comedy,8.2,6610
+442,Red Army,2014.0,Biography Documentary History,7.6,6598
+443,My Name Ain't Johnny,2008.0,Biography Crime Drama,7.2,6595
+444,Tous les matins du monde,1991.0,Biography Drama History,7.5,6587
+445,Without Limits,1998.0,Biography Drama Sport,7.2,6569
+446,Whitney,2018.0,Biography Documentary Music,7.3,6568
+447,Assembly,2007.0,Action Biography Drama,7.3,6526
+448,Sybil,1976.0,Biography Drama,8.0,6416
+449,Danton,1983.0,Biography Drama History,7.5,6384
+450,Tarnation,2003.0,Biography Documentary,7.1,6376
+451,McQueen,2018.0,Biography Documentary,7.8,6301
+452,Avicii: True Stories,2017.0,Biography Documentary Music,7.6,6246
+453,Unsolved: The Murders of Tupac and the Notorious B.I.G.,2018.0,Biography Crime,7.9,6242
+454,Riphagen,2016.0,Biography Drama War,7.1,6207
+455,Elizabeth I,2005.0,Biography Drama History,7.9,6195
+456,Camille Claudel,1988.0,Biography Drama History,7.3,6139
+457,Lady Jane,1986.0,Biography Drama History,7.1,6104
+458,Aimee & Jaguar,1999.0,Biography Drama Romance,7.2,6083
+459,I Am Heath Ledger,2017.0,Biography Documentary,7.4,6080
+460,Michael the Brave,1971.0,Action Biography Drama,8.4,6072
+461,John Rabe,2009.0,Biography Drama History,7.2,6051
+462,A Woman in Berlin,2008.0,Biography Drama History,7.1,6007
+463,My All-American,2015.0,Biography Drama Sport,7.2,5984
+464,My Father's Glory,1990.0,Adventure Biography Drama,7.6,5977
+465,Borgia,2011.0,Biography Drama History,7.8,5964
+466,Aligarh,2015.0,Biography Drama,7.8,5931
+467,Molière,2007.0,Biography Comedy,7.2,5913
+468,Bogowie,2014.0,Biography Drama,7.7,5902
+469,Leto,2018.0,Biography Music Romance,7.3,5898
+470,Sour Apples,2016.0,Biography Comedy Drama,7.2,5883
+471,Trust,2018.0,Biography Crime Drama,7.5,5883
+472,Best of Enemies: Buckley vs. Vidal,2015.0,Biography Documentary History,7.6,5867
+473,Séraphine,2008.0,Biography Drama,7.4,5825
+474,Marina Abramovic: The Artist Is Present,2012.0,Biography Documentary History,7.9,5808
+475,The Dark Horse,2014.0,Biography Drama,7.5,5776
+476,Little Dieter Needs to Fly,1997.0,Biography Documentary Drama,8.0,5722
+477,The Filth and the Fury,2000.0,Biography Documentary Music,7.7,5586
+478,Music Within,2007.0,Biography Comedy Drama,7.3,5569
+479,The Times of Harvey Milk,1984.0,Biography Documentary History,8.3,5559
+480,Bose: Dead/Alive,2017.0,Biography History Mystery,8.8,5553
+481,Prick Up Your Ears,1987.0,Biography Drama,7.3,5538
+482,Another Country,1984.0,Biography Drama History,7.1,5365
+483,The U.S. vs. John Lennon,2006.0,Biography Documentary Music,7.3,5362
+484,The Seven Five,2014.0,Biography Crime Documentary,7.6,5315
+485,Mr. Death: The Rise and Fall of Fred A. Leuchter  Jr.,1999.0,Biography Documentary,7.5,5310
+486,Mrs. Wilson,2018.0,Biography Drama Mystery,7.4,5302
+487,Adolf Hitler: The Greatest Story Never Told,2013.0,Biography Documentary History,7.5,5231
+488,One Hundred Steps,2000.0,Biography Crime Drama,7.6,5224
+489,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019.0,Biography Documentary History,7.6,5195
+490,A Brief History of Time,1991.0,Biography Documentary,7.3,5168
+491,Bill Cunningham: New York,2010.0,Biography Documentary History,7.9,5155
+492,More Than a Game,2008.0,Biography Documentary Sport,7.6,5138
+493,Legend No. 17,2013.0,Biography Drama Sport,7.5,5120
+494,Electric Boogaloo: The Wild  Untold Story of Cannon Films,2014.0,Biography Documentary History,7.4,5119
+495,Dear Basketball,2017.0,Animation Biography Short,7.4,5111
+496,Team Foxcatcher,2016.0,Biography Crime Documentary,7.3,5103
+497,A Confession,2019.0,Biography Crime Drama,7.5,5077
+498,David Lynch: The Art Life,2016.0,Biography Documentary,7.2,5069
+499,100 Meters,2016.0,Biography Comedy Drama,7.5,5047
+500,The Rocket,2005.0,Biography Drama Sport,7.6,5027
+501,Pierrepoint: The Last Hangman,2005.0,Biography Crime Drama,7.4,5000
+502,Queen,2019.0,Biography Drama History,9.2,4989
+503,Janis: Little Girl Blue,2015.0,Biography Documentary Music,7.4,4983
+504,Endless Poetry,2016.0,Biography Drama Fantasy,7.6,4982
+505,De Palma,2015.0,Biography Documentary,7.4,4905
+506,Becoming Astrid,2018.0,Biography Drama,7.1,4891
+507,Dickinson,2019.0,Biography Comedy Drama,7.3,4882
+508,Anne Frank: The Whole Story,2001.0,Biography Drama War,8.0,4772
+509,Good Vibrations,2012.0,Biography Drama Music,7.2,4761
+510,My Mother's Castle,1990.0,Adventure Biography Comedy,7.6,4759
+511,American: The Bill Hicks Story,2009.0,Animation Biography Comedy,7.8,4756
+512,Fosse/Verdon,2019.0,Biography Drama Music,7.9,4755
+513,Iruvar,1997.0,Biography Drama,8.5,4735
+514,Casanova,2005.0,Biography Comedy Drama,7.9,4733
+515,Shut Up & Sing,2006.0,Biography Documentary Music,7.6,4718
+516,The People Vs. Fritz Bauer,2015.0,Biography Drama Thriller,7.1,4705
+517,A Bag of Marbles,2017.0,Biography Drama History,7.3,4701
+518,Baadasssss!,2003.0,Biography Drama,7.3,4699
+519,Twinsters,2015.0,Biography Documentary Family,7.5,4670
+520,The Crash Reel,2013.0,Biography Documentary Sport,8.2,4662
+521,Bound for Glory,1976.0,Biography Drama Music,7.3,4645
+522,Winnebago Man,2009.0,Biography Comedy Documentary,7.2,4601
+523,Imagine: John Lennon,1988.0,Biography Documentary Music,7.9,4590
+524,Unconditional,2012.0,Biography Crime Drama,7.2,4580
+525,Ennu Ninte Moideen,2015.0,Biography Drama Romance,8.0,4574
+526,Fleming,2014.0,Biography Drama Romance,7.3,4563
+527,The Fencer,2015.0,Biography Drama History,7.1,4563
+528,The Tillman Story,2010.0,Biography Documentary Mystery,7.7,4538
+529,Greater,2016.0,Biography Family Sport,7.3,4494
+530,Jane,2017.0,Biography Documentary,7.8,4494
+531,Cutie and the Boxer,2013.0,Biography Documentary,7.2,4478
+532,Soorma,2018.0,Biography Drama Sport,7.4,4449
+533,Ludwig,1973.0,Biography Drama History,7.6,4412
+534,Manufacturing Consent: Noam Chomsky and the Media,1992.0,Biography Documentary War,8.2,4396
+535,Nicholas and Alexandra,1971.0,Biography Drama History,7.2,4391
+536,Brian Banks,2018.0,Biography Drama Sport,7.2,4362
+537,Bandit Queen,1994.0,Biography Crime Drama,7.6,4359
+538,My Blind Date with Life,2017.0,Biography Comedy Drama,7.1,4355
+539,The First Grader,2010.0,Biography Drama Romance,7.4,4354
+540,Conor McGregor: Notorious,2017.0,Biography Documentary Sport,7.2,4299
+541,I Am Greta,2020.0,Biography Documentary,7.7,4275
+542,Beastie Boys Story,2020.0,Biography Documentary Music,7.8,4264
+543,Balzac and the Little Chinese Seamstress,2002.0,Biography Drama Romance,7.2,4256
+544,A Man Called Ahok,2018.0,Biography Drama,8.7,4253
+545,30 for 30,2009.0,Biography Documentary History,8.8,4246
+546,Sarbjit,2016.0,Biography Drama,7.3,4240
+547,Sweet Dreams,1985.0,Biography Drama Music,7.1,4186
+548,Iris,2014.0,Biography Documentary History,7.2,4166
+549,Rush: Beyond the Lighted Stage,2010.0,Biography Documentary Music,8.4,4152
+550,Brother Sun  Sister Moon,1972.0,Biography Drama History,7.2,4135
+551,The Heist of the Century,2020.0,Biography Comedy Crime,7.2,4129
+552,Napoléon,2002.0,Adventure Biography Drama,7.4,4110
+553,The Enfield Haunting,2015.0,Biography Drama Horror,7.1,4098
+554,Selam: Bahara Yolculuk,2015.0,Biography Drama History,7.8,4090
+555,Rangbaaz,2018.0,Action Biography Crime,8.4,4057
+556,Bingo: The King of the Mornings,2017.0,Biography Comedy Drama,8.0,4056
+557,The Return of Martin Guerre,1982.0,Biography Crime Drama,7.4,4021
+558,The Temptations,1998.0,Biography Drama Music,8.5,4007
+559,The Naked Director,2019.0,Biography Drama,7.8,4002
+560,The Happiest Day in the Life of Olli Maki,2016.0,Biography Drama Romance,7.2,3998
+561,House of Saddam,2008.0,Biography Drama History,7.5,3991
+562,Farouk Omar,2012.0,Biography Drama History,9.1,3990
+563,Pablo Escobar: El Patrón del Mal,2012.0,Biography Crime Drama,8.5,3985
+564,Saand Ki Aankh,2019.0,Biography Drama,7.8,3934
+565,Mary  Queen of Scots,1971.0,Biography Drama History,7.2,3931
+566,Felix Manalo,2015.0,Biography,7.8,3886
+567,Rakhta Charitra,2010.0,Action Biography Crime,7.6,3862
+568,Daens,1992.0,Biography Drama History,7.5,3841
+569,For the Love of Spock,2016.0,Biography Documentary,7.6,3837
+570,The Putin Interviews,2017.0,Biography Documentary,7.5,3837
+571,Five Came Back,2017.0,Biography Documentary History,8.3,3787
+572,Williams,2017.0,Biography Documentary Sport,7.6,3783
+573,My Brilliant Career,1979.0,Biography Drama Romance,7.1,3758
+574,Lady Sings the Blues,1972.0,Biography Drama Music,7.1,3752
+575,Joe Strummer: The Future Is Unwritten,2007.0,Biography Documentary Music,7.6,3750
+576,Iverson,2014.0,Biography Documentary Sport,7.1,3727
+577,Manhunt,2019.0,Biography Crime Drama,7.4,3700
+578,Maidentrip,2013.0,Adventure Biography Documentary,7.5,3681
+579,Padre Padrone,1977.0,Biography Drama,7.4,3671
+580,The Murders at White House Farm,2020.0,Biography Crime Drama,7.4,3658
+581,Manto,2018.0,Biography Drama,7.4,3653
+582,Messi,2014.0,Biography Documentary Sport,7.3,3605
+583,Joan Rivers: A Piece of Work,2010.0,Biography Comedy Documentary,7.4,3582
+584,Elvis,2005.0,Biography Drama Music,7.3,3558
+585,I Am Ali,2014.0,Biography Documentary Sport,7.2,3555
+586,Accused,2014.0,Biography Crime Drama,7.1,3554
+587,End of the Century,2003.0,Biography Documentary Music,8.0,3552
+588,Trump: An American Dream,2017.0,Biography Documentary,7.2,3544
+589,Z: The Beginning of Everything,2015.0,Biography Drama,7.1,3543
+590,Quincy,2018.0,Biography Documentary,7.6,3542
+591,Thirty Two Short Films About Glenn Gould,1993.0,Biography Drama Music,7.4,3531
+592,A Band Called Death,2012.0,Biography Documentary Music,7.5,3531
+593,The Men Who Built America,2012.0,Biography Documentary History,8.6,3526
+594,The Last Family,2016.0,Biography Drama,7.5,3509
+595,Muscle Shoals,2013.0,Biography Documentary History,7.7,3481
+596,The Great Train Robbery,2013.0,Biography Crime Drama,7.4,3444
+597,Marwencol,2010.0,Biography Documentary Fantasy,7.6,3403
+598,Is the Man Who Is Tall Happy?,2013.0,Animation Biography Documentary,7.1,3375
+599,Marina,2013.0,Biography Drama Music,7.2,3359
+600,Facing Ali,2009.0,Biography Documentary Sport,8.0,3356
+601,Nanking,2007.0,Biography History War,7.6,3349
+602,Queen of the Mountains,2014.0,Action Biography Drama,7.3,3346
+603,Bukowski: Born into This,2003.0,Biography Documentary,7.9,3341
+604,The Beaches of Agnès,2008.0,Biography Documentary,8.0,3329
+605,Antarctica: A Year on Ice,2013.0,Adventure Biography Documentary,7.6,3321
+606,Bombshell: The Hedy Lamarr Story,2017.0,Biography Documentary History,7.4,3294
+607,The Last Man on the Moon,2014.0,Adventure Biography Documentary,7.4,3272
+608,Yatra,2018.0,Biography Drama Romance,8.2,3255
+609,Il capo dei capi,2007.0,Biography Crime Drama,8.5,3243
+610,Gangland Undercover,2015.0,Biography Crime Drama,8.2,3231
+611,Wu-Tang: An American Saga,2019.0,Biography Drama,8.2,3224
+612,The Keeper,2018.0,Biography Drama Romance,7.2,3212
+613,Three Girls,2017.0,Biography Crime Drama,8.2,3200
+614,Be Here Now,2015.0,Biography Documentary Drama,8.6,3200
+615,I Am Chris Farley,2015.0,Biography Documentary,7.5,3186
+616,Only the Dead,2015.0,Biography Documentary History,7.7,3182
+617,Swimming Upstream,2003.0,Biography Drama Sport,7.1,3179
+618,The Harmonists,1997.0,Biography Drama Music,7.1,3177
+619,Supermensch,2013.0,Biography Documentary Music,7.4,3152
+620,The Visual Bible: The Gospel of John,2003.0,Biography Drama History,7.7,3150
+621,I Am Bolt,2016.0,Biography Documentary Sport,7.1,3129
+622,Salvador (Puig Antich),2006.0,Biography Drama History,7.3,3127
+623,All This Mayhem,2014.0,Biography Documentary History,7.9,3117
+624,Beautiful Boxer,2004.0,Action Biography Drama,7.1,3096
+625,The Jacksons: An American Dream,1992.0,Biography Drama Music,7.5,3096
+626,The Great Jang-Geum,2003.0,Biography Drama History,8.5,3086
+627,Karenjit Kaur - The Untold Story of Sunny Leone,2018.0,Biography Drama,7.7,3080
+628,My Architect,2003.0,Biography Documentary,7.4,3069
+629,If a Tree Falls: A Story of the Earth Liberation Front,2011.0,Biography Crime Documentary,7.2,3064
+630,The Island,2007.0,Action Biography Drama,7.7,3063
+631,The Art of Loving: Story of Michalina Wislocka,2017.0,Biography Comedy Drama,7.1,3054
+632,Prophet Joseph,2008.0,Biography Drama History,7.2,2964
+633,Tab Hunter Confidential,2015.0,Biography Documentary,7.7,2935
+634,The Best Intentions,1992.0,Biography Drama Romance,7.8,2933
+635,A Home of Our Own,1993.0,Biography Drama,7.1,2926
+636,Harley and the Davidsons,2016.0,Biography,8.2,2925
+637,Hitler's Circle of Evil,2018.0,Biography Documentary History,8.0,2917
+638,For Life,2020.0,Biography Crime Drama,7.6,2879
+639,Shaka Zulu,1986.0,Action Biography Drama,7.7,2872
+640,All About Me,2018.0,Biography Comedy Drama,7.4,2870
+641,Hated: GG Allin & the Murder Junkies,1993.0,Biography Documentary Music,7.3,2868
+642,The Long Day Closes,1992.0,Biography Drama,7.4,2844
+643,The Diary of Anne Frank,2009.0,Biography Drama History,7.5,2844
+644,Mokhtarnameh,2010.0,Biography Drama History,7.5,2819
+645,The Resurrection of Jake the Snake,2015.0,Biography Documentary Drama,7.9,2818
+646,Nas: Time Is Illmatic,2014.0,Biography Documentary History,7.1,2816
+647,Luis Miguel: The Series,2018.0,Biography Drama History,8.1,2808
+648,Angels of the Universe,2000.0,Biography Drama,7.5,2803
+649,Superstar: The Karen Carpenter Story,1988.0,Biography Drama Music,7.8,2798
+650,Stop at Nothing: The Lance Armstrong Story,2014.0,Biography Documentary Sport,7.5,2788
+651,Eftihia,2019.0,Biography,8.1,2768
+652,The Virgin Queen,2005.0,Biography Drama History,7.6,2753
+653,Ryan,2004.0,Animation Biography Documentary,7.5,2746
+654,Sacco & Vanzetti,1971.0,Biography Crime Drama,7.8,2743
+655,Filmworker,2017.0,Biography Documentary,7.4,2726
+656,The Punk Singer,2013.0,Biography Documentary Music,7.4,2713
+657,Van Gogh,1991.0,Biography Drama,7.2,2708
+658,Jinnah,1998.0,Biography Drama War,8.0,2688
+659,Colonel Redl,1985.0,Biography Drama History,7.6,2681
+660,Secret Honor,1984.0,Biography Comedy Drama,7.3,2662
+661,Madame Satã,2002.0,Biography Crime Drama,7.1,2656
+662,Ekvtime: Man of God,2018.0,Biography Drama History,8.9,2655
+663,Rembetiko,1983.0,Biography Drama History,8.2,2639
+664,Dancer,2016.0,Biography Documentary,7.9,2636
+665,Klitschko,2011.0,Biography Documentary Sport,7.7,2622
+666,The Long Road Home,2017.0,Action Biography Drama,7.5,2591
+667,Who Took Johnny,2014.0,Biography Documentary,7.2,2586
+668,Pavarotti,2019.0,Biography Documentary Music,7.5,2579
+669,The New Edition Story,2017.0,Biography Drama Music,8.9,2572
+670,The Green Prince,2014.0,Biography Documentary,7.2,2572
+671,Shackleton,2002.0,Adventure Biography Drama,7.6,2569
+672,Painted Fire,2002.0,Biography Drama History,7.2,2555
+673,Zenne Dancer,2011.0,Biography Drama Romance,7.2,2509
+674,Omerta,2017.0,Action Biography Crime,7.2,2508
+675,Kerala Varma Pazhassi Raja,2009.0,Action Biography Drama,7.6,2482
+676,Gascoigne,2015.0,Biography Documentary Sport,7.1,2477
+677,A Time to Live and a Time to Die,1985.0,Biography Drama,7.7,2474
+678,Joseph,1995.0,Adventure Biography Drama,7.6,2474
+679,Code of a Killer,2015.0,Biography Crime Drama,7.6,2471
+680,Make Us Dream,2018.0,Biography Documentary Sport,8.0,2441
+681,Jaatishwar,2014.0,Biography Drama History,8.0,2438
+682,Variações: Guardian Angel,2019.0,Biography Drama Music,7.2,2433
+683,Becoming Bond,2017.0,Biography Comedy Documentary,7.5,2393
+684,To Catch a Killer,1992.0,Biography Crime Drama,7.4,2392
+685,Promise at Dawn,2017.0,Biography Drama Romance,7.2,2389
+686,The Wildest Dream,2010.0,Biography Documentary,7.3,2365
+687,Sherman's March,1985.0,Biography Comedy Documentary,7.3,2347
+688,Roots: The Next Generations,1979.0,Biography Drama History,7.8,2342
+689,Crossfire Hurricane,2012.0,Biography Documentary Music,7.4,2341
+690,The Music Lovers,1971.0,Biography Comedy Drama,7.2,2336
+691,José and Pilar,2010.0,Biography Documentary,8.3,2318
+692,The Great Ecstasy of Woodcarver Steiner,1974.0,Biography Documentary Sport,7.7,2282
+693,TIME: The Kalief Browder Story,2017.0,Biography Documentary,8.5,2229
+694,Jacob's Kingdom of Heaven,2016.0,Biography Drama Family,7.6,2189
+695,Nise: The Heart of Madness,2015.0,Biography Drama History,7.7,2189
+696,Rich Hill,2014.0,Biography Documentary Drama,7.2,2187
+697,Marathon,2005.0,Biography Drama Sport,7.7,2178
+698,Manny,2014.0,Biography Documentary Sport,7.1,2168
+699,The Conductor,2018.0,Biography Drama,7.2,2160
+700,Harishchandrachi Factory,2009.0,Biography Comedy Drama,8.4,2151
+701,Bad Boy Billionaires: India,2020.0,Biography Crime Documentary,8.0,2141
+702,The Jesus Film,1979.0,Biography Drama Family,7.2,2127
+703,The Wonderful  Horrible Life of Leni Riefenstahl,1993.0,Biography Documentary History,8.3,2120
+704,The Roosevelts: An Intimate History,2014.0,Biography Documentary History,8.8,2102
+705,Lauf Junge lauf,2013.0,Action Biography Drama,7.2,2101
+706,Romero,1989.0,Biography Crime Drama,7.1,2098
+707,Chasing Trane: The John Coltrane Documentary,2016.0,Biography Documentary Music,7.3,2094
+708,Kano,2014.0,Biography Drama History,7.8,2094
+709,Violeta Went to Heaven,2011.0,Biography Drama Music,7.3,2092
+710,McLaren,2017.0,Biography Documentary Drama,7.3,2086
+711,Life with Judy Garland: Me and My Shadows,2001.0,Biography Drama Music,8.0,2080
+712,In the Realms of the Unreal,2004.0,Biography Documentary,7.3,2069
+713,My Beautiful Broken Brain,2014.0,Biography Documentary,7.1,2059
+714,Sinatra: All or Nothing at All,2015.0,Biography Documentary Music,8.0,2011
+715,Ingrid Bergman: In Her Own Words,2015.0,Biography Documentary,7.4,1996
+716,Blue,1993.0,Biography Drama,7.4,1992
+717,We Were Here,2011.0,Biography Documentary History,7.9,1976
+718,The Man Who Saved the World,2014.0,Biography Documentary Drama,7.6,1962
+719,India's Daughter,2015.0,Biography Crime Documentary,8.2,1961
+720,The Secret,2016.0,Biography Drama Thriller,7.2,1955
+721,The Book of the Three Hans,2006.0,Biography Drama History,7.9,1951
+722,Call Me Lucky,2015.0,Biography Comedy Documentary,7.6,1950
+723,Machan,2008.0,Biography Comedy Drama,7.9,1950
+724,Meesaya murukku,2017.0,Biography Comedy Drama,7.6,1948
+725,Chasing Happiness,2019.0,Biography Documentary Music,7.8,1931
+726,Boy Interrupted,2009.0,Biography Documentary Drama,7.9,1925
+727,The Inner Circle,1991.0,Biography Drama History,7.1,1914
+728,Of Time and the City,2008.0,Biography Documentary,7.3,1913
+729,Nowitzki: The Perfect Shot,2014.0,Biography Documentary Sport,7.6,1909
+730,The Wizard of Speed and Time,1988.0,Biography Comedy Musical,7.1,1891
+731,La Soufrière,1977.0,Biography Documentary Short,7.6,1891
+732,Linsanity,2013.0,Biography Documentary Sport,7.3,1891
+733,I Shouldn't Be Alive,2005.0,Biography Documentary Drama,8.1,1875
+734,Heneral Luna,2015.0,Action Biography History,7.6,1869
+735,Yunus Emre,2015.0,Biography History,7.9,1867
+736,Good Ol' Freda,2013.0,Biography Documentary History,7.3,1866
+737,Habibie & Ainun,2012.0,Biography Drama Romance,7.6,1863
+738,Champs,2014.0,Biography Documentary Sport,7.3,1859
+739,Eric Clapton: A Life in 12 Bars,2017.0,Biography Documentary Music,7.4,1858
+740,Mais Forte que o Mundo: A História de José Aldo,2016.0,Action Biography Drama,7.1,1858
+741,Milius,2013.0,Biography Documentary Drama,7.5,1848
+742,Isabel,2011.0,Biography History,8.3,1839
+743,God Bless Ozzy Osbourne,2011.0,Biography Documentary Music,7.5,1822
+744,Let's Get Lost,1988.0,Biography Documentary Music,7.9,1815
+745,Mystify: Michael Hutchence,2019.0,Biography Documentary Music,7.3,1815
+746,Trotsky,2017.0,Biography Drama History,7.1,1807
+747,Lumumba,2000.0,Biography Drama History,7.2,1804
+748,The Two Escobars,2010.0,Biography Documentary Sport,8.2,1791
+749,Another Day of Life,2018.0,Animation Biography,7.3,1786
+750,The Arbor,2010.0,Biography Documentary Drama,7.3,1786
+751,The Bondage,2006.0,Biography Drama,8.2,1785
+752,The Hiding Place,1975.0,Biography Drama History,7.5,1784
+753,Guilty,2011.0,Biography Crime Drama,7.3,1778
+754,Elephant,2020.0,Adventure Biography Documentary,7.2,1772
+755,Tim Maia,2014.0,Biography Drama Music,7.2,1766
+756,Matangi/Maya/M.I.A,2018.0,Biography Documentary Music,7.5,1766
+757,The Chant of Jimmie Blacksmith,1978.0,Biography Crime Drama,7.3,1757
+758,Al-Zeer Salem,2000.0,Action Biography Drama,9.3,1751
+759,Madoff,2016.0,Biography Crime Drama,7.4,1746
+760,Center Stage,1991.0,Biography Drama Romance,7.5,1741
+761,Forest of the Gods,2005.0,Biography Drama War,7.8,1740
+762,The Grey Fox,1982.0,Biography Drama Romance,7.4,1732
+763,The Billionaire,2011.0,Biography Drama,7.8,1720
+764,Breaking the Limits,2017.0,Biography Drama Sport,7.5,1709
+765,Varda by Agnès,2019.0,Biography Documentary,7.9,1701
+766,Bloed  Zweet & Tranen,2015.0,Biography Drama Music,7.1,1692
+767,Xingu,2011.0,Action Adventure Biography,7.1,1690
+768,I Knew It Was You: Rediscovering John Cazale,2009.0,Biography Documentary Short,7.8,1686
+769,Entre Nous,1983.0,Biography Drama War,7.1,1684
+770,Elena,2012.0,Biography Documentary Drama,7.6,1680
+771,Love  Marilyn,2012.0,Biography Documentary,7.3,1680
+772,Annamayya,1997.0,Biography History Musical,8.0,1678
+773,Dream of Light,1992.0,Biography Documentary,7.8,1667
+774,The Mattei Affair,1972.0,Biography Drama History,7.6,1663
+775,The Puppetmaster,1993.0,Biography Drama War,7.2,1652
+776,An Unreasonable Man,2006.0,Biography Documentary,7.9,1647
+777,Imam Ali,1997.0,Biography Drama History,7.9,1645
+778,White Lightnin',2009.0,Biography Drama,7.1,1642
+779,American Playboy: The Hugh Hefner Story,2017.0,Biography Documentary Drama,7.5,1639
+780,Meeting Gorbachev,2018.0,Biography Documentary History,7.2,1638
+781,Marie's Story,2014.0,Biography Drama,7.5,1625
+782,Blind Spot. Hitler's Secretary,2002.0,Biography Documentary War,7.3,1612
+783,Phar Lap,1983.0,Biography Drama Family,7.3,1611
+784,Gundermann,2018.0,Biography Drama History,7.3,1610
+785,Dealt,2017.0,Biography Documentary,7.6,1608
+786,Party Monster,1998.0,Biography Documentary,7.3,1602
+787,Beltracchi: The Art of Forgery,2014.0,Biography Crime Documentary,7.2,1600
+788,Hawking,2013.0,Biography Comedy Documentary,7.3,1597
+789,Biography,1987.0,Biography Documentary,7.7,1595
+790,We Are Twisted Fucking Sister!,2014.0,Biography Comedy Documentary,7.1,1589
+791,Louis Cyr,2013.0,Biography Drama History,7.5,1585
+792,Gandhi  My Father,2007.0,Biography Drama History,7.3,1575
+793,American Experience,1988.0,Biography Documentary History,8.5,1559
+794,The Kingmaker,2019.0,Biography Documentary History,7.6,1552
+795,Traceroute,2016.0,Biography Comedy Documentary,7.1,1550
+796,Maria By Callas,2017.0,Biography Documentary Music,7.2,1548
+797,Monty Python: Almost the Truth - The Lawyer's Cut,2009.0,Biography Documentary,8.1,1547
+798,What's My Name: Muhammad Ali,2019.0,Biography Documentary Sport,8.4,1544
+799,Jimi Hendrix,1973.0,Biography Documentary Music,7.8,1528
+800,The Eyes of Tammy Faye,2000.0,Biography Documentary,7.1,1510
+801,Elizabeth R,1971.0,Biography Drama History,8.7,1505
+802,Linda Ronstadt: The Sound of My Voice,2019.0,Biography Documentary Music,8.0,1505

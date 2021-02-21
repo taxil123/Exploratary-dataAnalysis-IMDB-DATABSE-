@@ -1,0 +1,818 @@
+,primaryTitle,startYear,genres,averageRating,numVotes
+1,The Dark Knight,2008.0,"Action,Crime,Drama",9.0,2281238
+2,Inception,2010.0,"Action,Adventure,Sci-Fi",8.8,2044509
+6,Game of Thrones,2011.0,"Action,Adventure,Drama",9.3,1740241
+7,The Matrix,1999.0,"Action,Sci-Fi",8.7,1659581
+8,The Lord of the Rings: The Fellowship of the Ring,2001.0,"Action,Adventure,Drama",8.8,1644281
+9,The Lord of the Rings: The Return of the King,2003.0,"Action,Adventure,Drama",8.9,1627929
+11,The Dark Knight Rises,2012.0,"Action,Adventure",8.4,1503351
+13,The Lord of the Rings: The Two Towers,2002.0,"Action,Adventure,Drama",8.7,1471722
+17,Gladiator,2000.0,"Action,Adventure,Drama",8.5,1329009
+18,Batman Begins,2005.0,"Action,Adventure",8.2,1297334
+21,The Avengers,2012.0,"Action,Adventure,Sci-Fi",8.0,1253066
+23,Star Wars: Episode IV - A New Hope,1977.0,"Action,Adventure,Fantasy",8.6,1220415
+28,Star Wars: Episode V - The Empire Strikes Back,1980.0,"Action,Adventure,Fantasy",8.7,1148492
+33,Avatar,2009.0,"Action,Adventure,Fantasy",7.8,1112243
+37,Guardians of the Galaxy,2014.0,"Action,Adventure,Comedy",8.0,1035489
+39,Léon: The Professional,1994.0,"Action,Crime,Drama",8.5,1025329
+40,V for Vendetta,2005.0,"Action,Drama,Sci-Fi",8.2,1025052
+41,Pirates of the Caribbean: The Curse of the Black Pearl,2003.0,"Action,Adventure,Fantasy",8.0,1010026
+43,Kill Bill: Vol. 1,2003.0,"Action,Crime,Thriller",8.1,992089
+45,Terminator 2: Judgment Day,1991.0,"Action,Sci-Fi",8.5,988268
+48,Star Wars: Episode VI - Return of the Jedi,1983.0,"Action,Adventure,Fantasy",8.3,941452
+51,Iron Man,2008.0,"Action,Adventure,Sci-Fi",7.9,931949
+59,Deadpool,2016.0,"Action,Adventure,Comedy",8.0,895180
+62,Raiders of the Lost Ark,1981.0,"Action,Adventure",8.4,877296
+63,Mad Max: Fury Road,2015.0,"Action,Adventure,Sci-Fi",8.1,872606
+64,Jurassic Park,1993.0,"Action,Adventure,Sci-Fi",8.1,859872
+65,Star Wars: Episode VII - The Force Awakens,2015.0,"Action,Adventure,Sci-Fi",7.9,854142
+71,The Hunger Games,2012.0,"Action,Adventure,Sci-Fi",7.2,839890
+72,Avengers: Infinity War,2018.0,"Action,Adventure,Sci-Fi",8.4,819599
+77,The Terminator,1984.0,"Action,Sci-Fi",8.0,795539
+80,Avengers: Endgame,2019.0,"Action,Adventure,Drama",8.4,788369
+82,Die Hard,1988.0,"Action,Thriller",8.2,779593
+92,Iron Man 3,2013.0,"Action,Adventure,Sci-Fi",7.1,749153
+96,Avengers: Age of Ultron,2015.0,"Action,Adventure,Sci-Fi",7.3,733737
+97,Captain America: The Winter Soldier,2014.0,"Action,Adventure,Sci-Fi",7.7,729382
+98,300,2006.0,"Action,Drama",7.6,728950
+106,Star Wars: Episode III - Revenge of the Sith,2005.0,"Action,Adventure,Fantasy",7.5,704614
+109,The Revenant,2015.0,"Action,Adventure,Drama",8.0,697497
+112,Blade Runner,1982.0,"Action,Sci-Fi,Thriller",8.1,688180
+113,Indiana Jones and the Last Crusade,1989.0,"Action,Adventure",8.2,686939
+114,Spider-Man,2002.0,"Action,Adventure,Sci-Fi",7.3,683262
+115,I Am Legend,2007.0,"Action,Adventure,Drama",7.2,681941
+117,Kill Bill: Vol. 2,2004.0,"Action,Crime,Thriller",8.0,678345
+119,How to Train Your Dragon,2010.0,"Action,Adventure,Animation",8.1,660996
+121,X-Men: Days of Future Past,2014.0,"Action,Adventure,Sci-Fi",7.9,656376
+122,Captain America: Civil War,2016.0,"Action,Adventure,Sci-Fi",7.8,656093
+123,The Incredibles,2004.0,"Action,Adventure,Animation",8.0,651527
+124,Pirates of the Caribbean: Dead Man's Chest,2006.0,"Action,Adventure,Fantasy",7.3,651157
+125,Aliens,1986.0,"Action,Adventure,Sci-Fi",8.3,648284
+127,X-Men: First Class,2011.0,"Action,Adventure,Sci-Fi",7.7,642424
+129,Logan,2017.0,"Action,Drama,Sci-Fi",8.1,640527
+131,District 9,2009.0,"Action,Sci-Fi,Thriller",7.9,635471
+137,Skyfall,2012.0,"Action,Adventure,Thriller",7.7,626838
+139,Black Panther,2018.0,"Action,Adventure,Sci-Fi",7.3,617869
+143,The Hunger Games: Catching Fire,2013.0,"Action,Adventure,Mystery",7.5,610090
+146,The Bourne Ultimatum,2007.0,"Action,Mystery,Thriller",8.0,602129
+149,Edge of Tomorrow,2014.0,"Action,Adventure,Sci-Fi",7.9,595094
+153,Pirates of the Caribbean: At World's End,2007.0,"Action,Adventure,Fantasy",7.1,591651
+154,Doctor Strange,2016.0,"Action,Adventure,Fantasy",7.5,590613
+156,Kingsman: The Secret Service,2014.0,"Action,Adventure,Comedy",7.7,586370
+158,Sherlock Holmes,2009.0,"Action,Adventure,Mystery",7.6,579661
+159,Thor: Ragnarok,2017.0,"Action,Adventure,Comedy",7.9,578699
+160,Casino Royale,2006.0,"Action,Adventure,Thriller",8.0,578202
+163,Star Trek,2009.0,"Action,Adventure,Sci-Fi",7.9,575199
+170,X-Men,2000.0,"Action,Adventure,Sci-Fi",7.4,567547
+172,Ant-Man,2015.0,"Action,Adventure,Comedy",7.3,563747
+173,Taken,2008.0,"Action,Thriller",7.8,562339
+174,Guardians of the Galaxy Vol. 2,2017.0,"Action,Adventure,Comedy",7.6,562296
+175,Rogue One: A Star Wars Story,2016.0,"Action,Adventure,Sci-Fi",7.8,548443
+177,Dunkirk,2017.0,"Action,Drama,History",7.9,546468
+178,Wonder Woman,2017.0,"Action,Adventure,Fantasy",7.4,545487
+182,Spider-Man 2,2004.0,"Action,Adventure,Sci-Fi",7.3,539812
+185,John Wick,2014.0,"Action,Crime,Thriller",7.4,531823
+186,Looper,2012.0,"Action,Drama,Sci-Fi",7.4,531647
+187,"Lock, Stock and Two Smoking Barrels",1998.0,"Action,Comedy,Crime",8.2,531346
+191,Kick-Ass,2010.0,"Action,Comedy,Crime",7.6,522016
+199,Men in Black,1997.0,"Action,Adventure,Comedy",7.3,512868
+202,The Matrix Reloaded,2003.0,"Action,Sci-Fi",7.2,512016
+203,Oldboy,2003.0,"Action,Drama,Mystery",8.4,510315
+205,X2: X-Men United,2003.0,"Action,Adventure,Sci-Fi",7.4,508970
+207,21 Jump Street,2012.0,"Action,Comedy,Crime",7.2,507628
+208,The Bourne Identity,2002.0,"Action,Mystery,Thriller",7.9,505287
+209,Spider-Man: Homecoming,2017.0,"Action,Adventure,Sci-Fi",7.4,505050
+210,Minority Report,2002.0,"Action,Crime,Mystery",7.6,504907
+211,Harry Potter and the Order of the Phoenix,2007.0,"Action,Adventure,Family",7.5,504831
+213,Watchmen,2009.0,"Action,Drama,Mystery",7.6,497774
+216,"I, Robot",2004.0,"Action,Drama,Sci-Fi",7.1,496023
+218,Rise of the Planet of the Apes,2011.0,"Action,Drama,Sci-Fi",7.6,493889
+225,Source Code,2011.0,"Action,Drama,Mystery",7.5,481771
+229,Deadpool 2,2018.0,"Action,Adventure,Comedy",7.7,472165
+230,Prison Break,2005.0,"Action,Crime,Drama",8.3,470479
+236,Harry Potter and the Half-Blood Prince,2009.0,"Action,Adventure,Family",7.6,468475
+241,Star Trek Into Darkness,2013.0,"Action,Adventure,Sci-Fi",7.7,461396
+242,Hot Fuzz,2007.0,"Action,Comedy,Mystery",7.8,460325
+247,Mission: Impossible - Ghost Protocol,2011.0,"Action,Adventure,Thriller",7.4,454677
+248,Blade Runner 2049,2017.0,"Action,Drama,Mystery",8.0,454150
+251,Indiana Jones and the Temple of Doom,1984.0,"Action,Adventure",7.6,445284
+259,American Sniper,2014.0,"Action,Biography,Drama",7.3,436027
+260,Baby Driver,2017.0,"Action,Crime,Music",7.6,432992
+261,Warrior,2011.0,"Action,Drama,Sport",8.2,432951
+263,The Bourne Supremacy,2004.0,"Action,Mystery,Thriller",7.7,432129
+264,The Fifth Element,1997.0,"Action,Adventure,Sci-Fi",7.7,431085
+265,Rush,2013.0,"Action,Biography,Drama",8.1,429357
+272,Fury,2014.0,"Action,Drama,War",7.6,422081
+276,Sherlock Holmes: A Game of Shadows,2011.0,"Action,Adventure,Mystery",7.5,418341
+282,Vikings,2013.0,"Action,Adventure,Drama",8.5,416303
+284,Kung Fu Panda,2008.0,"Action,Adventure,Animation",7.5,415964
+290,Dawn of the Planet of the Apes,2014.0,"Action,Adventure,Drama",7.6,409862
+291,Big Hero 6,2014.0,"Action,Adventure,Animation",7.8,407073
+293,Arrow,2012.0,"Action,Adventure,Crime",7.5,405203
+302,The Last Samurai,2003.0,"Action,Drama",7.7,397352
+306,King Kong,2005.0,"Action,Adventure,Drama",7.2,388244
+309,Live Free or Die Hard,2007.0,"Action,Thriller",7.1,387244
+312,Mission: Impossible,1996.0,"Action,Adventure,Thriller",7.1,385128
+317,Scott Pilgrim vs. the World,2010.0,"Action,Comedy,Fantasy",7.5,375433
+322,Band of Brothers,2001.0,"Action,Drama,History",9.4,369909
+326,Predator,1987.0,"Action,Adventure,Sci-Fi",7.8,368973
+328,Sicario,2015.0,"Action,Crime,Drama",7.6,367424
+330,Fast & Furious 6,2013.0,"Action,Adventure,Thriller",7.1,366417
+338,Ready Player One,2018.0,"Action,Adventure,Sci-Fi",7.5,363363
+339,Spider-Man: Into the Spider-Verse,2018.0,"Action,Adventure,Animation",8.4,363079
+343,Die Hard with a Vengeance,1995.0,"Action,Adventure,Thriller",7.6,361217
+344,John Wick: Chapter 2,2017.0,"Action,Crime,Thriller",7.5,361125
+348,Daredevil,2015.0,"Action,Crime,Drama",8.6,358458
+351,Furious 7,2015.0,"Action,Adventure,Thriller",7.1,357151
+357,Ghostbusters,1984.0,"Action,Comedy,Fantasy",7.8,352754
+359,Fast Five,2011.0,"Action,Adventure,Crime",7.3,350496
+363,Face/Off,1997.0,"Action,Crime,Sci-Fi",7.2,347228
+365,Cloud Atlas,2012.0,"Action,Drama,Mystery",7.4,343209
+367,The Game,1997.0,"Action,Drama,Mystery",7.8,342152
+370,Mission: Impossible - Rogue Nation,2015.0,"Action,Adventure,Thriller",7.4,339439
+373,Batman,1989.0,"Action,Adventure",7.5,336288
+376,Die Hard 2,1990.0,"Action,Thriller",7.2,334150
+381,The Equalizer,2014.0,"Action,Crime,Thriller",7.2,330561
+391,Man on Fire,2004.0,"Action,Crime,Drama",7.7,327311
+392,Speed,1994.0,"Action,Adventure,Thriller",7.2,326204
+394,The Lego Movie,2014.0,"Action,Adventure,Animation",7.7,322328
+404,Spider-Man: Far from Home,2019.0,"Action,Adventure,Sci-Fi",7.5,316553
+407,Snowpiercer,2013.0,"Action,Drama,Sci-Fi",7.1,314895
+410,The Rock,1996.0,"Action,Adventure,Thriller",7.4,311882
+412,Equilibrium,2002.0,"Action,Drama,Sci-Fi",7.4,310334
+416,Shooter,2007.0,"Action,Drama,Thriller",7.2,308715
+420,Ant-Man and the Wasp,2018.0,"Action,Adventure,Comedy",7.1,303966
+422,How to Train Your Dragon 2,2014.0,"Action,Adventure,Animation",7.8,302824
+423,The Flash,2014.0,"Action,Adventure,Drama",7.7,302785
+425,Total Recall,1990.0,"Action,Sci-Fi,Thriller",7.5,300239
+427,Lucky Number Slevin,2006.0,"Action,Crime,Drama",7.7,298556
+429,Real Steel,2011.0,"Action,Drama,Sci-Fi",7.1,296803
+434,Lord of War,2005.0,"Action,Crime,Drama",7.6,292633
+437,Deja Vu,2006.0,"Action,Crime,Sci-Fi",7.1,291527
+439,Apocalypto,2006.0,"Action,Adventure,Drama",7.8,289376
+443,10 Cloverfield Lane,2016.0,"Action,Drama,Horror",7.2,288042
+446,Mission: Impossible - Fallout,2018.0,"Action,Adventure,Thriller",7.7,287838
+447,3:10 to Yuma,2007.0,"Action,Crime,Drama",7.7,287105
+449,The Witcher,2019.0,"Action,Adventure,Fantasy",8.2,286028
+451,Money Heist,2017.0,"Action,Crime,Mystery",8.3,285601
+454,From Dusk Till Dawn,1996.0,"Action,Crime,Horror",7.2,284906
+457,Serenity,2005.0,"Action,Adventure,Sci-Fi",7.8,282124
+461,Ford v Ferrari,2019.0,"Action,Biography,Drama",8.1,279264
+467,The Nice Guys,2016.0,"Action,Comedy,Crime",7.4,276459
+475,The Man from U.N.C.L.E.,2015.0,"Action,Adventure,Comedy",7.3,271405
+479,Law Abiding Citizen,2009.0,"Action,Crime,Drama",7.4,269780
+480,John Wick: Chapter 3 - Parabellum,2019.0,"Action,Crime,Thriller",7.4,269336
+483,Starship Troopers,1997.0,"Action,Adventure,Sci-Fi",7.2,267700
+486,The Fugitive,1993.0,"Action,Crime,Drama",7.8,265588
+487,Kingdom of Heaven,2005.0,"Action,Adventure,Drama",7.2,265473
+491,Lone Survivor,2013.0,"Action,Biography,Drama",7.5,264547
+496,The Accountant,2016.0,"Action,Crime,Drama",7.3,257879
+502,The Patriot,2000.0,"Action,Drama,History",7.2,253158
+506,"Crouching Tiger, Hidden Dragon",2000.0,"Action,Adventure,Fantasy",7.8,251668
+507,Kung Fu Panda 2,2011.0,"Action,Adventure,Animation",7.2,251477
+512,Predestination,2014.0,"Action,Drama,Sci-Fi",7.5,250275
+513,Shazam!,2019.0,"Action,Adventure,Comedy",7.1,249406
+514,Dredd,2012.0,"Action,Crime,Sci-Fi",7.1,249292
+518,Incredibles 2,2018.0,"Action,Adventure,Animation",7.6,245670
+525,Blade,1998.0,"Action,Horror,Sci-Fi",7.1,243346
+532,Avatar: The Last Airbender,2005.0,"Action,Adventure,Animation",9.2,241138
+542,GoldenEye,1995.0,"Action,Adventure,Thriller",7.2,237488
+545,The Mandalorian,2019.0,"Action,Adventure,Sci-Fi",8.7,236166
+546,True Lies,1994.0,"Action,Adventure,Comedy",7.2,236054
+549,Lethal Weapon,1987.0,"Action,Crime,Thriller",7.6,235061
+554,RocknRolla,2008.0,"Action,Crime,Thriller",7.3,234545
+560,Dawn of the Dead,2004.0,"Action,Horror",7.3,233023
+566,RoboCop,1987.0,"Action,Crime,Sci-Fi",7.5,231415
+578,End of Watch,2012.0,"Action,Crime,Drama",7.6,226744
+579,Megamind,2010.0,"Action,Animation,Comedy",7.2,226552
+580,Eastern Promises,2007.0,"Action,Crime,Drama",7.6,226398
+581,The Boondock Saints,1999.0,"Action,Crime,Thriller",7.8,226293
+582,Star Trek Beyond,2016.0,"Action,Adventure,Sci-Fi",7.1,226155
+583,War for the Planet of the Apes,2017.0,"Action,Adventure,Drama",7.4,225846
+585,Enemy of the State,1998.0,"Action,Thriller",7.3,225778
+586,The Boys,2019.0,"Action,Comedy,Crime",8.7,225178
+588,First Blood,1982.0,"Action,Adventure",7.7,224632
+589,Alita: Battle Angel,2019.0,"Action,Adventure,Sci-Fi",7.3,224612
+590,Pitch Black,2000.0,"Action,Horror,Sci-Fi",7.1,224514
+599,Spartacus,2010.0,"Action,Adventure,Biography",8.5,221138
+609,Southpaw,2015.0,"Action,Drama,Sport",7.4,216030
+611,The Gentlemen,2019.0,"Action,Comedy,Crime",7.8,215660
+612,The Adventures of Tintin,2011.0,"Action,Adventure,Animation",7.3,215369
+613,Natural Born Killers,1994.0,"Action,Crime,Drama",7.3,215264
+627,Body of Lies,2008.0,"Action,Drama,Thriller",7.1,212302
+632,Munich,2005.0,"Action,Drama,History",7.5,211091
+635,Ip Man,2008.0,"Action,Biography,Drama",8.0,210228
+636,Gotham,2014.0,"Action,Crime,Drama",7.8,210155
+645,Tenet,2020.0,"Action,Sci-Fi",7.6,205706
+652,Rocky Balboa,2006.0,"Action,Drama,Sport",7.1,203010
+655,Hell or High Water,2016.0,"Action,Crime,Drama",7.6,202021
+657,Master and Commander: The Far Side of the World,2003.0,"Action,Adventure,Drama",7.4,200717
+660,Planet Terror,2007.0,"Action,Adventure,Comedy",7.1,199218
+667,Agents of S.H.I.E.L.D.,2013.0,"Action,Adventure,Drama",7.5,197657
+676,Everest,2015.0,"Action,Adventure,Biography",7.1,195533
+683,Jessica Jones,2015.0,"Action,Crime,Drama",7.9,191467
+690,The Raid: Redemption,2011.0,"Action,Thriller",7.6,189421
+702,The Karate Kid,1984.0,"Action,Drama,Family",7.3,185913
+708,The Blues Brothers,1980.0,"Action,Adventure,Comedy",7.9,181640
+709,The Next Three Days,2010.0,"Action,Crime,Drama",7.4,181220
+713,The Punisher,2017.0,"Action,Crime,Drama",8.5,180415
+715,El Camino: A Breaking Bad Movie,2019.0,"Action,Crime,Drama",7.3,179657
+718,The Hunt for Red October,1990.0,"Action,Adventure,Thriller",7.6,179195
+721,The Life Aquatic with Steve Zissou,2004.0,"Action,Adventure,Comedy",7.3,178653
+726,Grindhouse,2007.0,"Action,Horror,Thriller",7.5,177423
+737,Stargate,1994.0,"Action,Adventure,Sci-Fi",7.1,174298
+738,Hero,2002.0,"Action,Adventure,History",7.9,173344
+745,Ronin,1998.0,"Action,Crime,Thriller",7.3,171318
+748,The Iron Giant,1999.0,"Action,Adventure,Animation",8.0,170748
+750,Desperado,1995.0,"Action,Crime,Thriller",7.2,170400
+751,24,2001.0,"Action,Crime,Drama",8.3,170218
+753,Falling Down,1993.0,"Action,Crime,Drama",7.6,169863
+758,Battle Royale,2000.0,"Action,Adventure,Drama",7.6,168163
+769,Layer Cake,2004.0,"Action,Crime,Drama",7.3,165608
+770,The Crow,1994.0,"Action,Drama,Fantasy",7.6,165586
+771,Mad Max 2: The Road Warrior,1981.0,"Action,Adventure,Sci-Fi",7.6,165481
+773,REC,2007.0,"Action,Adventure,Fantasy",7.4,164659
+780,Akira,1988.0,"Action,Animation,Sci-Fi",8.0,163179
+783,Person of Interest,2011.0,"Action,Crime,Drama",8.4,162082
+784,Train to Busan,2016.0,"Action,Horror,Thriller",7.6,162054
+786,Beverly Hills Cop,1984.0,"Action,Comedy,Crime",7.3,162007
+788,Lethal Weapon 2,1989.0,"Action,Crime,Thriller",7.2,160878
+791,Three Kings,1999.0,"Action,Adventure,Comedy",7.1,159477
+793,Team America: World Police,2004.0,"Action,Comedy",7.2,158856
+795,Attack on Titan,2013.0,"Action,Adventure,Animation",8.8,158454
+796,Superman,1978.0,"Action,Adventure,Drama",7.3,158168
+799,American Made,2017.0,"Action,Comedy,Crime",7.2,157035
+800,Point Break,1991.0,"Action,Crime,Thriller",7.3,156642
+801,Upgrade,2018.0,"Action,Sci-Fi,Thriller",7.5,156251
+804,Rise of the Guardians,2012.0,"Action,Adventure,Animation",7.3,155576
+810,Dangal,2016.0,"Action,Biography,Drama",8.4,153462
+812,Letters from Iwo Jima,2006.0,"Action,Adventure,Drama",7.9,153377
+813,Rome,2005.0,"Action,Drama,History",8.7,153373
+819,Battlestar Galactica,2004.0,"Action,Adventure,Drama",8.7,151614
+823,The Umbrella Academy,2019.0,"Action,Adventure,Comedy",8.0,150944
+826,Deepwater Horizon,2016.0,"Action,Drama,History",7.1,150082
+832,The Last of the Mohicans,1992.0,"Action,Adventure,Drama",7.7,148259
+835,Unbroken,2014.0,"Action,Biography,Drama",7.2,147625
+836,Evil Dead II,1987.0,"Action,Comedy,Fantasy",7.8,147443
+840,War Horse,2011.0,"Action,Adventure,Drama",7.2,145946
+842,Spy Game,2001.0,"Action,Crime,Thriller",7.1,144214
+850,Dirty Harry,1971.0,"Action,Crime,Thriller",7.7,142285
+859,Allied,2016.0,"Action,Drama,Romance",7.1,139964
+862,Altered Carbon,2018.0,"Action,Drama,Sci-Fi",8.0,139708
+883,Defiance,2008.0,"Action,Drama,History",7.2,137352
+893,Archer,2009.0,"Action,Animation,Comedy",8.6,136219
+896,Memories of Murder,2003.0,"Action,Crime,Drama",8.1,135532
+907,Kung Fu Panda 3,2016.0,"Action,Adventure,Animation",7.1,132769
+908,9,2009.0,"Action,Adventure,Animation",7.1,132679
+919,Payback,1999.0,"Action,Crime,Drama",7.1,130811
+921,The Lego Batman Movie,2017.0,"Action,Animation,Comedy",7.3,130215
+925,The Negotiator,1998.0,"Action,Crime,Drama",7.3,129623
+927,We Were Soldiers,2002.0,"Action,Drama,History",7.2,129414
+928,Buffy the Vampire Slayer,1997.0,"Action,Drama,Fantasy",8.2,129179
+930,The Count of Monte Cristo,2002.0,"Action,Adventure,Drama",7.8,128259
+933,Ghost in the Shell,1995.0,"Action,Animation,Crime",8.0,127899
+940,Chuck,2007.0,"Action,Comedy,Drama",8.2,126589
+941,Kung Fu Hustle,2004.0,"Action,Comedy,Fantasy",7.7,126386
+944,Spartacus: Gods of the Arena,2011.0,"Action,Adventure,Biography",8.5,125825
+947,Tombstone,1993.0,"Action,Biography,Drama",7.8,125641
+951,Escape from New York,1981.0,"Action,Adventure,Sci-Fi",7.2,125142
+954,Teen Wolf,2011.0,"Action,Drama,Fantasy",7.6,124843
+960,Sicario: Day of the Soldado,2018.0,"Action,Adventure,Crime",7.1,123498
+970,Big Trouble in Little China,1986.0,"Action,Adventure,Comedy",7.3,122627
+976,Highlander,1986.0,"Action,Adventure,Fantasy",7.1,121139
+982,Escape from Alcatraz,1979.0,"Action,Biography,Crime",7.6,120115
+988,Bronson,2008.0,"Action,Biography,Crime",7.1,119524
+991,The Walk,2015.0,"Action,Adventure,Biography",7.3,119082
+995,NCIS,2003.0,"Action,Crime,Drama",7.7,117874
+997,13 Hours,2016.0,"Action,Drama,History",7.3,117540
+1000,Infernal Affairs,2002.0,"Action,Crime,Drama",8.0,117352
+1001,Star Trek: First Contact,1996.0,"Action,Adventure,Drama",7.6,117323
+1002,Kubo and the Two Strings,2016.0,"Action,Adventure,Animation",7.8,116977
+1009,Luke Cage,2016.0,"Action,Crime,Drama",7.3,115548
+1014,Fullmetal Alchemist: Brotherhood,2009.0,"Action,Adventure,Animation",9.1,114888
+1015,Empire of the Sun,1987.0,"Action,Drama,History",7.7,114747
+1022,The Raid 2,2014.0,"Action,Crime,Thriller",8.0,113628
+1029,Star Trek II: The Wrath of Khan,1982.0,"Action,Adventure,Sci-Fi",7.7,112038
+1032,One Punch Man,2015.0,"Action,Animation,Comedy",8.8,111605
+1033,Dragon Ball Z,1996.0,"Action,Adventure,Animation",8.7,111600
+1034,Ran,1985.0,"Action,Drama,War",8.2,111364
+1039,Dawn of the Dead,1978.0,"Action,Adventure,Horror",7.9,110956
+1041,Brothers,2009.0,"Action,Drama,Thriller",7.1,110764
+1048,I Saw the Devil,2010.0,"Action,Crime,Drama",7.8,109680
+1052,They Live,1988.0,"Action,Horror,Sci-Fi",7.3,109224
+1053,The French Connection,1971.0,"Action,Crime,Drama",7.7,109165
+1064,House of Flying Daggers,2004.0,"Action,Adventure,Drama",7.5,107358
+1073,The Host,2006.0,"Action,Drama,Horror",7.1,105997
+1080,The Mountain II,2016.0,"Action,Drama,War",8.8,104621
+1091,Okja,2017.0,"Action,Adventure,Drama",7.3,103009
+1097,Baahubali: The Beginning,2015.0,"Action,Drama",8.0,101896
+1101,How to Train Your Dragon: The Hidden World,2019.0,"Action,Adventure,Animation",7.5,101722
+1110,Crimson Tide,1995.0,"Action,Drama,Thriller",7.3,100999
+1113,Rescue Dawn,2006.0,"Action,Biography,Drama",7.3,100627
+1114,Brick,2005.0,"Action,Crime,Drama",7.3,100581
+1116,The Legend of Korra,2012.0,"Action,Adventure,Animation",8.4,100442
+1117,Willow,1988.0,"Action,Adventure,Drama",7.3,100278
+1118,Orphan Black,2013.0,"Action,Drama,Sci-Fi",8.3,100275
+1120,Star Trek: The Next Generation,1987.0,"Action,Adventure,Mystery",8.6,99658
+1127,The Pacific,2010.0,"Action,Adventure,Drama",8.3,98353
+1131,United 93,2006.0,"Action,Drama,History",7.5,98011
+1132,The Spy Who Loved Me,1977.0,"Action,Adventure,Thriller",7.1,97893
+1136,Elite Squad,2007.0,"Action,Crime,Drama",8.1,97592
+1141,Ip Man 2,2010.0,"Action,Biography,Drama",7.5,97099
+1145,Running Scared,2006.0,"Action,Crime,Drama",7.4,96656
+1146,Jo Nesbø's Headhunters,2011.0,"Action,Crime,Thriller",7.5,96412
+1152,Enter the Dragon,1973.0,"Action,Crime,Drama",7.7,95666
+1168,The Warriors,1979.0,"Action,Crime,Thriller",7.6,93207
+1179,In the Line of Fire,1993.0,"Action,Crime,Drama",7.2,91758
+1189,Patriots Day,2016.0,"Action,Crime,Drama",7.4,90413
+1190,WarGames,1983.0,"Action,Adventure,Drama",7.1,90181
+1191,Star Trek: Discovery,2017.0,"Action,Adventure,Drama",7.3,90105
+1200,The Defenders,2017.0,"Action,Adventure,Crime",7.3,89338
+1213,Cowboy Bebop,1998.0,"Action,Adventure,Animation",8.9,87629
+1217,Watchmen,2019.0,"Action,Drama,Mystery",8.1,87374
+1218,Grosse Pointe Blank,1997.0,"Action,Comedy,Crime",7.3,87330
+1221,Tom Clancy's Jack Ryan,2018.0,"Action,Drama,Thriller",8.1,87069
+1227,Batman: The Animated Series,1992.0,"Action,Adventure,Animation",9.0,86014
+1236,Justified,2010.0,"Action,Crime,Drama",8.6,85397
+1239,Banshee,2013.0,"Action,Crime,Drama",8.4,85370
+1242,Falling Skies,2011.0,"Action,Adventure,Drama",7.2,85047
+1252,Ghost Dog: The Way of the Samurai,1999.0,"Action,Crime,Drama",7.5,84077
+1254,Harry Brown,2009.0,"Action,Crime,Drama",7.2,83820
+1262,Killing Eve,2018.0,"Action,Adventure,Drama",8.3,83078
+1267,Stargate SG-1,1997.0,"Action,Adventure,Drama",8.4,82640
+1269,Cobra Kai,2018.0,"Action,Comedy,Drama",8.7,82550
+1279,Legion,2017.0,"Action,Drama,Sci-Fi",8.2,81751
+1283,The Last Kingdom,2015.0,"Action,Drama,History",8.4,81269
+1286,Gangs of Wasseypur,2012.0,"Action,Crime,Drama",8.2,81107
+1305,Naruto: Shippûden,2007.0,"Action,Adventure,Animation",8.6,79657
+1311,Elite Squad 2: The Enemy Within,2010.0,"Action,Crime,Drama",8.0,78870
+1314,Eye in the Sky,2015.0,"Action,Drama,Thriller",7.3,78691
+1315,The SpongeBob SquarePants Movie,2004.0,"Action,Adventure,Animation",7.1,78547
+1343,Adventure Time,2010.0,"Action,Adventure,Animation",8.6,75550
+1346,Midnight Run,1988.0,"Action,Comedy,Crime",7.5,75039
+1347,Designated Survivor,2016.0,"Action,Drama,Mystery",7.5,74982
+1354,Felon,2008.0,"Action,Crime,Thriller",7.4,74752
+1356,Baahubali 2: The Conclusion,2017.0,"Action,Drama",8.2,74262
+1360,Shaolin Soccer,2001.0,"Action,Comedy,Family",7.3,73916
+1361,Sacred Games,2018.0,"Action,Crime,Drama",8.7,73741
+1363,A Wednesday,2008.0,"Action,Crime,Drama",8.1,73474
+1375,Fearless,2006.0,"Action,Biography,Drama",7.6,72626
+1377,Agent Carter,2015.0,"Action,Adventure,Sci-Fi",7.9,72523
+1387,Bajrangi Bhaijaan,2015.0,"Action,Adventure,Comedy",8.0,71378
+1395,Ong-Bak: The Thai Warrior,2003.0,"Action,Crime,Thriller",7.2,70789
+1404,Star Trek VI: The Undiscovered Country,1991.0,"Action,Adventure,Sci-Fi",7.2,69897
+1415,Battlestar Galactica,2003.0,"Action,Adventure,Drama",8.6,68479
+1419,Naruto,2002.0,"Action,Adventure,Animation",8.3,68094
+1423,The Girl Who Kicked the Hornet's Nest,2009.0,"Action,Crime,Drama",7.3,67703
+1425,Burn Notice,2007.0,"Action,Crime,Drama",7.9,67660
+1428,Dragon Ball Z,1989.0,"Action,Adventure,Animation",8.7,67361
+1434,Nikita,1990.0,"Action,Thriller",7.3,66919
+1435,Strange Days,1995.0,"Action,Crime,Drama",7.2,66831
+1443,District B13,2004.0,"Action,Crime,Sci-Fi",7.2,66315
+1444,Open Range,2003.0,"Action,Drama,Romance",7.4,66299
+1446,Hawaii Five-0,2010.0,"Action,Crime,Drama",7.3,66207
+1448,Blindspot,2015.0,"Action,Crime,Drama",7.4,66037
+1457,Badlands,1973.0,"Action,Crime,Drama",7.8,65391
+1463,One Piece,1999.0,"Action,Adventure,Animation",8.7,65008
+1478,Ash vs Evil Dead,2015.0,"Action,Comedy,Fantasy",8.4,64137
+1480,Titans,2018.0,"Action,Adventure,Crime",7.7,64040
+1482,Angel,1999.0,"Action,Drama,Fantasy",7.9,63928
+1486,Celda 211,2009.0,"Action,Adventure,Crime",7.6,63539
+1504,The Man from Nowhere,2010.0,"Action,Crime,Drama",7.8,62201
+1513,13 Assassins,2010.0,"Action,Adventure,Drama",7.6,61607
+1519,Fullmetal Alchemist,2003.0,"Action,Adventure,Animation",8.5,61218
+1526,Stargate: Atlantis,2004.0,"Action,Adventure,Drama",8.1,60666
+1541,Friday Night Lights,2004.0,"Action,Drama,Sport",7.2,58704
+1548,Star Trek: Voyager,1995.0,"Action,Adventure,Sci-Fi",7.8,58511
+1551,Star Wars: The Clone Wars,2008.0,"Action,Adventure,Animation",8.2,58435
+1554,Brawl in Cell Block 99,2017.0,"Action,Crime,Drama",7.1,58149
+1559,The Chaser,2008.0,"Action,Crime,Thriller",7.8,57711
+1563,Continuum,2012.0,"Action,Sci-Fi,Thriller",7.6,57466
+1568,Only the Brave,2017.0,"Action,Biography,Drama",7.6,57194
+1569,Sleepy Hollow,2013.0,"Action,Adventure,Crime",7.4,57190
+1570,Terminator: The Sarah Connor Chronicles,2008.0,"Action,Drama,Fantasy",7.7,57130
+1583,Hera Pheri,2000.0,"Action,Comedy,Crime",8.2,56386
+1593,Ghajini,2008.0,"Action,Drama,Mystery",7.3,55972
+1596,Kung Fury,2015.0,"Action,Comedy,Fantasy",8.0,55819
+1601,Magnum Force,1973.0,"Action,Crime,Mystery",7.2,55631
+1612,Final Fantasy VII: Advent Children,2005.0,"Action,Adventure,Animation",7.2,54828
+1624,The Last Ship,2014.0,"Action,Drama,Sci-Fi",7.5,54054
+1629,Jericho,2006.0,"Action,Drama,Mystery",7.9,53596
+1649,Dragon Ball,1995.0,"Action,Adventure,Animation",8.5,52624
+1655,Baby,2015.0,"Action,Thriller",8.0,52488
+1658,Hunter x Hunter,2011.0,"Action,Adventure,Animation",8.9,52391
+1659,The Last Man on Earth,2015.0,"Action,Comedy,Drama",7.3,52387
+1665,Star Trek: Deep Space Nine,1993.0,"Action,Adventure,Drama",8.0,52139
+1668,Hotel Mumbai,2018.0,"Action,Drama,History",7.6,51951
+1669,"Aguirre, the Wrath of God",1972.0,"Action,Adventure,Biography",7.9,51942
+1691,Sholay,1975.0,"Action,Adventure,Comedy",8.2,50908
+1696,'71,2014.0,"Action,Crime,Drama",7.2,50761
+1715,Spaced,1999.0,"Action,Comedy",8.6,50186
+1716,Haider,2014.0,"Action,Crime,Drama",8.1,50100
+1735,Neon Genesis Evangelion,1995.0,"Action,Animation,Drama",8.5,49134
+1737,Don 2,2011.0,"Action,Crime,Thriller",7.1,49117
+1739,Andaz Apna Apna,1994.0,"Action,Comedy,Romance",8.2,48964
+1741,Code Geass,2006.0,"Action,Animation,Drama",8.6,48911
+1742,Ip Man 3,2015.0,"Action,Biography,Drama",7.1,48719
+1747,Nikita,2010.0,"Action,Crime,Drama",7.7,48465
+1760,Mirzapur,2018.0,"Action,Crime,Drama",8.4,47796
+1767,Almost Human,2013.0,"Action,Crime,Drama",8.0,47564
+1781,Dragon Ball,1986.0,"Action,Adventure,Animation",8.5,47097
+1784,The Blind Swordsman: Zatoichi,2003.0,"Action,Comedy,Crime",7.5,46998
+1793,Hard Boiled,1992.0,"Action,Crime,Thriller",7.8,46451
+1794,Scorpion,2014.0,"Action,Crime,Drama",7.1,46340
+1802,Black Dynamite,2009.0,"Action,Comedy",7.4,45557
+1804,Star Trek: Enterprise,2001.0,"Action,Adventure,Drama",7.5,45503
+1806,The Killer,1989.0,"Action,Crime,Drama",7.8,45419
+1810,Samurai Jack,2001.0,"Action,Adventure,Animation",8.5,45206
+1813,Alias,2001.0,"Action,Drama,Mystery",7.6,45056
+1832,Mongol: The Rise of Genghis Khan,2007.0,"Action,Biography,Drama",7.2,44469
+1843,Barry,2018.0,"Action,Comedy,Crime",8.3,43787
+1847,Assault on Precinct 13,1976.0,"Action,Crime,Thriller",7.4,43565
+1848,Red Cliff,2008.0,"Action,Adventure,Drama",7.4,43517
+1851,Anthropoid,2016.0,"Action,Biography,Drama",7.2,43465
+1853,The Hitcher,1986.0,"Action,Thriller",7.2,43334
+1855,Batman: Mask of the Phantasm,1993.0,"Action,Animation,Crime",7.8,43255
+1859,Disenchantment,2018.0,"Action,Adventure,Animation",7.2,43093
+1862,Bleach,2004.0,"Action,Adventure,Animation",8.1,43050
+1863,24: Live Another Day,2014.0,"Action,Crime,Drama",8.4,42986
+1866,1 - Nenokkadine,2014.0,"Action,Thriller",8.1,42847
+1872,The Legend of Drunken Master,1994.0,"Action,Comedy",7.6,42728
+1875,Uri: The Surgical Strike,2019.0,"Action,Drama,War",8.2,42649
+1876,Cowboy Bebop: The Movie,2001.0,"Action,Animation,Crime",7.9,42591
+1886,Dirk Gently's Holistic Detective Agency,2016.0,"Action,Adventure,Comedy",8.3,42128
+1910,Star Trek: Picard,2020.0,"Action,Adventure,Drama",7.5,41166
+1921,Into the Badlands,2015.0,"Action,Adventure,Drama",8.0,40726
+1923,Justice League,2001.0,"Action,Adventure,Animation",8.5,40668
+1924,The Poseidon Adventure,1972.0,"Action,Adventure,Drama",7.1,40634
+1929,Samurai Champloo,2004.0,"Action,Adventure,Animation",8.5,39989
+1939,See,2019.0,"Action,Drama,Sci-Fi",7.6,39637
+1969,Vishwaroopam,2013.0,"Action,Thriller",8.2,38673
+1981,Torchwood,2006.0,"Action,Drama,Mystery",7.7,38299
+1987,Silverado,1985.0,"Action,Crime,Drama",7.2,38128
+1991,Neon Genesis Evangelion: The End of Evangelion,1997.0,"Action,Animation,Drama",8.1,37993
+1999,Tae Guk Gi: The Brotherhood of War,2004.0,"Action,Drama,War",8.1,37671
+2004,Castlevania,2017.0,"Action,Adventure,Animation",8.2,37560
+2008,JCVD,2008.0,"Action,Comedy,Crime",7.1,37374
+2009,X-Men: The Animated Series,1992.0,"Action,Animation,Family",8.4,37342
+2010,The Transformers: The Movie,1986.0,"Action,Adventure,Animation",7.3,37315
+2013,Pokémon,1997.0,"Action,Adventure,Animation",7.5,37228
+2017,Chicago Fire,2012.0,"Action,Drama",7.9,37103
+2022,The Powerpuff Girls,1998.0,"Action,Adventure,Animation",7.2,36835
+2033,Drunken Master,1978.0,"Action,Comedy",7.5,36348
+2042,Timeless,2016.0,"Action,Adventure,Drama",7.7,36101
+2045,A Bittersweet Life,2005.0,"Action,Crime,Drama",7.6,36062
+2048,Ghost in the Shell 2: Innocence,2004.0,"Action,Animation,Drama",7.5,36021
+2058,The Baader Meinhof Complex,2008.0,"Action,Biography,Crime",7.4,35570
+2065,Sword Art Online,2012.0,"Action,Adventure,Animation",7.6,35400
+2069,MacGyver,1985.0,"Action,Adventure,Crime",7.7,35265
+2075,No Way Out,1987.0,"Action,Crime,Drama",7.1,35147
+2082,The Protector,2005.0,"Action,Crime,Drama",7.1,35038
+2090,Lethal Weapon,2016.0,"Action,Comedy,Crime",7.9,34870
+2101,Tokyo Ghoul,2014.0,"Action,Animation,Drama",7.9,34355
+2103,Ninja Scroll,1993.0,"Action,Adventure,Animation",7.9,34308
+2106,Phineas and Ferb,2007.0,"Action,Animation,Comedy",7.9,34261
+2109,K.G.F: Chapter 1,2018.0,"Action,Drama",8.2,34165
+2112,Don,2006.0,"Action,Crime,Thriller",7.2,34088
+2116,The Tomorrow People,2013.0,"Action,Drama,Sci-Fi",7.2,33961
+2117,The A-Team,1983.0,"Action,Adventure,Crime",7.5,33956
+2140,The Good the Bad the Weird,2008.0,"Action,Adventure,Comedy",7.3,33226
+2144,Legend of the Seeker,2008.0,"Action,Adventure,Drama",7.6,33173
+2146,Farscape,1999.0,"Action,Adventure,Drama",8.2,33126
+2155,Paan Singh Tomar,2012.0,"Action,Biography,Crime",8.2,32950
+2160,Doom Patrol,2019.0,"Action,Adventure,Comedy",7.9,32716
+2163,Happy!,2017.0,"Action,Comedy,Crime",8.2,32649
+2192,My Hero Academia,2016.0,"Action,Adventure,Animation",8.5,31963
+2193,Mesrine: Killer Instinct,2008.0,"Action,Biography,Crime",7.5,31960
+2194,Final Space,2018.0,"Action,Adventure,Animation",8.3,31928
+2196,The Way of the Dragon,1972.0,"Action,Adventure,Comedy",7.3,31920
+2207,The Breath,2009.0,"Action,Drama,Thriller",8.0,31631
+2217,The Siege of Jadotville,2016.0,"Action,Drama,History",7.2,31395
+2227,Young Justice,2010.0,"Action,Adventure,Animation",8.6,31209
+2232,The Legend Is Born: Ip Man,2010.0,"Action,Biography,Drama",7.1,31166
+2237,Bajirao Mastani,2015.0,"Action,Drama,History",7.2,31084
+2245,Shooter,2016.0,"Action,Drama",7.5,30805
+2247,The Gifted,2017.0,"Action,Drama,Fantasy",7.3,30771
+2258,Dark Angel,2000.0,"Action,Drama,Mystery",7.4,30563
+2262,Teenage Mutant Ninja Turtles,1987.0,"Action,Adventure,Animation",7.9,30403
+2266,Marshland,2014.0,"Action,Adventure,Crime",7.3,30339
+2275,Colony,2016.0,"Action,Adventure,Drama",7.4,29871
+2282,Jodhaa Akbar,2008.0,"Action,Drama,History",7.6,29663
+2289,Elfen Lied,2004.0,"Action,Animation,Drama",8.0,29497
+2294,Waar,2013.0,"Action,Crime,Drama",7.9,29372
+2299,Police Story,1985.0,"Action,Comedy,Crime",7.6,29328
+2301,The Lost Room,2006.0,"Action,Fantasy,Mystery",8.2,29263
+2302,Regular Show,2009.0,"Action,Adventure,Animation",8.4,29262
+2307,Strike Back,2010.0,"Action,Drama,Thriller",8.2,29101
+2308,To Live and Die in L.A.,1985.0,"Action,Crime,Drama",7.3,29051
+2309,Vampire Hunter D: Bloodlust,2000.0,"Action,Animation,Fantasy",7.7,29044
+2313,The Family Man,2019.0,"Action,Comedy,Drama",8.6,28959
+2315,Star Wars Rebels,2014.0,"Action,Adventure,Animation",8.0,28870
+2316,Longmire,2012.0,"Action,Crime,Drama",8.3,28726
+2317,Micmacs,2009.0,"Action,Comedy,Crime",7.2,28718
+2331,Get Carter,1971.0,"Action,Crime,Thriller",7.4,28557
+2339,Mesrine: Public Enemy No. 1,2008.0,"Action,Biography,Crime",7.5,28273
+2340,The Monster Squad,1987.0,"Action,Comedy,Fantasy",7.1,28215
+2342,Berserk,1997.0,"Action,Adventure,Animation",8.7,28200
+2343,Kingdom,2019.0,"Action,Drama,Horror",8.4,28185
+2347,Henry V,1989.0,"Action,Biography,Drama",7.5,28058
+2366,The Getaway,1972.0,"Action,Crime,Thriller",7.4,27728
+2367,Babylon 5,1993.0,"Action,Adventure,Drama",8.3,27703
+2371,Chicago P.D.,2014.0,"Action,Crime,Drama",8.1,27621
+2375,Alphas,2011.0,"Action,Drama,Sci-Fi",7.2,27541
+2378,Knockin' on Heaven's Door,1997.0,"Action,Comedy,Crime",8.0,27499
+2386,Delhi Belly,2011.0,"Action,Comedy,Crime",7.6,27341
+2396,Vikram Vedha,2017.0,"Action,Crime,Drama",8.5,27037
+2404,Udta Punjab,2016.0,"Action,Crime,Drama",7.8,26875
+2405,Dirilis: Ertugrul,2014.0,"Action,Adventure,Drama",7.9,26864
+2413,Runaway Train,1985.0,"Action,Adventure,Drama",7.2,26668
+2417,Covert Affairs,2010.0,"Action,Crime,Drama",7.3,26547
+2423,Spider-Man: The Animated Series,1994.0,"Action,Adventure,Animation",8.4,26400
+2425,The Boondocks,2005.0,"Action,Animation,Comedy",8.4,26389
+2427,The Taking of Pelham One Two Three,1974.0,"Action,Crime,Thriller",7.7,26371
+2429,Fist of Fury,1972.0,"Action,Drama,Romance",7.4,26364
+2430,Vanishing Point,1971.0,"Action,Crime,Thriller",7.2,26356
+2436,Max Manus,2008.0,"Action,Biography,Drama",7.3,26293
+2443,Joint Security Area,2000.0,"Action,Drama,Thriller",7.8,26207
+2445,Undercover,2011.0,"Action,Crime,Drama",8.9,26139
+2446,Dragon Ball Z: Battle of Gods,2013.0,"Action,Adventure,Animation",7.2,26123
+2451,Teen Titans,2003.0,"Action,Adventure,Animation",7.8,26011
+2452,Quantum Leap,1989.0,"Action,Adventure,Drama",8.1,25989
+2453,Summer Wars,2009.0,"Action,Adventure,Animation",7.5,25984
+2469,Generation War,2013.0,"Action,Drama,History",8.5,25599
+2477,Holiday: A Soldier is Never Off Duty,2014.0,"Action,Thriller",7.2,25321
+2480,Hanna,2019.0,"Action,Drama",7.5,25166
+2483,Thief,1981.0,"Action,Crime,Drama",7.4,25075
+2494,Raazi,2018.0,"Action,Drama,Thriller",7.8,24833
+2498,Enthiran,2010.0,"Action,Sci-Fi",7.1,24798
+2508,In Order of Disappearance,2014.0,"Action,Crime,Drama",7.2,24491
+2520,The Big Boss,1971.0,"Action,Crime,Drama",7.1,24294
+2522,Parasyte: The Maxim,2014.0,"Action,Animation,Horror",8.3,24229
+2528,Mersal,2017.0,"Action,Thriller",7.6,24185
+2532,Kaabil,2017.0,"Action,Crime,Drama",7.1,24057
+2534,Batman Beyond,1999.0,"Action,Adventure,Animation",8.1,24018
+2549,Juice,1992.0,"Action,Crime,Drama",7.1,23809
+2550,Sarfarosh,1999.0,"Action,Drama",8.1,23802
+2555,Caprica,2009.0,"Action,Drama,Sci-Fi",7.1,23728
+2557,Ludo,2020.0,"Action,Comedy,Crime",7.6,23690
+2565,Ip Man 4: The Finale,2019.0,"Action,Biography,Drama",7.1,23454
+2569,Thuppakki,2012.0,"Action,Thriller",7.9,23415
+2570,Kim Possible,2002.0,"Action,Adventure,Animation",7.2,23403
+2573,The Venture Bros.,2003.0,"Action,Adventure,Animation",8.5,23365
+2591,Miami Vice,1984.0,"Action,Crime,Drama",7.5,23028
+2593,Raatchasan,2018.0,"Action,Crime,Thriller",8.7,22949
+2597,Red Cliff II,2009.0,"Action,Adventure,Drama",7.6,22887
+2604,Madras Cafe,2013.0,"Action,Drama,Thriller",7.7,22738
+2606,Dragon Ball Super,2015.0,"Action,Adventure,Animation",8.4,22729
+2618,Gabbar is Back,2015.0,"Action,Crime,Drama",7.1,22506
+2627,Star Wars: Clone Wars,2003.0,"Action,Adventure,Animation",7.8,22413
+2637,Fist of Legend,1994.0,"Action,Drama",7.5,22229
+2646,Dragon Ball Super: Broly,2018.0,"Action,Adventure,Animation",7.9,22120
+2652,"Magnum, P.I.",1980.0,"Action,Adventure,Crime",7.5,22054
+2654,Darr,1993.0,"Action,Drama,Romance",7.8,22027
+2660,Tyrant,2014.0,"Action,Drama,Thriller",7.8,21974
+2689,Demon Slayer: Kimetsu No Yaiba,2019.0,"Action,Animation,Fantasy",8.7,21590
+2695,Jackass,2000.0,"Action,Comedy,Reality-TV",7.3,21500
+2697,Badlapur,2015.0,"Action,Crime,Drama",7.4,21489
+2708,The Seven Deadly Sins,2014.0,"Action,Adventure,Animation",8.1,21374
+2715,3%,2016.0,"Action,Drama,Sci-Fi",7.4,21294
+2722,The Fly,2012.0,"Action,Comedy,Fantasy",7.7,21212
+2731,Koi... Mil Gaya,2003.0,"Action,Drama,Romance",7.1,21031
+2733,Future Man,2017.0,"Action,Adventure,Comedy",7.7,21016
+2736,Last Resort,2012.0,"Action,Drama,Mystery",7.4,20955
+2746,Ölümlü Dünya,2018.0,"Action,Comedy",7.7,20803
+2747,Parmanu: The Story of Pokhran,2018.0,"Action,Drama,History",7.6,20796
+2755,State of Grace,1990.0,"Action,Crime,Drama",7.2,20674
+2766,Lakshya,2004.0,"Action,Drama,Romance",7.9,20516
+2768,Tanhaji: The Unsung Warrior,2020.0,"Action,Biography,Drama",7.6,20476
+2771,A Better Tomorrow,1986.0,"Action,Crime,Drama",7.5,20455
+2786,Merlin,1998.0,"Action,Adventure,Drama",7.1,20293
+2787,New World,2013.0,"Action,Crime,Drama",7.6,20264
+2790,For Love and Honor,2007.0,"Action,Crime,Drama",7.8,20254
+2791,The Transformers,1984.0,"Action,Adventure,Animation",8.0,20215
+2794,"Dragon Ball Z: Resurrection ""F""",2015.0,"Action,Adventure,Animation",7.3,20208
+2796,Digimon: Digital Monsters,1999.0,"Action,Adventure,Animation",7.3,20195
+2798,The Boy and the Beast,2015.0,"Action,Adventure,Animation",7.7,20103
+2800,9-1-1,2018.0,"Action,Drama,Thriller",7.7,20078
+2801,Killjoys,2015.0,"Action,Adventure,Sci-Fi",7.2,20052
+2803,The Unit,2006.0,"Action,Drama,Thriller",8.1,20006
+2806,Fairy Tail,2009.0,"Action,Adventure,Animation",8.0,19989
+2810,In China They Eat Dogs,1999.0,"Action,Comedy,Crime",7.4,19949
+2830,9th Company,2005.0,"Action,Drama,History",7.1,19717
+2831,Dragon Ball Z Kai,2009.0,"Action,Adventure,Animation",8.2,19711
+2837,Into the White,2012.0,"Action,Biography,Drama",7.2,19582
+2844,Rurouni Kenshin Part I: Origins,2012.0,"Action,Drama,History",7.5,19501
+2845,Hellsing Ultimate,2006.0,"Action,Animation,Fantasy",8.3,19436
+2850,Flickering Lights,2000.0,"Action,Comedy,Crime",7.7,19367
+2851,Swamp Thing,2019.0,"Action,Adventure,Drama",7.6,19352
+2853,Detective Byomkesh Bakshy!,2015.0,"Action,Crime,Drama",7.6,19347
+2854,Invader ZIM,2001.0,"Action,Adventure,Animation",8.3,19336
+2866,Trigun,1998.0,"Action,Animation,Comedy",8.3,19103
+2871,Omkara,2006.0,"Action,Crime,Drama",8.1,19045
+2875,Sanctuary,2008.0,"Action,Drama,Fantasy",7.3,18966
+2882,The Librarians,2013.0,"Action,Adventure,Comedy",7.3,18863
+2889,I,2015.0,"Action,Drama,Thriller",7.4,18811
+2899,The Yellow Sea,2010.0,"Action,Crime,Drama",7.3,18694
+2904,Black Friday,2004.0,"Action,Crime,Drama",8.5,18671
+2910,Operation Condor,1991.0,"Action,Adventure,Comedy",7.3,18622
+2917,Pusher II,2004.0,"Action,Crime,Drama",7.4,18543
+2920,Queen of the South,2016.0,"Action,Crime,Drama",7.9,18503
+2926,Rangasthalam 1985,2018.0,"Action,Drama",8.4,18444
+2929,"OSS 117: Cairo, Nest of Spies",2006.0,"Action,Adventure,Comedy",7.1,18418
+2938,Yu-Gi-Oh!,2000.0,"Action,Adventure,Animation",7.2,18313
+2949,Fauda,2015.0,"Action,Drama,Thriller",8.2,18215
+2959,Bring Me the Head of Alfredo Garcia,1974.0,"Action,Crime,Drama",7.5,18080
+2974,Magadheera,2009.0,"Action,Drama,Fantasy",7.6,17970
+2988,Wynonna Earp,2016.0,"Action,Drama,Fantasy",7.4,17814
+2989,Ghost in the Shell: Stand Alone Complex,2002.0,"Action,Animation,Crime",8.5,17813
+2995,Sonatine,1993.0,"Action,Comedy,Crime",7.5,17743
+2999,Sivaji,2007.0,"Action,Drama,Thriller",7.5,17679
+3003,Armour of God,1986.0,"Action,Adventure,Comedy",7.1,17628
+3004,King of Devil's Island,2010.0,"Action,Drama",7.5,17602
+3013,Jackie Chan Adventures,2000.0,"Action,Adventure,Animation",7.3,17473
+3015,Evangelion: 1.0 You Are (Not) Alone,2007.0,"Action,Animation,Drama",7.7,17466
+3017,Flame & Citron,2008.0,"Action,Drama,History",7.3,17440
+3018,Knife,2014.0,"Action,Drama",7.9,17429
+3019,Rurouni Kenshin: Wandering Samurai,1996.0,"Action,Adventure,Animation",8.5,17426
+3020,The Day of the Beast,1995.0,"Action,Adventure,Comedy",7.4,17406
+3027,Police Story 2,1988.0,"Action,Comedy,Crime",7.1,17288
+3028,Bilal: A New Breed of Hero,2015.0,"Action,Adventure,Animation",7.9,17265
+3030,Wazir,2016.0,"Action,Crime,Drama",7.1,17243
+3031,Human Target,2010.0,"Action,Adventure,Crime",7.8,17210
+3037,Once Upon a Time in China,1991.0,"Action,Adventure,History",7.3,17136
+3043,Thursday,1998.0,"Action,Comedy,Crime",7.2,17101
+3044,Outer Banks,2020.0,"Action,Crime,Drama",7.6,17091
+3046,24,2016.0,"Action,Sci-Fi,Thriller",7.8,17050
+3049,Codename: Kids Next Door,2002.0,"Action,Adventure,Animation",7.2,16995
+3052,The Young and Prodigious T.S. Spivet,2013.0,"Action,Adventure,Comedy",7.1,16966
+3055,Key and Peele,2012.0,"Action,Adventure,Comedy",8.3,16907
+3063,Gangs of London,2020.0,"Action,Crime,Drama",8.1,16810
+3073,Infernal Affairs II,2003.0,"Action,Crime,Drama",7.3,16735
+3091,The Adventures of Tintin,1991.0,"Action,Adventure,Animation",8.3,16555
+3097,Kaminey,2009.0,"Action,Crime,Drama",7.4,16400
+3102,Flashpoint,2008.0,"Action,Adventure,Crime",7.7,16367
+3105,Thani Oruvan,2015.0,"Action,Crime,Thriller",8.4,16361
+3108,Southern Comfort,1981.0,"Action,Thriller",7.2,16344
+3113,Once Upon a Time in Mumbai,2010.0,"Action,Crime,Drama",7.4,16295
+3114,36th Precinct,2004.0,"Action,Crime,Drama",7.1,16293
+3124,In Your Name,2003.0,"Action,Drama,Romance",7.1,16182
+3127,He-Man and the Masters of the Universe,1983.0,"Action,Adventure,Animation",7.5,16145
+3130,Mosul,2019.0,"Action,Drama,War",7.2,16077
+3131,Tangled Ever After,2012.0,"Action,Animation,Comedy",7.6,16073
+3137,Thundercats,1985.0,"Action,Adventure,Animation",7.9,16035
+3140,Special OPS,2020.0,"Action,Thriller",8.5,15999
+3155,Graceland,2013.0,"Action,Crime,Drama",7.7,15871
+3163,Robin Hood,2006.0,"Action,Adventure,Comedy",7.5,15762
+3168,Akame ga Kill!,2014.0,"Action,Animation,Comedy",7.9,15730
+3179,A Taxi Driver,2017.0,"Action,Drama,History",7.9,15618
+3180,The Penguins of Madagascar,2008.0,"Action,Adventure,Animation",7.6,15614
+3188,Gangaajal,2003.0,"Action,Crime,Drama",7.8,15558
+3191,SEAL Team,2017.0,"Action,Drama,War",7.5,15537
+3199,Evangelion: 2.0 You Can (Not) Advance,2009.0,"Action,Animation,Drama",8.0,15457
+3203,Psycho-Pass,2012.0,"Action,Animation,Crime",8.2,15372
+3205,The Three Musketeers,1973.0,"Action,Adventure",7.2,15360
+3207,Bharath Ane Nenu,2018.0,"Action,Drama",7.7,15340
+3211,Iron Monkey,1993.0,"Action,Crime,Drama",7.5,15317
+3217,The Tick,2016.0,"Action,Adventure,Comedy",7.4,15227
+3223,Danny Phantom,2004.0,"Action,Adventure,Animation",7.1,15199
+3232,Raid,2018.0,"Action,Crime,Drama",7.4,15150
+3238,FLCL,2000.0,"Action,Animation,Comedy",8.2,15103
+3252,Farscape: The Peacekeeper Wars,2004.0,"Action,Adventure,Drama",8.2,15007
+3254,Hotchpotch: Fun Unlimited,2006.0,"Action,Comedy,Drama",7.4,14999
+3259,Project A,1983.0,"Action,Comedy",7.4,14917
+3261,Khakee,2004.0,"Action,Crime,Drama",7.4,14901
+3263,Insider,2016.0,"Action,Crime,Drama",8.0,14885
+3269,Afro Samurai,2007.0,"Action,Adventure,Animation",7.7,14860
+3271,Sword of the Stranger,2007.0,"Action,Adventure,Animation",7.8,14827
+3286,The 36th Chamber of Shaolin,1978.0,"Action,Adventure,Drama",7.7,14753
+3294,The Legend of Bhagat Singh,2002.0,"Action,Biography,Drama",8.1,14655
+3300,Darkwing Duck,1991.0,"Action,Adventure,Animation",7.6,14621
+3302,Barbarians,2020.0,"Action,Adventure,Drama",7.2,14604
+3309,Warrior,2019.0,"Action,Crime,Drama",8.3,14524
+3313,Catch-22,2019.0,"Action,Adventure,Comedy",7.8,14498
+3314,Hellsing,2001.0,"Action,Animation,Fantasy",7.9,14485
+3317,Company,2002.0,"Action,Crime,Drama",8.0,14428
+3320,MI-5,2002.0,"Action,Crime,Drama",8.2,14390
+3322,Inuyasha,2000.0,"Action,Adventure,Animation",7.9,14378
+3328,Tengen toppa gurren lagann,2007.0,"Action,Adventure,Animation",8.3,14309
+3329,Khuda Haafiz,2020.0,"Action,Drama,Thriller",7.1,14305
+3330,Kesari,2019.0,"Action,Drama,History",7.4,14305
+3335,Gargoyles,1994.0,"Action,Adventure,Animation",8.1,14296
+3336,The Driver,1978.0,"Action,Crime,Thriller",7.2,14293
+3347,Anniyan,2005.0,"Action,Drama,Thriller",8.2,14236
+3351,The New Batman Adventures,1997.0,"Action,Adventure,Animation",8.5,14214
+3354,Nayak: The Real Hero,2001.0,"Action,Drama,Thriller",7.8,14195
+3368,Mob Psycho 100,2016.0,"Action,Animation,Comedy",8.5,14027
+3373,Mr. India,1987.0,"Action,Comedy,Drama",7.8,13975
+3375,Future Diary,2011.0,"Action,Animation,Drama",7.6,13969
+3391,Highlander,1992.0,"Action,Adventure,Fantasy",7.2,13822
+3396,Border,1997.0,"Action,Drama,History",7.9,13771
+3399,Dragon,2011.0,"Action,Crime,Drama",7.1,13750
+3405,Battlestar Galactica,1978.0,"Action,Adventure,Sci-Fi",7.2,13707
+3414,Ghost in the Shell 2.0,2008.0,"Action,Adventure,Animation",8.0,13647
+3416,Superman: The Animated Series,1996.0,"Action,Adventure,Animation",8.1,13637
+3428,V,1983.0,"Action,Adventure,Sci-Fi",7.9,13479
+3429,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003.0,"Action,Adventure,Animation",7.8,13473
+3446,TaleSpin,1990.0,"Action,Adventure,Animation",7.6,13342
+3450,Satya,1998.0,"Action,Crime,Drama",8.2,13316
+3453,Primeval,2007.0,"Action,Adventure,Drama",7.3,13284
+3469,Ashes of Time,1994.0,"Action,Drama",7.2,13179
+3471,Vampire Hunter D,1985.0,"Action,Animation,Fantasy",7.2,13159
+3487,Dhamaal,2007.0,"Action,Adventure,Comedy",7.3,13071
+3488,Trollhunters: Tales of Arcadia,2016.0,"Action,Adventure,Animation",8.5,13068
+3491,The Professional,1981.0,"Action,Crime,Drama",7.6,13057
+3496,Ghajini,2005.0,"Action,Drama,Mystery",7.5,13040
+3498,Rurouni Kenshin: Trust and Betrayal,1999.0,"Action,Adventure,Animation",8.6,13035
+3510,The Avengers: Earth's Mightiest Heroes,2010.0,"Action,Animation,Family",8.3,12968
+3513,Theri,2016.0,"Action,Drama,Thriller",7.1,12951
+3517,Free to Play,2014.0,"Action,Documentary",7.9,12901
+3526,The Valley of the Wolves,2003.0,"Action,Crime,Drama",7.4,12772
+3529,Ben 10,2005.0,"Action,Adventure,Animation",7.2,12730
+3541,Legends,2014.0,"Action,Crime,Drama",7.5,12609
+3542,Video Game High School,2012.0,"Action,Romance,Sci-Fi",7.6,12607
+3545,Riki-Oh: The Story of Ricky,1991.0,"Action,Comedy,Thriller",7.1,12579
+3547,Mankatha,2011.0,"Action,Crime,Thriller",7.6,12568
+3549,Vaastav: The Reality,1999.0,"Action,Crime,Drama",8.0,12560
+3555,Tekkonkinkreet,2006.0,"Action,Adventure,Animation",7.6,12530
+3556,Pokiri,2006.0,"Action,Crime,Thriller",7.9,12529
+3559,Dookudu,2011.0,"Action,Comedy",7.4,12502
+3567,Deadly Class,2018.0,"Action,Adventure,Comedy",7.6,12440
+3573,Brat 2,2000.0,"Action,Crime,Thriller",7.8,12398
+3598,Ergo Proxy,2006.0,"Action,Adventure,Animation",8.0,12312
+3608,Lady Snowblood,1973.0,"Action,Drama,Thriller",7.7,12250
+3611,Crossing Lines,2013.0,"Action,Crime,Drama",7.4,12236
+3614,Gantz: O,2016.0,"Action,Animation,Drama",7.1,12216
+3616,Let's Sin,2014.0,"Action,Crime,Drama",7.8,12208
+3628,Devilman: Crybaby,2018.0,"Action,Animation,Fantasy",7.6,12113
+3633,Dhuruvangal Pathinaaru,2016.0,"Action,Crime,Mystery",8.3,12100
+3634,Claymore,2007.0,"Action,Adventure,Animation",8.0,12094
+3643,N.H 10,2015.0,"Action,Crime,Drama",7.2,12041
+3654,Athadu,2005.0,"Action,Thriller",8.2,11916
+3659,The Dark Valley,2014.0,"Action,Drama,Western",7.1,11880
+3661,Harley Quinn,2019.0,"Action,Adventure,Animation",8.5,11868
+3662,Black Lagoon,2006.0,"Action,Adventure,Animation",8.0,11862
+3673,Neon Genesis Evangelion: Death & Rebirth,1997.0,"Action,Animation,Drama",7.5,11824
+3674,Rurouni Kenshin Part II: Kyoto Inferno,2014.0,"Action,Adventure,Drama",7.6,11815
+3675,Along With the Gods: The Two Worlds,2017.0,"Action,Drama,Fantasy",7.3,11812
+3676,Kuai can che,1984.0,"Action,Comedy,Crime",7.2,11806
+3679,The Glades,2010.0,"Action,Crime,Drama",7.5,11780
+3681,The Ghazi Attack,2017.0,"Action,Thriller,War",7.6,11775
+3684,Major Crimes,2012.0,"Action,Crime,Drama",7.7,11762
+3703,Love Exposure,2008.0,"Action,Comedy,Drama",8.1,11662
+3713,Vinland Saga,2019.0,"Action,Adventure,Animation",8.8,11624
+3721,Mardaani,2014.0,"Action,Crime,Drama",7.3,11554
+3724,Sailor Moon,1995.0,"Action,Adventure,Animation",7.6,11541
+3750,Angel Beats!,2010.0,"Action,Animation,Comedy",7.7,11416
+3763,Redline,2009.0,"Action,Animation,Sci-Fi",7.5,11337
+3770,Yu Yu Hakusho: Ghost Files,1992.0,"Action,Adventure,Animation",8.5,11285
+3772,Saala Khadoos,2016.0,"Action,Drama,Sport",7.6,11267
+3778,The Dukes of Hazzard,1979.0,"Action,Comedy",7.1,11235
+3787,Don,1978.0,"Action,Crime,Thriller",7.8,11199
+3796,War of the Arrows,2011.0,"Action,Adventure",7.2,11137
+3803,A Hard Day,2014.0,"Action,Crime,Thriller",7.2,11076
+3804,Srimanthudu,2015.0,"Action,Drama",7.5,11072
+3814,The Last: Naruto the Movie,2014.0,"Action,Adventure,Animation",7.6,11024
+3824,Suburra: Blood on Rome,2017.0,"Action,Crime",7.9,10957
+3825,Six,2017.0,"Action,Drama,History",7.3,10952
+3827,Soul Eater,2008.0,"Action,Adventure,Animation",7.8,10928
+3831,Charley Varrick,1973.0,"Action,Crime,Drama",7.5,10898
+3833,From the Earth to the Moon,1998.0,"Action,Drama,History",8.6,10894
+3836,Darker Than Black,2007.0,"Action,Animation,Drama",7.8,10885
+3847,Slave,1998.0,"Action,Crime,Drama",7.3,10808
+3850,"Watch Out, We're Mad",1974.0,"Action,Comedy",7.5,10797
+3862,Kaithi,2019.0,"Action,Thriller",8.5,10703
+3863,Kill la Kill,2013.0,"Action,Animation,Comedy",7.9,10697
+3864,Blue Exorcist,2011.0,"Action,Animation,Drama",7.5,10696
+3868,Gakuen mokushiroku: HIGHSCHOOL OF THE DEAD,2010.0,"Action,Animation,Drama",7.2,10666
+3871,The Warrior,2001.0,"Action,Drama,History",7.1,10652
+3874,Detective Conan,1996.0,"Action,Adventure,Animation",8.4,10646
+3875,The Bible,2013.0,"Action,Drama,War",7.5,10643
+3884,My Way,2011.0,"Action,Drama,War",7.7,10601
+3886,Aamir,2008.0,"Action,Crime,Drama",7.7,10591
+3887,Paid in Full,2002.0,"Action,Crime,Drama",7.1,10582
+3888,Snake in the Eagle's Shadow,1978.0,"Action,Comedy",7.4,10574
+3893,Indian,1996.0,"Action,Drama,Thriller",8.1,10538
+3895,Vada Chennai,2018.0,"Action,Crime,Drama",8.5,10512
+3896,Violent Cop,1989.0,"Action,Crime,Drama",7.2,10511
+3898,Star vs. the Forces of Evil,2015.0,"Action,Adventure,Animation",8.0,10502
+3902,Berserk: The Golden Age Arc I - The Egg of the King,2012.0,"Action,Adventure,Animation",7.6,10474
+3904,V,1984.0,"Action,Adventure,Sci-Fi",7.4,10467
+3905,Tokyo Ghoul: Root A,2015.0,"Action,Animation,Drama",7.7,10464
+3906,Noragami,2014.0,"Action,Adventure,Animation",7.9,10463
+3908,Fullmetal Alchemist the Movie: Conqueror of Shamballa,2005.0,"Action,Adventure,Animation",7.4,10458
+3916,Crime Busters,1977.0,"Action,Adventure,Comedy",7.2,10430
+3919,The Passage,2019.0,"Action,Adventure,Drama",7.3,10417
+3928,Condor,2018.0,"Action,Drama,Thriller",7.8,10383
+3930,X-Men: Evolution,2000.0,"Action,Animation,Drama",7.9,10377
+3938,Justice League Unlimited,2004.0,"Action,Adventure,Animation",8.7,10357
+3940,Who Finds a Friend Finds a Treasure,1981.0,"Action,Adventure,Comedy",7.2,10339
+3944,Gangster's Paradise: Jerusalema,2008.0,"Action,Crime,Drama",7.3,10306
+3952,A Touch of Sin,2013.0,"Action,Drama",7.1,10286
+3958,Baccano!,2007.0,"Action,Adventure,Animation",8.3,10257
+3967,The Admiral: Roaring Currents,2014.0,"Action,Drama,History",7.1,10220
+3971,Ultimate Spider-Man,2012.0,"Action,Adventure,Animation",7.1,10182
+3986,The Spectacular Spider-Man,2008.0,"Action,Adventure,Animation",8.1,10123
+3987,Copper,2012.0,"Action,Drama",7.5,10122
+3994,Asuran,2019.0,"Action,Drama",8.5,10093
+3999,Jigarthanda,2014.0,"Action,Crime,Drama",8.3,10064
+4008,Deewaar,1975.0,"Action,Crime,Drama",8.1,10022
