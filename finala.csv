@@ -1,0 +1,3042 @@
+,titleType,primaryTitle,startYear,genres,averageRating,numVotes
+0,movie,"Good Morning, Vietnam",1987.0,Biography Comedy Drama,7.3,125159
+1,movie,Escape from New York,1981.0,Action Adventure Sci-Fi,7.2,125142
+2,movie,Miller's Crossing,1990.0,Crime Drama Thriller,7.7,125139
+3,movie,Boyz n the Hood,1991.0,Crime Drama,7.8,124855
+5,movie,Wallace & Gromit: The Curse of the Were-Rabbit,2005.0,Adventure Animation Comedy,7.4,124737
+7,movie,Capote,2005.0,Biography Crime Drama,7.3,124643
+8,movie,The Hours,2002.0,Drama Romance,7.5,123684
+9,movie,Man on the Moon,1999.0,Biography Comedy Drama,7.4,123511
+10,movie,Sicario: Day of the Soldado,2018.0,Action Adventure Crime,7.1,123498
+11,movie,Ponyo,2008.0,Adventure Animation Comedy,7.7,123390
+12,movie,Awakenings,1990.0,Biography Drama,7.8,123310
+13,movie,The Lost Boys,1987.0,Comedy Horror,7.3,123308
+14,movie,Labyrinth,1986.0,Adventure Family Fantasy,7.4,123181
+15,movie,Matchstick Men,2003.0,Comedy Crime Drama,7.3,123172
+16,movie,"Planes, Trains & Automobiles",1987.0,Comedy Drama,7.6,123109
+17,movie,The Princess and the Frog,2009.0,Adventure Animation Comedy,7.1,123032
+18,movie,The Founder,2016.0,Biography Drama,7.2,122890
+19,movie,John Q,2002.0,Crime Drama Thriller,7.1,122823
+20,movie,Big Trouble in Little China,1986.0,Action Adventure Comedy,7.3,122627
+21,movie,In the Mood for Love,2000.0,Drama Romance,8.1,122518
+22,movie,Me and Earl and the Dying Girl,2015.0,Comedy Drama,7.7,122326
+23,movie,About Schmidt,2002.0,Comedy Drama,7.1,121978
+24,movie,Kiki's Delivery Service,1989.0,Adventure Animation Drama,7.8,121971
+25,movie,Glory,1989.0,Biography Drama History,7.8,121589
+26,movie,Highlander,1986.0,Action Adventure Fantasy,7.1,121139
+27,movie,Doubt,2008.0,Drama Mystery,7.5,121128
+28,movie,Papillon,1973.0,Biography Crime Drama,8.0,120914
+29,movie,Pleasantville,1998.0,Comedy Drama Fantasy,7.5,120763
+30,movie,"Love, Rosie",2014.0,Comedy Romance,7.2,120762
+32,movie,Escape from Alcatraz,1979.0,Action Biography Crime,7.6,120115
+34,movie,The Big Sick,2017.0,Comedy Drama Romance,7.5,119858
+35,movie,The Ballad of Buster Scruggs,2018.0,Comedy Drama Musical,7.3,119836
+37,movie,Wild,2014.0,Biography Drama,7.1,119595
+38,movie,Bronson,2008.0,Action Biography Crime,7.1,119524
+39,movie,Tremors,1990.0,Comedy Horror,7.1,119431
+41,movie,The Walk,2015.0,Action Adventure Biography,7.3,119082
+42,movie,Vice,2018.0,Biography Comedy Drama,7.2,119066
+43,movie,Irréversible,2002.0,Crime Drama Mystery,7.4,119030
+44,movie,Carnage,2011.0,Comedy Drama,7.2,118760
+46,movie,The Prince of Egypt,1998.0,Adventure Animation Drama,7.1,117657
+47,movie,13 Hours,2016.0,Action Drama History,7.3,117540
+50,movie,Infernal Affairs,2002.0,Action Crime Drama,8.0,117352
+51,movie,Star Trek: First Contact,1996.0,Action Adventure Drama,7.6,117323
+52,movie,Kubo and the Two Strings,2016.0,Action Adventure Animation,7.8,116977
+54,movie,Margin Call,2011.0,Drama Thriller,7.1,115955
+56,movie,The Phantom of the Opera,2004.0,Drama Musical Romance,7.2,115766
+58,movie,Mallrats,1995.0,Comedy Romance,7.1,115602
+61,movie,Stalker,1979.0,Drama Sci-Fi,8.2,115299
+62,movie,Y Tu Mamá También,2001.0,Drama,7.6,115150
+63,movie,This Is England,2006.0,Crime Drama,7.7,115129
+65,movie,Empire of the Sun,1987.0,Action Drama History,7.7,114747
+66,movie,Robin Hood,1973.0,Adventure Animation Comedy,7.6,114711
+67,movie,I Origins,2014.0,Drama Mystery Romance,7.4,114653
+68,movie,Carol,2015.0,Drama Romance,7.2,114464
+71,movie,Leaving Las Vegas,1995.0,Drama Romance,7.5,113840
+72,movie,The Raid 2,2014.0,Action Crime Thriller,8.0,113628
+73,movie,The Meaning of Life,1983.0,Comedy Musical,7.5,113316
+74,movie,Let Me In,2010.0,Drama Fantasy Horror,7.1,113127
+75,movie,Ghost World,2001.0,Comedy Drama,7.3,112607
+76,movie,T2 Trainspotting,2017.0,Drama,7.2,112506
+77,movie,Barton Fink,1991.0,Comedy Drama Thriller,7.7,112457
+78,movie,Pay It Forward,2000.0,Drama,7.2,112323
+79,movie,Star Trek II: The Wrath of Khan,1982.0,Action Adventure Sci-Fi,7.7,112038
+81,movie,Nebraska,2013.0,Adventure Comedy Drama,7.7,111732
+84,movie,Ran,1985.0,Action Drama War,8.2,111364
+85,movie,National Lampoon's Animal House,1978.0,Comedy,7.5,111249
+87,movie,Anastasia,1997.0,Adventure Animation Drama,7.2,111011
+88,movie,Rang De Basanti,2006.0,Comedy Crime Drama,8.2,110966
+89,movie,Dawn of the Dead,1978.0,Action Adventure Horror,7.9,110956
+91,movie,Brothers,2009.0,Action Drama Thriller,7.1,110764
+92,movie,The Handmaiden,2016.0,Drama Romance Thriller,8.1,110363
+93,movie,The Dreamers,2003.0,Drama Romance,7.2,110216
+94,movie,Once,2007.0,Drama Music Romance,7.8,110140
+96,movie,Phantom Thread,2017.0,Drama Romance,7.5,110100
+98,movie,I Saw the Devil,2010.0,Action Crime Drama,7.8,109680
+100,movie,The Way Back,2010.0,Adventure Drama History,7.3,109523
+101,movie,The Life of David Gale,2003.0,Crime Drama Thriller,7.6,109269
+102,movie,They Live,1988.0,Action Horror Sci-Fi,7.3,109224
+103,movie,The French Connection,1971.0,Action Crime Drama,7.7,109165
+104,movie,Death at a Funeral,2007.0,Comedy,7.4,109082
+105,movie,Hunt for the Wilderpeople,2016.0,Adventure Comedy Drama,7.9,109068
+107,movie,Dil Bechara,2020.0,Comedy Drama Romance,7.9,108861
+108,movie,Serpico,1973.0,Biography Crime Drama,7.7,108823
+110,movie,The Jacket,2005.0,Drama Fantasy Mystery,7.1,108097
+112,movie,Lee Daniels' The Butler,2013.0,Biography Drama,7.2,107967
+113,movie,Field of Dreams,1989.0,Drama Family Fantasy,7.5,107390
+114,movie,House of Flying Daggers,2004.0,Action Adventure Drama,7.5,107358
+115,movie,The Best Offer,2013.0,Crime Drama Mystery,7.8,107225
+116,movie,Coherence,2013.0,Drama Horror Mystery,7.2,107140
+117,movie,Pirate Radio,2009.0,Comedy Drama Music,7.4,106921
+118,movie,The Fall,2006.0,Adventure Drama Fantasy,7.9,106848
+119,movie,The Omen,1976.0,Horror,7.5,106720
+120,movie,Men of Honor,2000.0,Biography Drama,7.2,106554
+121,movie,My Cousin Vinny,1992.0,Comedy Crime,7.6,106190
+122,movie,A Scanner Darkly,2006.0,Animation Crime Drama,7.1,106073
+123,movie,The Host,2006.0,Action Drama Horror,7.1,105997
+124,movie,Across the Universe,2007.0,Drama Fantasy History,7.3,105725
+125,movie,A Single Man,2009.0,Drama Romance,7.6,105376
+126,movie,Precious,2009.0,Drama,7.3,105174
+127,movie,Little Children,2006.0,Drama Romance,7.5,105080
+129,movie,Sixteen Candles,1984.0,Comedy Romance,7.1,104661
+130,movie,The Mountain II,2016.0,Action Drama War,8.8,104621
+131,movie,Caddyshack,1980.0,Comedy Sport,7.3,104332
+132,movie,Lagaan: Once Upon a Time in India,2001.0,Adventure Drama Musical,8.1,104205
+133,movie,Talk to Her,2002.0,Drama Mystery Romance,7.9,104075
+134,movie,The Two Popes,2019.0,Biography Comedy Drama,7.6,103712
+135,movie,The Queen,2006.0,Biography Drama History,7.3,103703
+137,movie,Creed II,2018.0,Drama Sport,7.1,103459
+138,movie,The Man Who Wasn't There,2001.0,Crime Drama,7.5,103450
+139,movie,The Edge of Seventeen,2016.0,Comedy Drama,7.3,103098
+140,movie,August Rush,2007.0,Drama Music,7.5,103049
+141,movie,Okja,2017.0,Action Adventure Drama,7.3,103009
+142,movie,The Diving Bell and the Butterfly,2007.0,Biography Drama,8.0,102794
+143,movie,Frost/Nixon,2008.0,Biography Drama History,7.7,102708
+144,movie,The Wave,2008.0,Drama Thriller,7.6,102083
+147,movie,Baahubali: The Beginning,2015.0,Action Drama,8.0,101896
+148,movie,What Dreams May Come,1998.0,Drama Fantasy Romance,7.1,101769
+149,movie,All the President's Men,1976.0,Biography Drama History,8.0,101767
+150,movie,Eraserhead,1977.0,Fantasy Horror,7.4,101759
+151,movie,How to Train Your Dragon: The Hidden World,2019.0,Action Adventure Animation,7.5,101722
+152,movie,Treasure Planet,2002.0,Adventure Animation Family,7.2,101615
+153,movie,Dancer in the Dark,2000.0,Crime Drama Musical,8.0,101487
+154,movie,Sense and Sensibility,1995.0,Drama Romance,7.6,101451
+155,movie,The Name of the Rose,1986.0,Crime Drama Mystery,7.7,101347
+156,movie,The Basketball Diaries,1995.0,Biography Crime Drama,7.3,101310
+159,movie,Filth,2013.0,Comedy Crime Drama,7.1,101071
+160,movie,Crimson Tide,1995.0,Action Drama Thriller,7.3,100999
+161,movie,Super Size Me,2004.0,Documentary,7.2,100725
+162,movie,Frequency,2000.0,Crime Drama Mystery,7.3,100695
+163,movie,Rescue Dawn,2006.0,Action Biography Drama,7.3,100627
+164,movie,Brick,2005.0,Action Crime Drama,7.3,100581
+167,movie,Willow,1988.0,Action Adventure Drama,7.3,100278
+171,movie,Mean Streets,1973.0,Crime Drama Thriller,7.2,99305
+172,movie,Friday,1995.0,Comedy Drama,7.3,99295
+173,movie,Silence,2016.0,Drama History,7.2,99225
+175,movie,Driving Miss Daisy,1989.0,Drama,7.3,98568
+176,movie,Gifted,2017.0,Drama,7.6,98369
+178,movie,Jacob's Ladder,1990.0,Drama Horror Mystery,7.5,98200
+179,movie,Deliverance,1972.0,Adventure Drama Thriller,7.7,98171
+180,movie,The Full Monty,1997.0,Comedy Drama,7.2,98168
+181,movie,United 93,2006.0,Action Drama History,7.5,98011
+182,movie,The Spy Who Loved Me,1977.0,Action Adventure Thriller,7.1,97893
+183,movie,Broken Flowers,2005.0,Comedy Drama Mystery,7.2,97840
+184,movie,My Name Is Khan,2010.0,Drama,8.0,97832
+185,movie,Born on the Fourth of July,1989.0,Biography Drama War,7.2,97761
+186,movie,Elite Squad,2007.0,Action Crime Drama,8.1,97592
+188,movie,The Conversation,1974.0,Drama Mystery Thriller,7.8,97461
+190,movie,Tootsie,1982.0,Comedy Drama Romance,7.4,97227
+191,movie,Ip Man 2,2010.0,Action Biography Drama,7.5,97099
+192,movie,Fences,2016.0,Drama,7.2,96956
+193,movie,Paddington,2014.0,Adventure Comedy Family,7.2,96924
+194,movie,"Love, Simon",2018.0,Comedy Drama Romance,7.6,96877
+195,movie,Running Scared,2006.0,Action Crime Drama,7.4,96656
+196,movie,Jo Nesbø's Headhunters,2011.0,Action Crime Thriller,7.5,96412
+197,movie,The Motorcycle Diaries,2004.0,Adventure Biography Drama,7.8,96209
+198,movie,Before the Devil Knows You're Dead,2007.0,Crime Drama Thriller,7.3,96200
+199,movie,National Lampoon's Vacation,1983.0,Adventure Comedy,7.4,96115
+202,movie,Enter the Dragon,1973.0,Action Crime Drama,7.7,95666
+203,movie,Super Troopers,2001.0,Comedy Crime Mystery,7.1,95642
+204,movie,St. Vincent,2014.0,Comedy Drama,7.2,95440
+205,movie,Ruby Sparks,2012.0,Comedy Drama Fantasy,7.2,95276
+206,movie,Glengarry Glen Ross,1992.0,Crime Drama Mystery,7.7,95169
+209,movie,Volver,2006.0,Comedy Drama,7.6,94265
+211,movie,"Good Night, and Good Luck.",2005.0,Biography Drama History,7.4,93753
+212,movie,Fast Times at Ridgemont High,1982.0,Comedy Drama,7.2,93698
+213,movie,Philomena,2013.0,Biography Comedy Drama,7.6,93671
+216,movie,The Last Emperor,1987.0,Biography Drama History,7.7,93465
+217,movie,The Florida Project,2017.0,Drama,7.6,93310
+218,movie,The Warriors,1979.0,Action Crime Thriller,7.6,93207
+219,movie,A League of Their Own,1992.0,Comedy Drama Sport,7.3,93174
+220,movie,A Prophet,2009.0,Crime Drama,7.9,92990
+221,movie,Reign Over Me,2007.0,Drama,7.4,92800
+223,movie,The Cider House Rules,1999.0,Drama Romance,7.4,92720
+224,movie,Elizabeth,1998.0,Biography Drama History,7.4,92618
+225,movie,Amour,2012.0,Drama Romance,7.9,92406
+226,movie,An American Werewolf in London,1981.0,Comedy Horror,7.5,92095
+227,movie,Boys Don't Cry,1999.0,Biography Crime Drama,7.5,91950
+229,movie,In the Line of Fire,1993.0,Action Crime Drama,7.2,91758
+232,movie,Dead Alive,1992.0,Comedy Fantasy Horror,7.5,91013
+233,movie,The Hurricane,1999.0,Biography Drama Sport,7.6,91002
+234,movie,Take Shelter,2011.0,Drama Horror Thriller,7.4,90713
+235,movie,Runaway Jury,2003.0,Crime Drama Thriller,7.1,90653
+236,movie,The Experiment,2001.0,Drama Thriller,7.7,90553
+237,movie,The Girl Who Played with Fire,2009.0,Crime Drama Mystery,7.2,90501
+238,movie,Onward,2020.0,Adventure Animation Comedy,7.4,90421
+239,movie,Patriots Day,2016.0,Action Crime Drama,7.4,90413
+240,movie,WarGames,1983.0,Action Adventure Drama,7.1,90181
+242,movie,Only Lovers Left Alive,2013.0,Comedy Drama Fantasy,7.3,90078
+243,movie,Booksmart,2019.0,Comedy,7.2,89928
+244,movie,Dead Man,1995.0,Adventure Drama Fantasy,7.6,89820
+245,movie,The Best Exotic Marigold Hotel,2011.0,Comedy Drama Romance,7.2,89738
+246,movie,Three Colors: Red,1994.0,Drama Mystery Romance,8.1,89629
+247,movie,Malena,2000.0,Comedy Drama Romance,7.5,89574
+248,movie,"Paris, Texas",1984.0,Drama,8.1,89499
+249,movie,Election,1999.0,Comedy Drama Romance,7.2,89470
+251,movie,My Sister's Keeper,2009.0,Drama Family,7.4,88954
+253,movie,The Painted Veil,2006.0,Drama Romance,7.5,88729
+254,movie,All About My Mother,1999.0,Drama,7.8,88446
+255,movie,Three Colors: Blue,1993.0,Drama Music Mystery,7.9,88424
+256,movie,Do the Right Thing,1989.0,Comedy Drama,8.0,88408
+258,movie,Persepolis,2007.0,Animation Biography Drama,8.0,88074
+259,movie,Dead Man Walking,1995.0,Crime Drama,7.5,88020
+261,movie,Heathers,1989.0,Comedy Crime,7.2,87854
+264,movie,The People vs. Larry Flynt,1996.0,Biography Drama,7.3,87590
+265,movie,Mississippi Burning,1988.0,Crime Drama History,7.8,87403
+266,movie,Beginners,2010.0,Comedy Drama Romance,7.2,87376
+268,movie,Grosse Pointe Blank,1997.0,Action Comedy Crime,7.3,87330
+269,movie,Good Time,2017.0,Crime Drama Thriller,7.4,87189
+270,movie,The King of Comedy,1982.0,Comedy Crime Drama,7.8,87071
+272,movie,The Muppets,2011.0,Adventure Comedy Family,7.1,86957
+273,movie,Blood Simple,1984.0,Crime Drama Thriller,7.6,86902
+274,movie,Klaus,2019.0,Adventure Animation Comedy,8.2,86743
+275,movie,Sling Blade,1996.0,Drama,8.0,86439
+276,movie,Following,1998.0,Crime Mystery Thriller,7.5,86255
+278,movie,Concussion,2015.0,Biography Drama Sport,7.1,86003
+279,movie,Biutiful,2010.0,Drama Romance,7.5,85739
+281,movie,Witness,1985.0,Crime Drama Romance,7.4,85693
+282,movie,42,2013.0,Biography Drama Sport,7.5,85681
+283,movie,Twin Peaks: Fire Walk with Me,1992.0,Drama Horror Mystery,7.3,85657
+284,movie,The King,2019.0,Biography Drama History,7.2,85648
+285,movie,Selma,2014.0,Biography Drama History,7.5,85565
+287,movie,Bone Tomahawk,2015.0,Drama Horror Western,7.1,85377
+288,movie,Elephant,2003.0,Crime Drama Thriller,7.2,85376
+290,movie,The Death of Stalin,2017.0,Comedy Drama History,7.2,85078
+291,movie,Submarine,2010.0,Comedy Drama Romance,7.3,85058
+294,movie,To All the Boys I've Loved Before,2018.0,Comedy Drama Romance,7.1,84972
+295,movie,Malcolm X,1992.0,Biography Drama History,7.7,84920
+296,movie,Eddie the Eagle,2015.0,Biography Comedy Drama,7.4,84370
+298,movie,Sing Street,2016.0,Comedy Drama Music,7.9,84306
+299,movie,August: Osage County,2013.0,Comedy Drama,7.2,84244
+300,movie,The Fox and the Hound,1981.0,Adventure Animation Drama,7.3,84152
+302,movie,Ghost Dog: The Way of the Samurai,1999.0,Action Crime Drama,7.5,84077
+303,movie,Half Nelson,2006.0,Drama,7.2,83917
+304,movie,Harry Brown,2009.0,Action Crime Drama,7.2,83820
+305,movie,Crazy Heart,2009.0,Drama Music Romance,7.2,83714
+307,movie,Unthinkable,2010.0,Crime Drama Thriller,7.1,83511
+309,movie,The Doors,1991.0,Biography Drama Music,7.2,83322
+310,movie,Stuck in Love.,2012.0,Comedy Drama Romance,7.2,83322
+311,movie,Videodrome,1983.0,Horror Sci-Fi Thriller,7.2,83226
+313,movie,Instant Family,2018.0,Comedy Drama,7.3,83063
+314,movie,Wild at Heart,1990.0,Comedy Crime Drama,7.2,82872
+315,movie,Finding Forrester,2000.0,Drama,7.3,82693
+316,movie,Martyrs,2008.0,Horror,7.1,82674
+318,movie,Cashback,2006.0,Comedy Drama Romance,7.2,82556
+322,movie,Swades,2004.0,Drama,8.2,82417
+323,movie,Say Anything,1989.0,Comedy Drama Romance,7.3,82313
+324,movie,La Vie En Rose,2007.0,Biography Drama Music,7.6,82301
+325,movie,"Synecdoche, New York",2008.0,Drama,7.6,82286
+326,movie,October Sky,1999.0,Biography Drama Family,7.8,82097
+327,movie,Dogtooth,2009.0,Drama Thriller,7.3,81957
+330,movie,The Frighteners,1996.0,Comedy Fantasy Horror,7.1,81698
+331,movie,Clue,1985.0,Comedy Crime Mystery,7.3,81566
+334,movie,American Graffiti,1973.0,Comedy Drama,7.4,81248
+335,movie,The Straight Story,1999.0,Biography Drama,8.0,81202
+336,movie,Gangs of Wasseypur,2012.0,Action Crime Drama,8.2,81107
+337,movie,Short Term 12,2013.0,Drama,8.0,81087
+338,movie,The Devil All the Time,2020.0,Crime Drama Thriller,7.1,81036
+339,movie,Jane Eyre,2011.0,Drama Romance,7.3,81026
+340,movie,Flipped,2010.0,Comedy Drama Romance,7.7,80944
+341,movie,Arlington Road,1999.0,Crime Drama Thriller,7.2,80875
+342,movie,Frida,2002.0,Biography Drama Romance,7.4,80838
+343,movie,Dope,2015.0,Comedy Crime Drama,7.2,80443
+345,movie,The Guard,2011.0,Comedy Crime Thriller,7.3,80410
+346,movie,Beasts of the Southern Wild,2012.0,Adventure Drama Fantasy,7.3,80375
+347,movie,The Great Beauty,2013.0,Drama,7.8,80326
+348,movie,A Monster Calls,2016.0,Adventure Drama Family,7.5,80172
+349,movie,An Inconvenient Truth,2006.0,Documentary News,7.4,80126
+350,movie,Solaris,1972.0,Drama Mystery Sci-Fi,8.1,80099
+351,movie,Delicatessen,1991.0,Comedy Crime,7.6,79998
+352,movie,Gosford Park,2001.0,Comedy Drama Mystery,7.2,79953
+353,movie,Angel Heart,1987.0,Horror Mystery Thriller,7.3,79931
+354,movie,The Secret World of Arrietty,2010.0,Adventure Animation Family,7.6,79777
+357,movie,Suspiria,1977.0,Horror,7.4,79617
+358,movie,The Land Before Time,1988.0,Adventure Animation Drama,7.4,79438
+360,movie,The Birdcage,1996.0,Comedy,7.1,79298
+361,movie,Elite Squad 2: The Enemy Within,2010.0,Action Crime Drama,8.0,78870
+362,movie,The Fisher King,1991.0,Comedy Drama Fantasy,7.5,78858
+364,movie,Eye in the Sky,2015.0,Action Drama Thriller,7.3,78691
+365,movie,The SpongeBob SquarePants Movie,2004.0,Action Adventure Animation,7.1,78547
+366,movie,Wag the Dog,1997.0,Comedy Drama,7.2,78538
+367,movie,The Piano,1993.0,Drama Music Romance,7.6,78449
+368,movie,The Sandlot,1993.0,Comedy Drama Family,7.8,78386
+369,movie,Star Trek IV: The Voyage Home,1986.0,Adventure Comedy Sci-Fi,7.3,78309
+372,movie,The Squid and the Whale,2005.0,Comedy Drama,7.3,78040
+373,movie,My Father and My Son,2005.0,Drama Family,8.3,77925
+374,movie,The Color Purple,1985.0,Drama,7.8,77693
+375,movie,The Celebration,1998.0,Drama,8.0,77466
+376,movie,The Kings of Summer,2013.0,Adventure Comedy Drama,7.1,77355
+377,movie,The Sea Inside,2004.0,Biography Drama,8.0,77126
+378,movie,The Kite Runner,2007.0,Drama,7.6,77092
+379,movie,"Spring, Summer, Fall, Winter... and Spring",2003.0,Drama Romance,8.0,76907
+381,movie,Frailty,2001.0,Crime Drama Thriller,7.2,76676
+383,movie,The Hudsucker Proxy,1994.0,Comedy Drama Fantasy,7.2,76539
+384,movie,Porco Rosso,1992.0,Adventure Animation Comedy,7.7,76514
+386,movie,Detachment,2011.0,Drama,7.7,76409
+387,movie,The Longest Ride,2015.0,Drama Romance,7.1,76083
+388,movie,The Hundred-Foot Journey,2014.0,Comedy Drama,7.3,76017
+389,movie,Trumbo,2015.0,Biography Crime Drama,7.5,75943
+390,movie,Tommy Boy,1995.0,Adventure Comedy,7.1,75855
+392,movie,Pink Floyd: The Wall,1982.0,Drama Fantasy Music,8.1,75643
+394,movie,Barfi!,2012.0,Comedy Drama Romance,8.1,75117
+395,movie,Fruitvale Station,2013.0,Biography Crime Drama,7.5,75075
+396,movie,Midnight Run,1988.0,Action Comedy Crime,7.5,75039
+400,movie,The Outsiders,1983.0,Crime Drama,7.1,74893
+402,movie,Swingers,1996.0,Comedy Drama,7.2,74853
+404,movie,Felon,2008.0,Action Crime Thriller,7.4,74752
+406,movie,Baahubali 2: The Conclusion,2017.0,Action Drama,8.2,74262
+407,movie,Notes on a Scandal,2006.0,Crime Drama Romance,7.4,74218
+410,movie,Shaolin Soccer,2001.0,Action Comedy Family,7.3,73916
+412,movie,Sicko,2007.0,Documentary Drama,7.9,73513
+413,movie,A Wednesday,2008.0,Action Crime Drama,8.1,73474
+414,movie,Chak De! India,2007.0,Drama Family Sport,8.2,73457
+415,movie,Frances Ha,2012.0,Comedy Drama Romance,7.5,73414
+416,movie,A Perfect World,1993.0,Crime Drama Thriller,7.6,73401
+417,movie,Munna Bhai M.B.B.S.,2003.0,Comedy Drama Musical,8.1,73293
+418,movie,Midnight Express,1978.0,Biography Crime Drama,7.6,73175
+419,movie,Beasts of No Nation,2015.0,Drama War,7.7,73150
+420,movie,Caché,2005.0,Drama Mystery Thriller,7.3,73125
+424,movie,Disconnect,2012.0,Drama Thriller,7.5,72786
+425,movie,Fearless,2006.0,Action Biography Drama,7.6,72626
+426,movie,Kids,1995.0,Drama,7.1,72603
+428,movie,The Bridges of Madison County,1995.0,Drama Romance,7.6,72481
+429,movie,The Wind Rises,2013.0,Animation Biography Drama,7.8,72422
+430,movie,Audition,1999.0,Drama Horror Mystery,7.2,72294
+431,movie,Black Book,2006.0,Drama Thriller War,7.7,72287
+434,movie,Out of Africa,1985.0,Biography Drama Romance,7.2,72097
+435,movie,Four Lions,2010.0,Comedy Crime Drama,7.3,71580
+436,movie,Lady Vengeance,2005.0,Crime Drama Thriller,7.6,71405
+437,movie,Bajrangi Bhaijaan,2015.0,Action Adventure Comedy,8.0,71378
+440,movie,Youth,2015.0,Comedy Drama Music,7.3,71205
+444,movie,Shot Caller,2017.0,Crime Drama Thriller,7.3,70982
+445,movie,Ong-Bak: The Thai Warrior,2003.0,Action Crime Thriller,7.2,70789
+446,movie,The Trial of the Chicago 7,2020.0,Drama History Thriller,7.8,70765
+447,movie,Amistad,1997.0,Biography Drama History,7.3,70702
+448,movie,Whatever Works,2009.0,Comedy Romance,7.1,70702
+449,movie,A Very Long Engagement,2004.0,Drama Mystery Romance,7.6,70647
+450,movie,Harold and Maude,1971.0,Comedy Drama Romance,7.9,70364
+451,movie,Enter the Void,2009.0,Drama Fantasy,7.3,70326
+452,movie,Paprika,2006.0,Animation Drama Fantasy,7.7,70282
+453,movie,"Paris, je t'aime",2006.0,Comedy Drama Romance,7.2,70280
+454,movie,Star Trek VI: The Undiscovered Country,1991.0,Action Adventure Sci-Fi,7.2,69897
+455,movie,Hostiles,2017.0,Drama Western,7.2,69857
+457,movie,Andhadhun,2018.0,Crime Drama Music,8.3,69772
+458,movie,The Wicker Man,1973.0,Horror Mystery Thriller,7.5,69529
+459,movie,Freedom Writers,2007.0,Biography Crime Drama,7.5,69393
+460,movie,Paterson,2016.0,Comedy Drama Romance,7.4,69180
+461,movie,Inside Job,2010.0,Crime Documentary,8.2,69138
+462,movie,Drishyam,2015.0,Crime Drama Mystery,8.2,68861
+463,movie,In the Valley of Elah,2007.0,Crime Drama Mystery,7.1,68628
+467,movie,The White Ribbon,2009.0,Drama History Mystery,7.8,68241
+470,movie,Christopher Robin,2018.0,Adventure Comedy Drama,7.3,67900
+472,movie,God Bless America,2011.0,Comedy Crime Drama,7.2,67736
+473,movie,The Girl Who Kicked the Hornet's Nest,2009.0,Action Crime Drama,7.3,67703
+476,movie,The Science of Sleep,2006.0,Comedy Drama Fantasy,7.3,67488
+477,movie,My Left Foot,1989.0,Biography Drama,7.9,67405
+479,movie,The Station Agent,2003.0,Comedy Drama,7.6,67122
+480,movie,Zindagi Na Milegi Dobara,2011.0,Comedy Drama,8.1,67091
+482,movie,Love Me If You Dare,2003.0,Comedy Drama Romance,7.6,67047
+484,movie,Nikita,1990.0,Action Thriller,7.3,66919
+485,movie,Strange Days,1995.0,Action Crime Drama,7.2,66831
+487,movie,Hannah and Her Sisters,1986.0,Comedy Drama,7.9,66726
+488,movie,Go,1999.0,Comedy Crime,7.2,66679
+489,movie,The Thirteenth Floor,1999.0,Mystery Sci-Fi Thriller,7.1,66636
+490,movie,Seabiscuit,2003.0,Drama History Sport,7.3,66571
+491,movie,Fried Green Tomatoes,1991.0,Drama,7.7,66421
+492,movie,Blue Ruin,2013.0,Crime Drama Thriller,7.1,66360
+493,movie,District B13,2004.0,Action Crime Sci-Fi,7.2,66315
+494,movie,Open Range,2003.0,Action Drama Romance,7.4,66299
+495,movie,Dil Chahta Hai,2001.0,Comedy Drama Romance,8.1,66282
+497,movie,Happiness,1998.0,Comedy Drama,7.7,66086
+500,movie,1984,1984.0,Drama Sci-Fi,7.1,65990
+501,movie,Invincible,2006.0,Biography Drama Sport,7.1,65752
+502,movie,Agora,2009.0,Adventure Biography Drama,7.2,65715
+503,movie,Mysterious Skin,2004.0,Drama,7.6,65684
+504,movie,Anomalisa,2015.0,Animation Comedy Drama,7.3,65675
+505,movie,Hunger,2008.0,Biography Drama,7.6,65493
+506,movie,Manhunter,1986.0,Crime Horror Mystery,7.2,65449
+507,movie,Badlands,1973.0,Action Crime Drama,7.8,65391
+508,movie,The Remains of the Day,1993.0,Drama Romance,7.8,65300
+509,movie,The Outlaw Josey Wales,1976.0,Western,7.8,65130
+510,movie,Being There,1979.0,Comedy Drama,8.0,65110
+511,movie,Fighting with My Family,2019.0,Biography Comedy Drama,7.1,65055
+514,movie,House of Sand and Fog,2003.0,Crime Drama,7.5,64926
+517,movie,Spirit: Stallion of the Cimarron,2002.0,Adventure Animation Drama,7.2,64797
+518,movie,A Dog's Purpose,2017.0,Adventure Comedy Drama,7.2,64729
+522,movie,The City of Lost Children,1995.0,Fantasy Sci-Fi,7.5,64537
+523,movie,Children of Heaven,1997.0,Drama Family Sport,8.3,64354
+524,movie,Funny Games,1997.0,Crime Drama Thriller,7.6,64332
+525,movie,Quiz Show,1994.0,Biography Drama History,7.5,64319
+526,movie,Dangerous Liaisons,1988.0,Drama Romance,7.6,64166
+527,movie,Dirty Rotten Scoundrels,1988.0,Comedy Crime,7.4,64139
+529,movie,Wings of Desire,1987.0,Drama Fantasy Romance,8.0,64115
+531,movie,The Book of Life,2014.0,Adventure Animation Comedy,7.3,64016
+533,movie,Open Your Eyes,1997.0,Drama Mystery Sci-Fi,7.7,63716
+534,movie,Senna,2010.0,Biography Documentary Sport,8.5,63623
+535,movie,Ringu,1998.0,Horror Mystery,7.2,63542
+536,movie,Celda 211,2009.0,Action Adventure Crime,7.6,63539
+539,movie,The Rainmaker,1997.0,Crime Drama Thriller,7.2,63445
+541,movie,Miss Sloane,2016.0,Drama,7.5,63440
+542,movie,Searching for Sugar Man,2012.0,Biography Documentary Music,8.2,63434
+543,movie,Rust and Bone,2012.0,Drama Romance,7.5,63433
+544,movie,The Bandit,1996.0,Crime Drama Thriller,8.2,63396
+545,movie,Three Colors: White,1994.0,Comedy Drama Romance,7.6,63381
+547,movie,A Simple Plan,1998.0,Crime Drama Thriller,7.5,63147
+548,movie,Dilwale Dulhania Le Jayenge,1995.0,Drama Romance,8.1,63011
+549,movie,Day of the Dead,1985.0,Horror Thriller,7.2,62972
+550,movie,Kal Ho Naa Ho,2003.0,Comedy Drama Musical,8.0,62904
+554,movie,The Man from Nowhere,2010.0,Action Crime Drama,7.8,62201
+555,movie,The Peanut Butter Falcon,2019.0,Adventure Comedy Drama,7.6,62161
+556,movie,Sympathy for Mr. Vengeance,2002.0,Crime Drama Thriller,7.6,62127
+557,movie,Exit Through the Gift Shop,2010.0,Comedy Crime Documentary,8.0,62105
+558,movie,Breaking the Waves,1996.0,Drama,7.8,61962
+559,movie,Chungking Express,1994.0,Comedy Crime Drama,8.1,61930
+560,movie,The Dead Zone,1983.0,Drama Horror Sci-Fi,7.2,61792
+561,movie,The Dark Crystal,1982.0,Adventure Family Fantasy,7.2,61768
+562,movie,Robot & Frank,2012.0,Comedy Crime Drama,7.1,61648
+563,movie,13 Assassins,2010.0,Action Adventure Drama,7.6,61607
+564,movie,Major League,1989.0,Comedy Sport,7.2,61595
+565,movie,The Devil's Backbone,2001.0,Drama Horror,7.4,61500
+567,movie,Blackfish,2013.0,Biography Documentary News,8.1,61438
+568,movie,Control,2007.0,Biography Drama Music,7.7,61291
+570,movie,Eighth Grade,2018.0,Comedy Drama,7.4,61182
+571,movie,Palm Springs,2020.0,Comedy Fantasy Mystery,7.4,61146
+572,movie,In the Mouth of Madness,1995.0,Drama Horror Mystery,7.2,61039
+573,movie,Wonder Boys,2000.0,Comedy Drama,7.2,60976
+575,movie,Fright Night,1985.0,Fantasy Horror Thriller,7.1,60910
+577,movie,Elle,2016.0,Crime Drama Thriller,7.1,60630
+578,movie,Eight Below,2006.0,Adventure Drama Family,7.3,60580
+579,movie,Bhaag Milkha Bhaag,2013.0,Biography Drama Sport,8.2,60570
+580,movie,Shoplifters,2018.0,Crime Drama,8.0,60526
+581,movie,Waking Life,2001.0,Animation Drama Fantasy,7.8,60429
+582,movie,Queen,2013.0,Adventure Comedy Drama,8.2,60297
+583,movie,The Devil's Double,2011.0,Biography Drama Thriller,7.1,60016
+585,movie,Paddington 2,2017.0,Adventure Comedy Family,7.8,59829
+586,movie,The Girl Who Leapt Through Time,2006.0,Adventure Animation Comedy,7.7,59802
+587,movie,Top Secret!,1984.0,Comedy Music,7.2,59787
+588,movie,Capernaum,2018.0,Drama,8.4,59494
+589,movie,Coffee and Cigarettes,2003.0,Comedy Drama Music,7.1,59477
+591,movie,Friday Night Lights,2004.0,Action Drama Sport,7.2,58704
+593,movie,Portrait of a Lady on Fire,2019.0,Drama Romance,8.1,58648
+594,movie,Heavenly Creatures,1994.0,Biography Crime Drama,7.3,58631
+595,movie,Fish Tank,2009.0,Drama,7.3,58608
+597,movie,After Hours,1985.0,Comedy Crime Drama,7.7,58546
+599,movie,The Legend of 1900,1998.0,Drama Music Romance,8.1,58508
+600,movie,Everybody's Fine,2009.0,Drama,7.1,58474
+604,movie,Brawl in Cell Block 99,2017.0,Action Crime Drama,7.1,58149
+605,movie,Timecrimes,2007.0,Horror Mystery Sci-Fi,7.2,57911
+606,movie,The Social Dilemma,2020.0,Documentary Drama,7.7,57893
+607,movie,Marathon Man,1976.0,Crime Thriller,7.4,57820
+609,movie,The Chaser,2008.0,Action Crime Thriller,7.8,57711
+610,movie,A Beautiful Day in the Neighborhood,2019.0,Biography Drama,7.3,57665
+611,movie,Come and See,1985.0,Drama Thriller War,8.3,57551
+612,movie,The Fundamentals of Caring,2016.0,Comedy Drama,7.3,57469
+614,movie,The Young Victoria,2009.0,Biography Drama History,7.3,57443
+616,movie,Kahaani,2012.0,Mystery Thriller,8.1,57356
+617,movie,Religulous,2008.0,Comedy Documentary War,7.6,57299
+618,movie,Only the Brave,2017.0,Action Biography Drama,7.6,57194
+621,movie,We Are Marshall,2006.0,Drama Sport,7.1,57120
+622,movie,Fanny and Alexander,1982.0,Drama,8.1,57078
+624,movie,The Chorus,2004.0,Drama Music,7.9,57003
+625,movie,Excalibur,1981.0,Adventure Drama Fantasy,7.4,56934
+626,movie,Richard Jewell,2019.0,Biography Crime Drama,7.5,56877
+627,movie,Perfect Blue,1997.0,Animation Crime Mystery,8.0,56817
+628,movie,Soylent Green,1973.0,Crime Mystery Sci-Fi,7.1,56796
+629,movie,Shallow Grave,1994.0,Crime Thriller,7.3,56590
+630,movie,Everything Is Illuminated,2005.0,Comedy Drama,7.4,56566
+631,movie,The Body,2012.0,Mystery Thriller,7.6,56463
+633,movie,Hera Pheri,2000.0,Action Comedy Crime,8.2,56386
+635,movie,G.O.R.A.,2004.0,Adventure Comedy Sci-Fi,8.0,56264
+636,movie,"4 Months, 3 Weeks and 2 Days",2007.0,Drama,7.9,56252
+637,movie,Rudy,1993.0,Biography Drama Sport,7.5,56222
+638,movie,A Tale of Two Sisters,2003.0,Drama Horror Mystery,7.2,56184
+639,movie,The Little Prince,2015.0,Adventure Animation Drama,7.7,56176
+640,movie,Re-Animator,1985.0,Comedy Horror Sci-Fi,7.2,56171
+641,movie,Perfect Strangers,2016.0,Comedy Drama,7.8,56126
+642,movie,Straw Dogs,1971.0,Crime Drama Thriller,7.5,55996
+643,movie,Ghajini,2008.0,Action Drama Mystery,7.3,55972
+644,movie,The Right Stuff,1983.0,Adventure Biography Drama,7.8,55927
+645,movie,Perfect Sense,2011.0,Drama Romance Sci-Fi,7.1,55827
+647,movie,Calvary,2014.0,Comedy Drama,7.4,55742
+648,movie,The Piano Teacher,2001.0,Drama,7.5,55693
+649,movie,The Great Debaters,2007.0,Biography Drama Romance,7.5,55672
+650,movie,March of the Penguins,2005.0,Documentary Family,7.5,55665
+651,movie,Magnum Force,1973.0,Action Crime Mystery,7.2,55631
+654,movie,The Mission,1986.0,Adventure Drama History,7.4,55487
+655,movie,Best in Show,2000.0,Comedy,7.4,55464
+656,movie,Bad Education,2004.0,Crime Drama,7.4,55436
+657,movie,Murder on the Orient Express,1974.0,Crime Drama Mystery,7.3,55324
+658,movie,Sexy Beast,2000.0,Crime Drama Thriller,7.3,55048
+659,movie,Night on Earth,1991.0,Comedy Drama,7.8,54858
+660,movie,Underground,1995.0,Comedy Drama War,8.1,54851
+661,movie,Dark Waters,2019.0,Biography Drama History,7.6,54834
+662,movie,Final Fantasy VII: Advent Children,2005.0,Action Adventure Animation,7.2,54828
+663,movie,Waltz with Bashir,2008.0,Animation Biography Documentary,8.0,54826
+665,movie,Terms of Endearment,1983.0,Comedy Drama,7.4,54686
+666,movie,The Square,2017.0,Comedy Drama,7.2,54624
+667,movie,Animal Kingdom,2010.0,Crime Drama,7.3,54466
+668,movie,Benny & Joon,1993.0,Comedy Drama Romance,7.2,54452
+669,movie,Chariots of Fire,1981.0,Biography Drama Sport,7.2,54375
+670,movie,The Return of the Living Dead,1985.0,Comedy Horror Sci-Fi,7.3,54357
+671,movie,The Player,1992.0,Comedy Crime Drama,7.5,54306
+672,movie,In the Loop,2009.0,Comedy,7.4,54293
+673,movie,Crimes and Misdemeanors,1989.0,Comedy Drama,7.9,54293
+677,movie,Thirteen Days,2000.0,Drama History Thriller,7.3,53779
+680,movie,Wristcutters: A Love Story,2006.0,Comedy Drama Fantasy,7.3,53578
+681,movie,Woman in Gold,2015.0,Biography Drama History,7.3,53479
+683,movie,A River Runs Through It,1992.0,Drama,7.2,53280
+685,movie,The Ice Storm,1997.0,Drama,7.4,53243
+686,movie,Papillon,2017.0,Adventure Biography Crime,7.2,53227
+687,movie,The Dressmaker,2015.0,Comedy Drama,7.1,53137
+688,movie,Free Solo,2018.0,Adventure Documentary Sport,8.2,53131
+690,movie,The Christmas Chronicles,2018.0,Adventure Comedy Family,7.1,53093
+691,movie,Chaplin,1992.0,Biography Comedy Drama,7.6,53050
+692,movie,"I, Daniel Blake",2016.0,Drama,7.9,52972
+693,movie,Grizzly Man,2005.0,Biography Documentary,7.8,52840
+694,movie,Invasion of the Body Snatchers,1978.0,Horror Sci-Fi,7.4,52810
+697,movie,The Jerk,1979.0,Comedy,7.2,52724
+701,movie,Ida,2013.0,Drama,7.4,52589
+702,movie,Win Win,2011.0,Comedy Drama Sport,7.1,52567
+703,movie,Airlift,2016.0,Drama History,8.0,52560
+705,movie,Baby,2015.0,Action Thriller,8.0,52488
+706,movie,Man on Wire,2008.0,Biography Crime Documentary,7.7,52427
+707,movie,Pale Rider,1985.0,Drama Western,7.3,52421
+710,movie,The Age of Innocence,1993.0,Drama Romance,7.2,52284
+711,movie,Days of Heaven,1978.0,Drama Romance,7.8,52282
+712,movie,The Gods Must Be Crazy,1980.0,Adventure Comedy,7.3,52258
+713,movie,Victoria,2015.0,Crime Drama Romance,7.6,52206
+714,movie,Citizenfour,2014.0,Biography Documentary History,8.0,52159
+716,movie,Secondhand Lions,2003.0,Comedy Drama Family,7.5,52123
+717,movie,Sneakers,1992.0,Comedy Crime Drama,7.1,52101
+718,movie,Hotel Mumbai,2018.0,Action Drama History,7.6,51951
+719,movie,"Aguirre, the Wrath of God",1972.0,Action Adventure Biography,7.9,51942
+720,movie,Beautiful Boy,2018.0,Biography Drama,7.3,51893
+721,movie,The Last Temptation of Christ,1988.0,Drama,7.5,51861
+722,movie,Lords of Dogtown,2005.0,Biography Drama Sport,7.1,51818
+724,movie,A Bridge Too Far,1977.0,Drama History War,7.4,51725
+725,movie,The World's Fastest Indian,2005.0,Biography Drama Sport,7.8,51717
+727,movie,Little Women,1994.0,Drama Family Romance,7.3,51564
+728,movie,Menace II Society,1993.0,Crime Drama Thriller,7.5,51530
+729,movie,The Light Between Oceans,2016.0,Drama Romance,7.2,51521
+730,movie,Dolemite Is My Name,2019.0,Biography Comedy Drama,7.3,51514
+731,movie,Mother,2009.0,Crime Drama Mystery,7.8,51423
+732,movie,Quills,2000.0,Biography Drama,7.3,51388
+733,movie,Pride,2014.0,Biography Comedy Drama,7.8,51384
+735,movie,The Killing Fields,1984.0,Biography Drama History,7.8,51251
+736,movie,OMG: Oh My God!,2012.0,Comedy Drama Fantasy,8.1,51102
+738,movie,Shine,1996.0,Biography Drama Music,7.7,51041
+739,movie,Climax,2018.0,Drama Horror Music,7.1,51017
+740,movie,Head-On,2004.0,Drama Romance,7.9,50982
+741,movie,Sholay,1975.0,Action Adventure Comedy,8.2,50908
+742,movie,Whisper of the Heart,1995.0,Animation Drama Family,7.9,50907
+743,movie,Arthur Christmas,2011.0,Adventure Animation Comedy,7.1,50881
+744,movie,Soorarai Pottru,2020.0,Drama,8.7,50869
+745,movie,The Crying Game,1992.0,Crime Drama Romance,7.2,50781
+746,movie,'71,2014.0,Action Crime Drama,7.2,50761
+747,movie,The Man Who Knew Infinity,2015.0,Biography Drama,7.2,50681
+749,movie,Song of the Sea,2014.0,Adventure Animation Drama,8.1,50599
+750,movie,Special 26,2013.0,Crime Drama Thriller,8.0,50595
+752,movie,Alive,1993.0,Biography Drama Thriller,7.1,50535
+754,movie,2046,2004.0,Drama Romance Sci-Fi,7.4,50507
+755,movie,5 Centimeters Per Second,2007.0,Animation Drama Family,7.6,50505
+756,movie,"Black Cat, White Cat",1998.0,Comedy Crime Romance,8.1,50495
+757,movie,The Adventures of Baron Munchausen,1988.0,Adventure Comedy Fantasy,7.2,50458
+759,movie,Tell No One,2006.0,Crime Drama Mystery,7.5,50431
+760,movie,The Wailing,2016.0,Horror Mystery Thriller,7.5,50425
+761,movie,My Own Private Idaho,1991.0,Drama,7.1,50387
+762,movie,The Salesman,2016.0,Drama Thriller,7.8,50368
+763,movie,The Triplets of Belleville,2003.0,Animation Comedy Drama,7.8,50364
+764,movie,Bound,1996.0,Crime Thriller,7.3,50274
+766,movie,Haider,2014.0,Action Crime Drama,8.1,50100
+767,movie,The Proposition,2005.0,Crime Drama Western,7.3,50049
+768,movie,3-Iron,2004.0,Crime Drama Romance,8.0,50001
+770,movie,The Lunchbox,2013.0,Drama Romance,7.8,49999
+771,movie,Loving Vincent,2017.0,Animation Biography Crime,7.8,49993
+772,movie,Mommy,2014.0,Drama,8.1,49986
+773,movie,Leave No Trace,2018.0,Drama,7.2,49963
+776,movie,"Sex, Lies, and Videotape",1989.0,Drama,7.2,49865
+777,movie,Show Me Love,1998.0,Comedy Drama Romance,7.5,49747
+778,movie,High Plains Drifter,1973.0,Drama Mystery Western,7.5,49536
+779,movie,Hamilton,2020.0,Biography Drama History,8.6,49503
+780,movie,Moonstruck,1987.0,Comedy Drama Romance,7.1,49482
+781,movie,Don't Look Now,1973.0,Drama Mystery Thriller,7.2,49431
+782,movie,Nine Queens,2000.0,Crime Drama Thriller,7.9,49386
+783,movie,The Flowers of War,2011.0,Drama History Romance,7.6,49351
+784,movie,"Food, Inc.",2008.0,Documentary News,7.8,49249
+786,movie,Dead Man's Shoes,2004.0,Crime Drama Thriller,7.6,49124
+787,movie,Don 2,2011.0,Action Crime Thriller,7.1,49117
+789,movie,Andaz Apna Apna,1994.0,Action Comedy Romance,8.2,48964
+790,movie,Leviathan,2014.0,Crime Drama,7.6,48929
+792,movie,Ip Man 3,2015.0,Action Biography Drama,7.1,48719
+793,movie,Veer-Zaara,2004.0,Drama Family Musical,7.8,48648
+794,movie,The Farewell,2019.0,Comedy Drama,7.6,48630
+795,movie,Force Majeure,2014.0,Comedy Drama,7.3,48605
+799,movie,The Cat Returns,2002.0,Adventure Animation Comedy,7.2,48315
+800,movie,Amy,2015.0,Biography Documentary Music,7.8,48299
+801,movie,Departures,2008.0,Drama Music,8.1,48279
+803,movie,The Muppet Christmas Carol,1992.0,Comedy Drama Family,7.7,47992
+804,movie,Cold War,2018.0,Drama History Music,7.6,47948
+805,movie,Cabaret,1972.0,Drama Music Musical,7.8,47945
+806,movie,The Big Blue,1988.0,Adventure Drama Sport,7.6,47900
+808,movie,Pain and Glory,2019.0,Drama,7.5,47864
+809,movie,Three Days of the Condor,1975.0,Mystery Thriller,7.4,47861
+811,movie,Detroit,2017.0,Crime Drama History,7.3,47740
+813,movie,Burning,2018.0,Drama Mystery,7.5,47675
+814,movie,Miracle,2004.0,Biography Drama History,7.5,47624
+815,movie,Who Am I,2014.0,Crime Drama Mystery,7.6,47600
+816,movie,Kuch Kuch Hota Hai,1998.0,Comedy Drama Musical,7.6,47590
+819,movie,Down by Law,1986.0,Comedy Crime Drama,7.8,47524
+821,movie,American Splendor,2003.0,Biography Comedy Drama,7.4,47472
+823,movie,Mid90s,2018.0,Comedy Drama,7.4,47428
+824,movie,Buffalo '66,1998.0,Comedy Drama Romance,7.5,47417
+825,movie,Colonia,2015.0,Biography Drama History,7.1,47400
+826,movie,Bull Durham,1988.0,Comedy Romance Sport,7.1,47369
+827,movie,Jab We Met,2007.0,Comedy Drama Romance,7.9,47293
+829,movie,Steel Magnolias,1989.0,Comedy Drama Romance,7.3,47161
+830,movie,The Cove,2009.0,Biography Crime Documentary,8.4,47117
+832,movie,First Reformed,2017.0,Drama Mystery Thriller,7.1,47066
+834,movie,The Blind Swordsman: Zatoichi,2003.0,Action Comedy Crime,7.5,46998
+835,movie,Sanju,2018.0,Biography Comedy Drama,7.8,46934
+836,movie,The Purple Rose of Cairo,1985.0,Comedy Fantasy Romance,7.7,46809
+837,movie,Naked Lunch,1991.0,Drama,7.1,46773
+838,movie,This Boy's Life,1993.0,Biography Drama,7.3,46715
+839,movie,Ordinary People,1980.0,Drama,7.7,46601
+841,movie,A Man Called Ove,2015.0,Comedy Drama Romance,7.7,46570
+843,movie,Hard Boiled,1992.0,Action Crime Thriller,7.8,46451
+845,movie,"The Adventures of Priscilla, Queen of the Desert",1994.0,Comedy Music,7.4,46266
+846,movie,The Wind that Shakes the Barley,2006.0,Drama War,7.5,46229
+847,movie,Can You Ever Forgive Me?,2018.0,Biography Comedy Crime,7.1,46121
+851,movie,Kon-Tiki,2012.0,Adventure Biography Drama,7.2,45617
+852,movie,Black Dynamite,2009.0,Action Comedy,7.4,45557
+853,movie,Kill the Irishman,2011.0,Biography Crime Drama,7.1,45541
+855,movie,Winter Sleep,2014.0,Drama,8.1,45465
+856,movie,The Killer,1989.0,Action Crime Drama,7.8,45419
+858,movie,A Silent Voice: The Movie,2016.0,Animation Drama Family,8.1,45258
+859,movie,Adam's Apples,2005.0,Comedy Crime Drama,7.8,45220
+861,movie,My Sassy Girl,2001.0,Comedy Drama Romance,8.0,45176
+864,movie,Darbareye Elly,2009.0,Drama Mystery Thriller,8.0,45031
+866,movie,The Imposter,2012.0,Biography Crime Documentary,7.5,45008
+869,movie,"Two Days, One Night",2014.0,Drama,7.3,44931
+870,movie,Much Ado About Nothing,1993.0,Comedy Drama Romance,7.3,44914
+873,movie,11:14,2003.0,Crime Drama Mystery,7.2,44721
+874,movie,The Past,2013.0,Drama Mystery,7.8,44689
+875,movie,The Great Mouse Detective,1986.0,Adventure Animation Family,7.2,44653
+877,movie,Kabhi Khushi Kabhie Gham...,2001.0,Drama Musical Romance,7.4,44598
+878,movie,Son of Saul,2015.0,Drama War,7.5,44598
+881,movie,Sleuth,1972.0,Mystery Thriller,8.0,44535
+882,movie,Mongol: The Rise of Genghis Khan,2007.0,Action Biography Drama,7.2,44469
+883,movie,Far from the Madding Crowd,2015.0,Drama Romance,7.1,44426
+884,movie,No Man's Land,2001.0,Comedy Drama War,7.9,44388
+885,movie,The Man Who Would Be King,1975.0,Adventure History War,7.8,44384
+887,movie,Che: Part One,2008.0,Biography Drama History,7.2,44087
+888,movie,Blow Out,1981.0,Crime Drama Mystery,7.4,44075
+889,movie,Just Mercy,2019.0,Biography Crime Drama,7.6,44033
+890,movie,A Royal Affair,2012.0,Biography Drama History,7.5,43912
+891,movie,The Natural,1984.0,Drama Sport,7.5,43890
+892,movie,Toni Erdmann,2016.0,Comedy Drama,7.4,43788
+894,movie,CM101MMXI Fundamentals,2013.0,Comedy Documentary,9.2,43750
+895,movie,Far from Heaven,2002.0,Drama Romance,7.3,43733
+896,movie,The Message,1976.0,Biography Drama History,8.2,43600
+897,movie,Assault on Precinct 13,1976.0,Action Crime Thriller,7.4,43565
+898,movie,Red Cliff,2008.0,Action Adventure Drama,7.4,43517
+900,movie,Rab Ne Bana Di Jodi,2008.0,Comedy Drama Music,7.2,43501
+901,movie,Anthropoid,2016.0,Action Biography Drama,7.2,43465
+903,movie,The Hitcher,1986.0,Action Thriller,7.2,43334
+905,movie,Batman: Mask of the Phantasm,1993.0,Action Animation Crime,7.8,43255
+906,movie,Candy,2006.0,Drama Romance,7.2,43196
+907,movie,Starred Up,2013.0,Crime Drama,7.4,43141
+910,movie,The Counterfeiters,2007.0,Crime Drama History,7.6,43085
+915,movie,Glory Road,2006.0,Biography Drama Sport,7.2,42884
+916,movie,1 - Nenokkadine,2014.0,Action Thriller,8.1,42847
+917,movie,The Guilty,2018.0,Crime Drama Thriller,7.5,42797
+920,movie,"Carry On, Munna Bhai",2006.0,Comedy Drama Romance,8.1,42746
+921,movie,Life as a House,2001.0,Drama,7.5,42740
+922,movie,The Legend of Drunken Master,1994.0,Action Comedy,7.6,42728
+923,movie,Hoosiers,1986.0,Drama Sport,7.5,42680
+925,movie,Uri: The Surgical Strike,2019.0,Action Drama War,8.2,42649
+926,movie,Cowboy Bebop: The Movie,2001.0,Action Animation Crime,7.9,42591
+929,movie,Lilya 4-Ever,2002.0,Crime Drama,7.8,42420
+931,movie,Thirst,2009.0,Drama Fantasy Horror,7.1,42342
+932,movie,Deconstructing Harry,1997.0,Comedy,7.4,42287
+937,movie,Udaan,2010.0,Drama,8.2,42063
+938,movie,Short Cuts,1993.0,Comedy Drama,7.7,42060
+939,movie,Conviction,2010.0,Biography Crime Drama,7.2,42057
+940,movie,The Peanuts Movie,2015.0,Animation Comedy Family,7.1,42025
+941,movie,The Return,2003.0,Drama,8.0,42023
+942,movie,The Last Picture Show,1971.0,Drama Romance,8.0,42022
+944,movie,Paper Moon,1973.0,Comedy Crime Drama,8.1,41967
+945,movie,Sophie's Choice,1982.0,Drama Romance,7.6,41795
+946,movie,Hard Eight,1996.0,Crime Drama,7.2,41775
+947,movie,Mudbound,2017.0,Drama War,7.4,41759
+948,movie,Five Feet Apart,2019.0,Drama Romance,7.2,41749
+949,movie,The Double Life of Véronique,1991.0,Drama Fantasy Music,7.8,41693
+950,movie,Look Who's Back,2015.0,Comedy Drama Fantasy,7.1,41680
+953,movie,The Visitor,2007.0,Drama,7.6,41417
+954,movie,People Like Us,2012.0,Comedy Drama,7.1,41395
+956,movie,Holy Motors,2012.0,Drama Fantasy,7.1,41252
+957,movie,The Damned United,2009.0,Biography Drama Sport,7.5,41218
+958,movie,If Beale Street Could Talk,2018.0,Drama Romance,7.1,41187
+959,movie,Better Off Dead...,1985.0,Comedy Romance,7.1,41180
+961,movie,Frenzy,1972.0,Thriller,7.4,41158
+962,movie,Once Upon a Time in Anatolia,2011.0,Crime Drama,7.9,41153
+963,movie,Dead Ringers,1988.0,Drama Horror Thriller,7.3,41088
+964,movie,The Sessions,2012.0,Biography Comedy Drama,7.2,41086
+965,movie,Arizona Dream,1993.0,Comedy Drama Fantasy,7.3,41076
+966,movie,Capitalism: A Love Story,2009.0,Crime Documentary History,7.4,41038
+967,movie,Shutter,2004.0,Horror Mystery Thriller,7.1,41020
+968,movie,Casualties of War,1989.0,Crime Drama War,7.1,40819
+969,movie,Catfish,2010.0,Documentary Drama Mystery,7.1,40811
+974,movie,The Poseidon Adventure,1972.0,Action Adventure Drama,7.1,40634
+975,movie,Dirty Pretty Things,2002.0,Crime Drama Thriller,7.3,40508
+976,movie,In America,2002.0,Drama,7.7,40299
+977,movie,Of Mice and Men,1992.0,Drama Western,7.5,40240
+978,movie,Transamerica,2005.0,Adventure Comedy Drama,7.4,40191
+980,movie,Withnail & I,1987.0,Comedy Drama,7.7,39954
+986,movie,Mirage,2018.0,Drama Fantasy Mystery,7.4,39781
+987,movie,Zelig,1983.0,Comedy,7.7,39675
+988,movie,North Country,2005.0,Drama,7.3,39667
+990,movie,Sleeper,1973.0,Comedy Sci-Fi,7.2,39628
+991,movie,20th Century Women,2016.0,Comedy Drama,7.3,39624
+992,movie,Amarcord,1973.0,Comedy Drama,7.9,39557
+995,movie,The Tenant,1976.0,Drama Thriller,7.7,39488
+996,movie,Balto,1995.0,Adventure Animation Drama,7.1,39474
+998,movie,Vicky Donor,2012.0,Comedy Romance,7.8,39411
+999,movie,The Mirror,1975.0,Biography Drama,8.1,39397
+1000,movie,Tangerines,2013.0,Drama War,8.2,39377
+1001,movie,A Room with a View,1985.0,Drama Romance,7.3,39346
+1002,movie,Manhattan Murder Mystery,1993.0,Comedy Mystery,7.4,39328
+1004,movie,L'auberge espagnole,2002.0,Comedy Drama Romance,7.3,39260
+1005,movie,Whale Rider,2002.0,Drama Family,7.5,39250
+1006,movie,M.S. Dhoni: The Untold Story,2016.0,Biography Drama Sport,7.8,39242
+1007,movie,Welcome to the Sticks,2008.0,Comedy Romance,7.1,39191
+1008,movie,The Broken Circle Breakdown,2012.0,Drama Music Romance,7.7,39142
+1009,movie,Talaash,2012.0,Crime Drama Mystery,7.2,39067
+1010,movie,Fiddler on the Roof,1971.0,Drama Family Musical,8.0,39059
+1011,movie,Rockstar,2011.0,Drama Music Musical,7.7,39053
+1015,movie,Dolores Claiborne,1995.0,Crime Drama Mystery,7.4,38760
+1017,movie,Mientras duermes,2011.0,Drama Thriller,7.2,38703
+1018,movie,The Three Burials of Melquiades Estrada,2005.0,Adventure Crime Drama,7.4,38695
+1019,movie,Vishwaroopam,2013.0,Action Thriller,8.2,38673
+1020,movie,Pink,2016.0,Drama Thriller,8.1,38651
+1023,movie,Bad Lieutenant,1992.0,Crime Drama Thriller,7.1,38537
+1025,movie,Hustle & Flow,2005.0,Crime Drama Music,7.3,38458
+1026,movie,Downton Abbey,2019.0,Drama Romance,7.4,38450
+1027,movie,This Is It,2009.0,Documentary Drama Music,7.2,38350
+1028,movie,In a Better World,2010.0,Drama Romance,7.6,38326
+1029,movie,Broken Embraces,2009.0,Drama Romance Thriller,7.2,38310
+1030,movie,Icarus,2017.0,Documentary Sport,7.9,38300
+1032,movie,Wolf Children,2012.0,Animation Drama Fantasy,8.1,38289
+1033,movie,Narc,2002.0,Crime Drama Mystery,7.1,38216
+1035,movie,The Discreet Charm of the Bourgeoisie,1972.0,Comedy,7.9,38206
+1037,movie,Silverado,1985.0,Action Crime Drama,7.2,38128
+1038,movie,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,2013.0,Adventure Comedy,7.1,38128
+1039,movie,Devdas,2002.0,Drama Musical Romance,7.6,38084
+1041,movie,Neon Genesis Evangelion: The End of Evangelion,1997.0,Action Animation Drama,8.1,37993
+1042,movie,The Hidden Face,2011.0,Drama Mystery Thriller,7.4,37977
+1043,movie,Yeh Jawaani Hai Deewani,2013.0,Drama Musical Romance,7.1,37958
+1044,movie,Les Misérables,1998.0,Crime Drama History,7.5,37936
+1045,movie,The Tale of The Princess Kaguya,2013.0,Adventure Animation Drama,8.0,37891
+1049,movie,Tae Guk Gi: The Brotherhood of War,2004.0,Action Drama War,8.1,37671
+1057,movie,A.R.O.G,2008.0,Comedy Fantasy Sci-Fi,7.3,37376
+1058,movie,JCVD,2008.0,Action Comedy Crime,7.1,37374
+1060,movie,The Transformers: The Movie,1986.0,Action Adventure Animation,7.3,37315
+1061,movie,The Railway Man,2013.0,Biography Drama Romance,7.1,37287
+1062,movie,In the Bedroom,2001.0,Crime Drama,7.4,37248
+1064,movie,Secrets & Lies,1996.0,Comedy Drama,8.0,37175
+1065,movie,"Lust, Caution",2007.0,Drama History Romance,7.5,37143
+1066,movie,The Day of the Jackal,1973.0,Crime Drama Thriller,7.8,37116
+1068,movie,Le Dîner de Cons,1998.0,Comedy,7.7,37093
+1070,movie,The Chaos Class,1975.0,Comedy Drama,9.3,36879
+1071,movie,Shaun the Sheep Movie,2015.0,Adventure Animation Comedy,7.3,36868
+1073,movie,Going Clear: Scientology & the Prison of Belief,2015.0,Documentary,8.0,36800
+1074,movie,The Secret Garden,1993.0,Drama Family Fantasy,7.3,36716
+1076,movie,Gallipoli,1981.0,Adventure Drama History,7.4,36633
+1079,movie,Boy A,2007.0,Drama,7.6,36528
+1080,movie,The Believer,2001.0,Drama,7.2,36438
+1082,movie,The Holy Mountain,1973.0,Adventure Drama Fantasy,7.9,36399
+1083,movie,Drunken Master,1978.0,Action Comedy,7.5,36348
+1085,movie,Soul Kitchen,2009.0,Comedy Drama,7.3,36252
+1086,movie,The Physician,2013.0,Adventure Drama History,7.2,36249
+1089,movie,Fyre,2019.0,Documentary Music,7.2,36175
+1090,movie,Brimstone,2016.0,Drama Mystery Thriller,7.1,36170
+1093,movie,Central Station,1998.0,Drama,8.0,36094
+1094,movie,Man Bites Dog,1992.0,Comedy Crime Drama,7.5,36063
+1095,movie,A Bittersweet Life,2005.0,Action Crime Drama,7.6,36062
+1096,movie,Baraka,1992.0,Documentary,8.6,36046
+1097,movie,Chopper,2000.0,Biography Crime Drama,7.2,36036
+1098,movie,Ghost in the Shell 2: Innocence,2004.0,Action Animation Drama,7.5,36021
+1099,movie,Nothing But the Truth,2008.0,Crime Drama Mystery,7.2,35990
+1100,movie,The Secret of NIMH,1982.0,Adventure Animation Drama,7.6,35983
+1101,movie,Hamlet,1996.0,Drama,7.7,35839
+1102,movie,Love & Mercy,2014.0,Biography Drama Music,7.4,35837
+1104,movie,Love and Death,1975.0,Comedy War,7.7,35776
+1105,movie,The Verdict,1982.0,Drama,7.7,35770
+1106,movie,The Savages,2007.0,Comedy Drama,7.1,35742
+1107,movie,Dear Zindagi,2016.0,Drama Romance,7.6,35732
+1108,movie,The Baader Meinhof Complex,2008.0,Action Biography Crime,7.4,35570
+1109,movie,Women on the Verge of a Nervous Breakdown,1988.0,Comedy Drama,7.6,35526
+1110,movie,Thesis,1996.0,Horror Mystery Thriller,7.4,35496
+1112,movie,Evil,2003.0,Drama,7.8,35467
+1113,movie,Confessions,2010.0,Drama Thriller,7.8,35454
+1114,movie,Mr. Holland's Opus,1995.0,Drama Music,7.3,35409
+1116,movie,Mustang,2015.0,Drama,7.6,35383
+1118,movie,Bitter Moon,1992.0,Drama Romance Thriller,7.2,35286
+1120,movie,Bullets Over Broadway,1994.0,Comedy Crime,7.4,35263
+1121,movie,The One I Love,2014.0,Comedy Drama Romance,7.1,35224
+1123,movie,Muriel's Wedding,1994.0,Comedy Drama,7.2,35196
+1124,movie,"McFarland, USA",2015.0,Biography Drama Sport,7.4,35174
+1125,movie,No Way Out,1987.0,Action Crime Drama,7.1,35147
+1126,movie,Dressed to Kill,1980.0,Crime Drama Mystery,7.1,35122
+1127,movie,Keith,2008.0,Drama Romance,7.4,35118
+1128,movie,Koyaanisqatsi,1982.0,Documentary Music,8.3,35091
+1132,movie,The Protector,2005.0,Action Crime Drama,7.1,35038
+1133,movie,Land of Mine,2015.0,Drama History War,7.8,35032
+1134,movie,Togo,2019.0,Adventure Biography Drama,8.0,35029
+1135,movie,Me and You and Everyone We Know,2005.0,Comedy Drama,7.3,35019
+1136,movie,Sex and Lucía,2001.0,Drama Romance,7.1,34977
+1137,movie,The Act of Killing,2012.0,Biography Crime Documentary,8.2,34947
+1138,movie,Nowhere Boy,2009.0,Biography Drama Music,7.1,34929
+1139,movie,Fantasia 2000,1999.0,Animation Comedy Family,7.2,34885
+1141,movie,Hair,1979.0,Comedy Drama Musical,7.6,34816
+1143,movie,"The Cook, the Thief, His Wife & Her Lover",1989.0,Crime Drama,7.6,34674
+1145,movie,From Up on Poppy Hill,2011.0,Animation Drama Family,7.4,34642
+1146,movie,The King of Kong: A Fistful of Quarters,2007.0,Biography Documentary Sport,8.1,34603
+1147,movie,Race,2016.0,Biography Drama Sport,7.1,34559
+1149,movie,The Wife,2017.0,Drama,7.2,34422
+1152,movie,Stranger Than Paradise,1984.0,Comedy Drama,7.5,34308
+1153,movie,Ninja Scroll,1993.0,Action Adventure Animation,7.9,34308
+1155,movie,Pusher,1996.0,Crime Thriller,7.4,34263
+1157,movie,Naked,1993.0,Comedy Drama,7.8,34210
+1159,movie,K.G.F: Chapter 1,2018.0,Action Drama,8.2,34165
+1162,movie,Don,2006.0,Action Crime Thriller,7.2,34088
+1164,movie,Slap Shot,1977.0,Comedy Drama Sport,7.3,34038
+1165,movie,The Garden of Words,2013.0,Animation Drama Romance,7.5,34030
+1168,movie,Bedknobs and Broomsticks,1971.0,Adventure Animation Comedy,7.1,33912
+1170,movie,Maria Full of Grace,2004.0,Crime Drama,7.4,33859
+1172,movie,The Class,2008.0,Drama,7.5,33830
+1173,movie,The Messenger,2009.0,Drama Romance War,7.1,33801
+1174,movie,Murder by Death,1976.0,Comedy Crime Mystery,7.4,33739
+1175,movie,The Vanishing,1988.0,Mystery Thriller,7.7,33689
+1177,movie,The Unbearable Lightness of Being,1988.0,Drama Romance,7.3,33622
+1178,movie,The Guernsey Literary and Potato Peel Pie Society,2018.0,Drama Romance War,7.4,33531
+1179,movie,The Illusionist,2010.0,Animation Drama Family,7.5,33499
+1180,movie,Picnic at Hanging Rock,1975.0,Drama Mystery,7.5,33479
+1181,movie,Touching the Void,2003.0,Adventure Documentary Drama,8.0,33475
+1182,movie,Watership Down,1978.0,Adventure Animation Drama,7.6,33457
+1183,movie,The Andromeda Strain,1971.0,Mystery Sci-Fi Thriller,7.2,33451
+1184,movie,Adam,2009.0,Comedy Drama Romance,7.2,33431
+1185,movie,Ayla: The Daughter of War,2017.0,Biography Drama History,8.4,33390
+1186,movie,Il Postino,1994.0,Biography Comedy Drama,7.7,33346
+1187,movie,Jiro Dreams of Sushi,2011.0,Documentary,7.9,33339
+1189,movie,English Vinglish,2012.0,Comedy Drama Family,7.8,33315
+1190,movie,The Good the Bad the Weird,2008.0,Action Adventure Comedy,7.3,33226
+1193,movie,Black,2005.0,Drama,8.2,33194
+1195,movie,Shattered Glass,2003.0,Drama History,7.1,33161
+1197,movie,Samsara,2011.0,Documentary Music,8.5,33114
+1199,movie,Black Christmas,1974.0,Horror Mystery Thriller,7.2,33072
+1200,movie,24 Hour Party People,2002.0,Biography Comedy Drama,7.3,33050
+1201,movie,Vizontele,2001.0,Comedy Drama,8.0,33044
+1203,movie,Dear Zachary: A Letter to a Son About His Father,2008.0,Biography Crime Documentary,8.5,33037
+1204,movie,Now Is Good,2012.0,Drama Romance,7.1,33032
+1205,movie,Paan Singh Tomar,2012.0,Action Biography Crime,8.2,32950
+1206,movie,Smoke,1995.0,Comedy Drama,7.4,32929
+1209,movie,Antwone Fisher,2002.0,Biography Drama,7.3,32766
+1212,movie,The Big Chill,1983.0,Comedy Drama,7.2,32660
+1215,movie,The Muppet Movie,1979.0,Adventure Comedy Family,7.6,32491
+1221,movie,Drugstore Cowboy,1989.0,Crime Drama,7.3,32362
+1222,movie,The Many Adventures of Winnie the Pooh,1977.0,Adventure Animation Comedy,7.6,32346
+1223,movie,Nosferatu the Vampyre,1979.0,Drama Horror,7.5,32337
+1224,movie,Arif V 216,2018.0,Comedy Music Sci-Fi,7.1,32304
+1225,movie,The Commitments,1991.0,Comedy Drama Music,7.6,32294
+1226,movie,Chhichhore,2019.0,Comedy Drama,8.2,32286
+1227,movie,An American Crime,2007.0,Biography Crime Drama,7.3,32204
+1228,movie,The Professor and the Madman,2019.0,Biography Drama,7.3,32200
+1230,movie,Frequently Asked Questions About Time Travel,2009.0,Comedy Sci-Fi,7.1,32194
+1232,movie,The Report,2019.0,Biography Crime Drama,7.2,32180
+1234,movie,The Woodsman,2004.0,Drama,7.2,32052
+1235,movie,Yedinci Kogustaki Mucize,2019.0,Drama,8.3,32051
+1237,movie,Sweet and Lowdown,1999.0,Comedy Drama Music,7.2,32039
+1239,movie,When Marnie Was There,2014.0,Animation Drama Family,7.7,32025
+1240,movie,A Little Princess,1995.0,Drama Family Fantasy,7.7,32006
+1241,movie,The Visitors,1993.0,Comedy Fantasy,7.1,32005
+1243,movie,Mesrine: Killer Instinct,2008.0,Action Biography Crime,7.5,31960
+1246,movie,The Way of the Dragon,1972.0,Action Adventure Comedy,7.3,31920
+1247,movie,Kagemusha,1980.0,Drama History War,8.0,31901
+1248,movie,The Sweet Hereafter,1997.0,Drama,7.5,31897
+1249,movie,Deep Red,1975.0,Horror Mystery Thriller,7.6,31893
+1250,movie,Angel-A,2005.0,Comedy Drama Fantasy,7.1,31877
+1251,movie,Hedwig and the Angry Inch,2001.0,Comedy Drama Music,7.7,31810
+1252,movie,Kai Po Che,2013.0,Drama Sport,7.7,31807
+1253,movie,After the Wedding,2006.0,Drama,7.7,31779
+1256,movie,Welcome to the Dollhouse,1995.0,Comedy Drama,7.4,31640
+1257,movie,The Breath,2009.0,Action Drama Thriller,8.0,31631
+1258,movie,Rumble Fish,1983.0,Crime Drama Romance,7.2,31593
+1259,movie,The Red Violin,1998.0,Drama Music Mystery,7.6,31543
+1260,movie,The Whistleblower,2010.0,Biography Crime Drama,7.1,31541
+1261,movie,Yahsi Bati,2009.0,Adventure Comedy Western,7.4,31539
+1263,movie,Stan & Ollie,2018.0,Biography Comedy Drama,7.2,31487
+1264,movie,Official Secrets,2019.0,Biography Crime Drama,7.3,31446
+1265,movie,The Accused,1988.0,Crime Drama,7.1,31439
+1267,movie,The Siege of Jadotville,2016.0,Action Drama History,7.2,31395
+1268,movie,Once Were Warriors,1994.0,Crime Drama,7.9,31377
+1269,movie,Coming Soon,2014.0,Comedy Drama Romance,7.4,31372
+1270,movie,C.R.A.Z.Y.,2005.0,Comedy Drama,7.9,31362
+1271,movie,Radio Days,1987.0,Comedy,7.5,31354
+1272,movie,Hunting Season,2010.0,Crime Drama Mystery,7.4,31352
+1274,movie,If Only,2004.0,Comedy Drama Fantasy,7.1,31289
+1275,movie,Fitzcarraldo,1982.0,Adventure Drama,8.1,31262
+1279,movie,Beautiful Girls,1996.0,Comedy Drama Romance,7.1,31187
+1282,movie,The Legend Is Born: Ip Man,2010.0,Action Biography Drama,7.1,31166
+1284,movie,13th,2016.0,Crime Documentary History,8.3,31143
+1285,movie,Gully Boy,2019.0,Drama Music,8.0,31142
+1287,movie,Bajirao Mastani,2015.0,Action Drama History,7.2,31084
+1288,movie,The Secret of Kells,2009.0,Adventure Animation Family,7.6,31082
+1289,movie,Sin Nombre,2009.0,Adventure Crime Drama,7.6,31028
+1291,movie,Au Revoir les Enfants,1987.0,Drama War,8.0,30936
+1292,movie,45 Years,2015.0,Drama Romance,7.1,30876
+1293,movie,The Red Turtle,2016.0,Animation Family Fantasy,7.5,30809
+1296,movie,Tokyo Godfathers,2003.0,Adventure Animation Comedy,7.8,30774
+1298,movie,Talvar,2015.0,Crime Drama Mystery,8.2,30745
+1299,movie,Body Heat,1981.0,Crime Drama Romance,7.4,30706
+1300,movie,Fanaa,2006.0,Drama Romance,7.2,30682
+1301,movie,And Justice for All,1979.0,Crime Drama Thriller,7.4,30668
+1302,movie,Chasing Mavericks,2012.0,Biography Drama Sport,7.2,30661
+1303,movie,The Edge of Heaven,2007.0,Drama,7.8,30640
+1304,movie,Stalingrad,1993.0,Drama War,7.5,30631
+1306,movie,The Edukators,2004.0,Drama Romance,7.5,30608
+1309,movie,Mean Creek,2004.0,Crime Drama,7.2,30510
+1310,movie,City Island,2009.0,Comedy Drama,7.4,30505
+1313,movie,Drishyam,2013.0,Crime Drama Thriller,8.3,30398
+1316,movie,Marshland,2014.0,Action Adventure Crime,7.3,30339
+1317,movie,The Way,2010.0,Comedy Drama,7.4,30325
+1318,movie,Magic Carpet Ride,2005.0,Comedy Drama,7.4,30304
+1319,movie,99 Homes,2014.0,Drama,7.1,30204
+1320,movie,Tyrannosaur,2011.0,Drama,7.6,30169
+1321,movie,The Changeling,1980.0,Horror,7.2,30126
+1322,movie,The Magician,2006.0,Comedy Drama,7.4,30124
+1323,movie,The Hate U Give,2018.0,Crime Drama,7.4,29990
+1326,movie,Duck You Sucker,1971.0,Drama War Western,7.6,29867
+1327,movie,Cries & Whispers,1972.0,Drama,8.1,29858
+1328,movie,The King of Staten Island,2020.0,Comedy Drama,7.1,29836
+1329,movie,Interstate 60: Episodes of the Road,2002.0,Adventure Comedy Drama,7.7,29791
+1332,movie,Jodhaa Akbar,2008.0,Action Drama History,7.6,29663
+1333,movie,Searching for Bobby Fischer,1993.0,Biography Drama,7.4,29636
+1334,movie,Anand,1971.0,Drama Musical,8.4,29583
+1335,movie,In the House,2012.0,Drama Mystery Thriller,7.4,29582
+1336,movie,White Oleander,2002.0,Drama,7.1,29535
+1341,movie,The Brand New Testament,2015.0,Comedy Fantasy,7.1,29481
+1342,movie,The Salton Sea,2002.0,Crime Drama Mystery,7.1,29464
+1344,movie,Waar,2013.0,Action Crime Drama,7.9,29372
+1346,movie,Raise the Red Lantern,1991.0,Drama History Romance,8.1,29355
+1347,movie,Michael Collins,1996.0,Biography Drama Thriller,7.2,29349
+1348,movie,Loveless,2017.0,Drama,7.6,29336
+1349,movie,Police Story,1985.0,Action Comedy Crime,7.6,29328
+1350,movie,Raanjhanaa,2013.0,Drama Romance,7.6,29316
+1353,movie,The Glass Castle,2017.0,Biography Drama,7.1,29262
+1355,movie,Gods and Monsters,1998.0,Biography Drama,7.3,29149
+1358,movie,To Live and Die in L.A.,1985.0,Action Crime Drama,7.3,29051
+1359,movie,Vampire Hunter D: Bloodlust,2000.0,Action Animation Fantasy,7.7,29044
+1360,movie,8 Women,2002.0,Comedy Crime Musical,7.1,29035
+1362,movie,Instructions Not Included,2013.0,Comedy Drama,7.5,28984
+1367,movie,Micmacs,2009.0,Action Comedy Crime,7.2,28718
+1368,movie,Piku,2015.0,Comedy Drama,7.6,28666
+1369,movie,"Blood In, Blood Out",1993.0,Crime Drama,8.0,28664
+1371,movie,And Now for Something Completely Different,1971.0,Comedy,7.6,28663
+1372,movie,They Shall Not Grow Old,2018.0,Documentary History War,8.3,28651
+1373,movie,Julieta,2016.0,Drama Mystery Romance,7.1,28637
+1374,movie,Nixon,1995.0,Biography Drama History,7.1,28631
+1375,movie,Howards End,1992.0,Drama Romance,7.4,28619
+1377,movie,The End of the Tour,2015.0,Biography Drama,7.3,28612
+1380,movie,Bad Education,2019.0,Biography Comedy Crime,7.1,28563
+1381,movie,Get Carter,1971.0,Action Crime Thriller,7.4,28557
+1382,movie,Dev.D,2009.0,Drama Romance,8.0,28554
+1383,movie,In the Fade,2017.0,Crime Drama Thriller,7.1,28552
+1384,movie,Death Note,2006.0,Crime Drama Fantasy,7.7,28509
+1386,movie,Jeremiah Johnson,1972.0,Adventure Drama Western,7.6,28426
+1389,movie,Mesrine: Public Enemy No. 1,2008.0,Action Biography Crime,7.5,28273
+1390,movie,The Monster Squad,1987.0,Action Comedy Fantasy,7.1,28215
+1391,movie,Live Flesh,1997.0,Drama,7.4,28212
+1394,movie,The Barbarian Invasions,2003.0,Comedy Crime Drama,7.6,28170
+1397,movie,Henry V,1989.0,Action Biography Drama,7.5,28058
+1398,movie,Wake Up Sid,2009.0,Comedy Drama Romance,7.6,28004
+1399,movie,Death on the Nile,1978.0,Crime Drama Mystery,7.3,27997
+1400,movie,You Can Count on Me,2000.0,Drama,7.5,27991
+1402,movie,Belle,2013.0,Biography Drama Romance,7.3,27975
+1404,movie,The Greatest Game Ever Played,2005.0,Biography Drama Sport,7.4,27962
+1407,movie,All That Jazz,1979.0,Drama Music Musical,7.9,27940
+1410,movie,Weekend,2011.0,Drama Romance,7.6,27889
+1411,movie,Lone Star,1996.0,Drama Mystery,7.4,27850
+1412,movie,Cobain: Montage of Heck,2015.0,Animation Biography Documentary,7.5,27829
+1413,movie,Another Year,2010.0,Comedy Drama,7.3,27738
+1415,movie,The Pink Panther Strikes Again,1976.0,Comedy Crime,7.2,27735
+1416,movie,The Getaway,1972.0,Action Crime Thriller,7.4,27728
+1418,movie,Tracks,2013.0,Adventure Biography Drama,7.2,27682
+1419,movie,Tsotsi,2005.0,Crime Drama,7.2,27640
+1420,movie,A Street Cat Named Bob,2016.0,Biography Drama Family,7.4,27630
+1422,movie,Some Kind of Wonderful,1987.0,Drama Romance,7.1,27600
+1423,movie,Things We Lost in the Fire,2007.0,Drama,7.2,27568
+1424,movie,Joyeux Noel,2005.0,Drama History Music,7.7,27565
+1426,movie,I Killed My Mother,2009.0,Drama Romance,7.5,27537
+1428,movie,Knockin' on Heaven's Door,1997.0,Action Comedy Crime,8.0,27499
+1429,movie,Stree,2018.0,Comedy Horror,7.6,27493
+1432,movie,Fireworks,1997.0,Crime Drama Romance,7.8,27464
+1433,movie,On Golden Pond,1981.0,Drama,7.6,27426
+1435,movie,Badhaai Ho,2018.0,Comedy Drama,8.0,27384
+1436,movie,Delhi Belly,2011.0,Action Comedy Crime,7.6,27341
+1437,movie,A Brilliant Young Mind,2014.0,Drama Romance,7.1,27302
+1438,movie,This Film Is Not Yet Rated,2006.0,Documentary,7.5,27295
+1439,movie,Rabbit-Proof Fence,2002.0,Adventure Biography Drama,7.4,27293
+1440,movie,Husbands and Wives,1992.0,Comedy Drama Romance,7.5,27285
+1442,movie,Heartbeats,2010.0,Drama Romance,7.1,27184
+1443,movie,The Boy Who Harnessed the Wind,2019.0,Drama,7.6,27061
+1445,movie,Mohabbatein,2000.0,Drama Musical Romance,7.1,27041
+1446,movie,Vikram Vedha,2017.0,Action Crime Drama,8.5,27037
+1447,movie,Tangerine,2015.0,Comedy Crime Drama,7.1,26993
+1449,movie,Three Identical Strangers,2018.0,Biography Documentary Drama,7.7,26933
+1450,movie,The Good Lie,2014.0,Biography Drama,7.4,26918
+1451,movie,The China Syndrome,1979.0,Drama Thriller,7.4,26913
+1452,movie,Broadcast News,1987.0,Comedy Drama Romance,7.2,26891
+1453,movie,Ruby & Quentin,2003.0,Comedy Crime,7.1,26880
+1454,movie,Udta Punjab,2016.0,Action Crime Drama,7.8,26875
+1456,movie,What the Health,2017.0,Documentary,7.4,26779
+1458,movie,Blindspotting,2018.0,Comedy Crime Drama,7.4,26745
+1459,movie,Honey Boy,2019.0,Drama,7.3,26740
+1460,movie,Tumbbad,2018.0,Drama Fantasy Horror,8.3,26717
+1461,movie,What Maisie Knew,2012.0,Drama,7.4,26683
+1462,movie,Waiting for Guffman,1996.0,Comedy,7.5,26672
+1463,movie,Runaway Train,1985.0,Action Adventure Drama,7.2,26668
+1464,movie,Somewhere in Time,1980.0,Drama Fantasy Romance,7.2,26655
+1465,movie,Dil Se..,1998.0,Drama Romance,7.6,26582
+1466,movie,Lupin the 3rd: Castle of Cagliostro,1979.0,Adventure Animation Family,7.7,26573
+1468,movie,Murder in the First,1995.0,Drama Thriller,7.3,26524
+1470,movie,Peaceful Warrior,2006.0,Drama Romance Sport,7.3,26508
+1471,movie,Only Yesterday,1991.0,Animation Drama Romance,7.6,26501
+1472,movie,Testament of Youth,2014.0,Biography Drama History,7.3,26462
+1476,movie,Secretariat,2010.0,Biography Drama Family,7.2,26373
+1477,movie,The Taking of Pelham One Two Three,1974.0,Action Crime Thriller,7.7,26371
+1478,movie,Miss Pettigrew Lives for a Day,2008.0,Comedy Romance,7.1,26367
+1479,movie,Fist of Fury,1972.0,Action Drama Romance,7.4,26364
+1480,movie,Vanishing Point,1971.0,Action Crime Thriller,7.2,26356
+1481,movie,Mandela: Long Walk to Freedom,2013.0,Biography Drama History,7.1,26355
+1482,movie,Sophie Scholl: The Final Days,2005.0,Biography Crime Drama,7.6,26344
+1483,movie,The Blue Elephant,2014.0,Drama Horror Mystery,8.1,26331
+1486,movie,Max Manus,2008.0,Action Biography Drama,7.3,26293
+1487,movie,Jesus Camp,2006.0,Documentary,7.4,26293
+1488,movie,Highway,2014.0,Crime Drama Romance,7.6,26271
+1490,movie,The Kid with a Bike,2011.0,Drama Family,7.4,26239
+1492,movie,On the Basis of Sex,2018.0,Biography Drama,7.1,26223
+1493,movie,Joint Security Area,2000.0,Action Drama Thriller,7.8,26207
+1494,movie,Pump Up the Volume,1990.0,Comedy Drama Music,7.2,26179
+1496,movie,Dragon Ball Z: Battle of Gods,2013.0,Action Adventure Animation,7.2,26123
+1497,movie,Before the Flood,2016.0,Documentary News,8.3,26086
+1498,movie,Tanu Weds Manu Returns,2015.0,Comedy Drama Romance,7.6,26073
+1503,movie,Summer Wars,2009.0,Action Adventure Animation,7.5,25984
+1504,movie,A Mighty Wind,2003.0,Comedy Music,7.2,25942
+1505,movie,Kabir Singh,2019.0,Drama Romance,7.1,25929
+1506,movie,Gettysburg,1993.0,Drama History War,7.6,25920
+1507,movie,Mask,1985.0,Biography Drama,7.2,25903
+1508,movie,The Long Goodbye,1973.0,Comedy Crime Drama,7.6,25883
+1511,movie,The Magdalene Sisters,2002.0,Drama,7.7,25822
+1513,movie,Fallen Angels,1995.0,Comedy Crime Drama,7.7,25771
+1514,movie,I Lost My Body,2019.0,Animation Drama Fantasy,7.6,25768
+1515,movie,Autumn Sonata,1978.0,Drama Music,8.2,25760
+1516,movie,Department Q: The Keeper of Lost Causes,2013.0,Crime Drama Mystery,7.2,25725
+1517,movie,SLC Punk!,1998.0,Comedy Drama Music,7.5,25722
+1518,movie,Baazigar,1993.0,Crime Drama Musical,7.7,25709
+1520,movie,Roger & Me,1989.0,Documentary,7.4,25559
+1521,movie,Mr. Church,2016.0,Comedy Drama,7.6,25416
+1522,movie,Mystery Train,1989.0,Comedy Crime Drama,7.6,25399
+1525,movie,Jaane Tu,2008.0,Comedy Drama Romance,7.4,25347
+1526,movie,Time of the Gypsies,1988.0,Comedy Crime Drama,8.3,25343
+1527,movie,Holiday: A Soldier is Never Off Duty,2014.0,Action Thriller,7.2,25321
+1532,movie,A Love Song for Bobby Long,2004.0,Drama,7.1,25096
+1533,movie,Thief,1981.0,Action Crime Drama,7.4,25075
+1536,movie,Jesus Christ Superstar,1973.0,Drama History Musical,7.4,25052
+1537,movie,The Little Death,2014.0,Comedy Drama Romance,7.1,25025
+1539,movie,Cross of Iron,1977.0,Drama War,7.5,24978
+1540,movie,Waking Ned Devine,1998.0,Comedy,7.3,24970
+1541,movie,Possession,1981.0,Drama Horror,7.4,24956
+1542,movie,The Return of the Pink Panther,1975.0,Comedy Crime Mystery,7.1,24949
+1543,movie,Farewell My Concubine,1993.0,Drama Music Romance,8.1,24839
+1544,movie,Raazi,2018.0,Action Drama Thriller,7.8,24833
+1545,movie,Strictly Ballroom,1992.0,Comedy Drama Music,7.2,24831
+1547,movie,Pom Poko,1994.0,Animation Comedy Drama,7.3,24803
+1548,movie,Enthiran,2010.0,Action Sci-Fi,7.1,24798
+1549,movie,The World According to Garp,1982.0,Comedy Drama,7.2,24762
+1550,movie,Speak,2004.0,Drama,7.3,24725
+1552,movie,Nobody Knows,2004.0,Drama,8.1,24674
+1553,movie,Fantastic Planet,1973.0,Animation Sci-Fi,7.8,24649
+1556,movie,God's Own Country,2017.0,Drama Romance,7.7,24542
+1558,movie,In Order of Disappearance,2014.0,Action Crime Drama,7.2,24491
+1559,movie,Frozen River,2008.0,Crime Drama,7.1,24490
+1560,movie,The Bounty,1984.0,Adventure Drama History,7.1,24482
+1561,movie,"Play It Again, Sam",1972.0,Comedy Romance,7.6,24465
+1564,movie,Goodbye Christopher Robin,2017.0,Biography Drama,7.1,24444
+1568,movie,Control,2003.0,Comedy Crime Drama,7.6,24321
+1569,movie,The Secret Life of Bees,2008.0,Drama,7.3,24296
+1570,movie,The Big Boss,1971.0,Action Crime Drama,7.1,24294
+1574,movie,The Last Unicorn,1982.0,Adventure Animation Drama,7.5,24213
+1575,movie,Hoop Dreams,1994.0,Documentary Drama Sport,8.3,24212
+1576,movie,The Bélier Family,2014.0,Comedy Drama Music,7.3,24198
+1578,movie,Mersal,2017.0,Action Thriller,7.6,24185
+1579,movie,The Sacrifice,1986.0,Drama,8.1,24143
+1581,movie,My Life Without Me,2003.0,Drama Romance,7.5,24108
+1582,movie,Kaabil,2017.0,Action Crime Drama,7.1,24057
+1585,movie,The Art of Racing in the Rain,2019.0,Comedy Drama Romance,7.6,24009
+1586,movie,You're Not You,2014.0,Drama,7.3,24002
+1587,movie,Fathers & Daughters,2015.0,Drama,7.1,23984
+1591,movie,Barney's Version,2010.0,Comedy Drama,7.3,23916
+1593,movie,Capturing the Friedmans,2003.0,Biography Documentary,7.7,23911
+1594,movie,Before Night Falls,2000.0,Biography Drama Romance,7.2,23889
+1596,movie,Vera Drake,2004.0,Crime Drama,7.6,23861
+1597,movie,Jean de Florette,1986.0,Comedy Drama,8.0,23847
+1598,movie,Amazing Grace,2006.0,Biography Drama History,7.4,23816
+1599,movie,Juice,1992.0,Action Crime Drama,7.1,23809
+1600,movie,Sarfarosh,1999.0,Action Drama,8.1,23802
+1602,movie,Dreams,1990.0,Drama Fantasy,7.8,23780
+1603,movie,Broadway Danny Rose,1984.0,Comedy,7.4,23777
+1604,movie,Little White Lies,2010.0,Comedy Drama,7.1,23766
+1607,movie,Ludo,2020.0,Action Comedy Crime,7.6,23690
+1608,movie,On Body and Soul,2017.0,Drama Fantasy Mystery,7.6,23668
+1610,movie,Nashville,1975.0,Comedy Drama Music,7.7,23584
+1612,movie,Where to Invade Next,2015.0,Comedy Documentary,7.5,23502
+1613,movie,Dersu Uzala,1975.0,Adventure Biography Drama,8.3,23499
+1614,movie,The Brave Little Toaster,1987.0,Adventure Animation Family,7.3,23487
+1615,movie,Ip Man 4: The Finale,2019.0,Action Biography Drama,7.1,23454
+1619,movie,Thuppakki,2012.0,Action Thriller,7.9,23415
+1622,movie,Masaan,2015.0,Drama,8.2,23372
+1627,movie,Rustom,2016.0,Crime Drama Thriller,7.1,23250
+1628,movie,Monsoon Wedding,2001.0,Comedy Drama Romance,7.3,23239
+1629,movie,Spectacle,2015.0,Comedy Drama Romance,7.3,23214
+1630,movie,Bloody Sunday,2002.0,Drama History War,7.6,23197
+1631,movie,My Name Is Nobody,1973.0,Comedy Western,7.5,23173
+1633,movie,Immortal Beloved,1994.0,Biography Drama Music,7.4,23116
+1636,movie,Millennium Actress,2001.0,Animation Drama Fantasy,7.9,23079
+1637,movie,Taste of Cherry,1997.0,Drama,7.7,23074
+1638,movie,No,2012.0,Drama,7.4,23045
+1639,movie,Kapoor & Sons,2016.0,Comedy Drama Family,7.7,23032
+1642,movie,Human Traffic,1999.0,Comedy Music,7.1,22962
+1643,movie,Raatchasan,2018.0,Action Crime Thriller,8.7,22949
+1644,movie,Hindi Medium,2017.0,Comedy Drama,7.8,22943
+1645,movie,Nostalgia,1983.0,Drama,8.1,22939
+1647,movie,Red Cliff II,2009.0,Action Adventure Drama,7.6,22887
+1650,movie,Jim & Andy: The Great Beyond,2017.0,Documentary,7.7,22878
+1651,movie,Professor Marston & the Wonder Women,2017.0,Biography Drama History,7.1,22866
+1652,movie,Article 15,2019.0,Crime Drama Mystery,8.2,22784
+1653,movie,The Way He Looks,2014.0,Drama Romance,7.9,22783
+1654,movie,Madras Cafe,2013.0,Action Drama Thriller,7.7,22738
+1655,movie,Walkabout,1971.0,Adventure Drama,7.6,22737
+1657,movie,"I'm a Cyborg, But That's OK",2006.0,Comedy Drama Romance,7.1,22727
+1658,movie,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003.0,Biography Documentary History,8.1,22712
+1661,movie,The United States of Leland,2003.0,Drama,7.1,22641
+1662,movie,Won't You Be My Neighbor?,2018.0,Biography Documentary,8.4,22638
+1664,movie,Everything's Gonna Be Great,1998.0,Comedy Drama,8.1,22585
+1667,movie,Beautiful Thing,1996.0,Comedy Drama Romance,7.5,22512
+1668,movie,Gabbar is Back,2015.0,Action Crime Drama,7.1,22506
+1669,movie,Little Manhattan,2005.0,Comedy Family Romance,7.5,22494
+1672,movie,Death and the Maiden,1994.0,Drama Mystery Thriller,7.3,22478
+1674,movie,Remember,2015.0,Drama Mystery Thriller,7.5,22449
+1675,movie,Queen & Slim,2019.0,Crime Drama Romance,7.1,22448
+1676,movie,A Fantastic Woman,2017.0,Drama,7.2,22425
+1679,movie,Cyrano de Bergerac,1990.0,Comedy Drama History,7.5,22375
+1683,movie,Mirror Game,2016.0,Crime Mystery Thriller,9.1,22335
+1684,movie,Manderlay,2005.0,Drama,7.3,22323
+1685,movie,Paradise Now,2005.0,Crime Drama Thriller,7.4,22295
+1686,movie,1900,1976.0,Drama History,7.7,22272
+1687,movie,Fist of Legend,1994.0,Action Drama,7.5,22229
+1689,movie,Thunderbolt and Lightfoot,1974.0,Comedy Crime Drama,7.1,22201
+1690,movie,Two Is a Family,2016.0,Comedy Drama,7.4,22191
+1691,movie,Happy Together,1997.0,Drama Romance,7.8,22184
+1692,movie,The Tin Drum,1979.0,Drama War,7.5,22179
+1693,movie,The Way We Were,1973.0,Drama Romance,7.1,22152
+1694,movie,Rundskop,2011.0,Crime Drama,7.4,22136
+1695,movie,Khosla's Nest,2006.0,Comedy Crime Drama,8.3,22134
+1696,movie,Dragon Ball Super: Broly,2018.0,Action Adventure Animation,7.9,22120
+1697,movie,Klute,1971.0,Crime Mystery Thriller,7.1,22116
+1698,movie,The Twilight Samurai,2002.0,Drama History Romance,8.1,22114
+1700,movie,Little Boy,2015.0,Drama History War,7.4,22083
+1701,movie,Dogman,2018.0,Crime Drama Thriller,7.2,22080
+1704,movie,Darr,1993.0,Action Drama Romance,7.8,22027
+1707,movie,The Shootist,1976.0,Drama Romance Western,7.6,21999
+1708,movie,Jolly LLB 2,2017.0,Comedy Drama,7.2,21979
+1712,movie,The Man Without a Past,2002.0,Comedy Drama Romance,7.7,21954
+1713,movie,The Last Detail,1973.0,Comedy Drama,7.5,21933
+1714,movie,Restrepo,2010.0,Biography Documentary History,7.5,21889
+1715,movie,McCabe & Mrs. Miller,1971.0,Drama Western,7.7,21885
+1716,movie,Badla,2019.0,Crime Drama Mystery,7.8,21884
+1718,movie,Guru,2007.0,Biography Drama,7.7,21845
+1719,movie,The Spanish Prisoner,1997.0,Drama Mystery Thriller,7.1,21818
+1720,movie,Boy,2010.0,Comedy Drama,7.5,21806
+1721,movie,Mank,2020.0,Biography Comedy Drama,7.2,21782
+1722,movie,A Moment to Remember,2004.0,Drama Romance,8.2,21738
+1723,movie,Brother,2000.0,Crime Drama Thriller,7.2,21734
+1725,movie,Swimming with Sharks,1994.0,Comedy Crime,7.1,21726
+1728,movie,Jodorowsky's Dune,2013.0,Documentary,8.1,21693
+1729,movie,Winnie the Pooh,2011.0,Adventure Animation Comedy,7.2,21678
+1735,movie,Loft,2008.0,Crime Drama Mystery,7.3,21633
+1736,movie,Bhool Bhulaiyaa,2007.0,Comedy Horror Mystery,7.3,21613
+1737,movie,"Like Father, Like Son",2013.0,Drama,7.8,21607
+1740,movie,Christiane F.,1981.0,Biography Drama,7.6,21578
+1741,movie,Breaking Away,1979.0,Comedy Drama Romance,7.7,21574
+1742,movie,The Chaos Class Failed the Class,1976.0,Comedy,9.0,21554
+1743,movie,A Woman Under the Influence,1974.0,Drama Romance,8.2,21512
+1744,movie,My Life as a Zucchini,2016.0,Animation Comedy Drama,7.8,21502
+1746,movie,Jo Jeeta Wohi Sikandar,1992.0,Comedy Drama Romance,8.2,21499
+1747,movie,Badlapur,2015.0,Action Crime Drama,7.4,21489
+1749,movie,Megan Leavey,2017.0,Biography Drama War,7.1,21487
+1750,movie,The Thin Blue Line,1988.0,Crime Documentary,8.0,21441
+1751,movie,Losers' Club,2011.0,Comedy Drama Romance,7.6,21416
+1753,movie,Birdy,1984.0,Drama War,7.3,21405
+1754,movie,House,1977.0,Comedy Horror,7.4,21400
+1760,movie,Home,2009.0,Documentary,8.6,21337
+1761,movie,Apollo 11,2019.0,Documentary History,8.2,21336
+1762,movie,Tosun Pasa,1976.0,Comedy History,9.0,21334
+1763,movie,Miracles from Heaven,2016.0,Biography Drama Family,7.1,21329
+1764,movie,David Attenborough: A Life on Our Planet,2020.0,Biography Documentary,9.0,21317
+1766,movie,Away from Her,2006.0,Drama,7.5,21291
+1767,movie,Local Hero,1983.0,Comedy Drama,7.3,21252
+1768,movie,Alice Doesn't Live Here Anymore,1974.0,Drama Romance,7.3,21251
+1769,movie,The Passenger,1975.0,Drama Thriller,7.6,21241
+1772,movie,The Fly,2012.0,Action Comedy Fantasy,7.7,21212
+1773,movie,The End of the Affair,1999.0,Drama Romance,7.1,21205
+1775,movie,Fearless,1993.0,Drama Thriller,7.1,21171
+1776,movie,Pumping Iron,1977.0,Documentary Sport,7.4,21158
+1778,movie,Cowspiracy: The Sustainability Secret,2014.0,Documentary,8.3,21072
+1780,movie,Stardust Memories,1980.0,Comedy Drama,7.3,21049
+1781,movie,Koi... Mil Gaya,2003.0,Action Drama Romance,7.1,21031
+1782,movie,Certified Copy,2010.0,Drama Romance,7.3,21017
+1785,movie,Shelter,2007.0,Drama Romance Sport,7.6,20955
+1787,movie,In July,2000.0,Adventure Comedy Romance,7.7,20914
+1788,movie,Breakfast on Pluto,2005.0,Comedy Drama,7.2,20910
+1790,movie,Dear Frankie,2004.0,Drama Romance,7.7,20892
+1794,movie,Pad Man,2018.0,Comedy Drama,7.9,20817
+1796,movie,Ölümlü Dünya,2018.0,Action Comedy,7.7,20803
+1797,movie,Parmanu: The Story of Pokhran,2018.0,Action Drama History,7.6,20796
+1798,movie,Neerja,2016.0,Biography Drama Thriller,7.7,20791
+1799,movie,Reds,1981.0,Biography Drama History,7.3,20786
+1800,movie,Rosencrantz & Guildenstern Are Dead,1990.0,Comedy Drama,7.4,20750
+1801,movie,Rock On!!,2008.0,Drama Music,7.7,20735
+1804,movie,The Nightingale,2018.0,Adventure Drama Thriller,7.3,20682
+1805,movie,State of Grace,1990.0,Action Crime Drama,7.2,20674
+1806,movie,I Stand Alone,1998.0,Crime Drama Thriller,7.4,20663
+1807,movie,Embrace of the Serpent,2015.0,Adventure Biography Drama,7.9,20637
+1808,movie,Arjun Reddy,2017.0,Drama Romance,8.1,20631
+1809,movie,Quest for Fire,1981.0,Adventure Drama History,7.3,20625
+1811,movie,That Obscure Object of Desire,1977.0,Comedy Drama,7.9,20586
+1812,movie,Manon of the Spring,1986.0,Drama,8.0,20575
+1813,movie,Dügün Dernek,2013.0,Comedy,7.1,20566
+1814,movie,House of Games,1987.0,Crime Thriller,7.3,20534
+1815,movie,Namastey London,2007.0,Comedy Drama Romance,7.1,20520
+1816,movie,Lakshya,2004.0,Action Drama Romance,7.9,20516
+1818,movie,Tanhaji: The Unsung Warrior,2020.0,Action Biography Drama,7.6,20476
+1820,movie,The Best of Youth,2003.0,Drama Romance,8.5,20471
+1821,movie,A Better Tomorrow,1986.0,Action Crime Drama,7.5,20455
+1822,movie,Together,2000.0,Comedy Drama Romance,7.4,20454
+1823,movie,Lorenzo's Oil,1992.0,Drama,7.3,20427
+1824,movie,Yi Yi,2000.0,Drama Romance,8.2,20426
+1825,movie,The Corporation,2003.0,Documentary History,8.0,20426
+1828,movie,Tenebrae,1982.0,Crime Horror Mystery,7.1,20404
+1829,movie,Secret Superstar,2017.0,Drama Music,7.9,20404
+1830,movie,Angela's Ashes,1999.0,Drama,7.3,20399
+1831,movie,Super 30,2019.0,Biography Drama,7.9,20379
+1832,movie,Trash,2014.0,Adventure Crime Drama,7.2,20337
+1837,movie,New World,2013.0,Action Crime Drama,7.6,20264
+1838,movie,The Bad News Bears,1976.0,Comedy Drama Family,7.3,20256
+1840,movie,For Love and Honor,2007.0,Action Crime Drama,7.8,20254
+1842,movie,Day for Night,1973.0,Comedy Drama Romance,8.0,20213
+1843,movie,Le Havre,2011.0,Comedy Drama,7.2,20211
+1844,movie,"Dragon Ball Z: Resurrection ""F""",2015.0,Action Adventure Animation,7.3,20208
+1845,movie,Marshall,2017.0,Biography Crime Drama,7.2,20203
+1847,movie,Indie Game: The Movie,2012.0,Documentary Drama,7.6,20172
+1848,movie,The Boy and the Beast,2015.0,Action Adventure Animation,7.7,20103
+1849,movie,Metropolis,2001.0,Adventure Animation Drama,7.2,20087
+1852,movie,"Oslo, August 31st",2011.0,Drama,7.6,20017
+1855,movie,Weathering with You,2019.0,Animation Drama Fantasy,7.5,19991
+1859,movie,Ugly,2013.0,Crime Drama Mystery,8.0,19957
+1860,movie,In China They Eat Dogs,1999.0,Action Comedy Crime,7.4,19949
+1861,movie,Aile Arasinda,2017.0,Comedy,7.7,19914
+1862,movie,The Wild Pear Tree,2018.0,Drama,8.1,19913
+1863,movie,The Breadwinner,2017.0,Animation Drama Family,7.7,19875
+1865,movie,Department Q: The Absent One,2014.0,Crime Drama Mystery,7.1,19856
+1867,movie,Cemetery Man,1994.0,Comedy Horror,7.2,19824
+1868,movie,The Butterfly's Dream,2013.0,Biography Drama History,7.8,19819
+1869,movie,Three Monkeys,2008.0,Drama,7.4,19819
+1870,movie,The Mountain,2012.0,Adventure Drama Thriller,7.8,19804
+1871,movie,Pyaar Ka Punchnama,2011.0,Comedy Drama Romance,7.6,19803
+1875,movie,The Express,2008.0,Biography Drama Sport,7.3,19764
+1878,movie,I've Loved You So Long,2008.0,Drama,7.6,19733
+1880,movie,9th Company,2005.0,Action Drama History,7.1,19717
+1882,movie,Europa,1991.0,Drama Thriller,7.6,19705
+1884,movie,The Salt of the Earth,2014.0,Biography Documentary History,8.5,19689
+1885,movie,Slacker,1990.0,Comedy Drama,7.1,19676
+1887,movie,Into the White,2012.0,Action Biography Drama,7.2,19582
+1888,movie,The Duellists,1977.0,Drama War,7.4,19580
+1889,movie,Titus,1999.0,Drama History Thriller,7.1,19577
+1890,movie,"What's Up, Doc?",1972.0,Comedy,7.7,19570
+1891,movie,The Green Butchers,2003.0,Comedy Drama,7.3,19533
+1894,movie,Rurouni Kenshin Part I: Origins,2012.0,Action Drama History,7.5,19501
+1900,movie,Flickering Lights,2000.0,Action Comedy Crime,7.7,19367
+1902,movie,The Year of Living Dangerously,1982.0,Drama Romance War,7.1,19352
+1903,movie,Detective Byomkesh Bakshy!,2015.0,Action Crime Drama,7.6,19347
+1905,movie,Victor Victoria,1982.0,Comedy Music Romance,7.6,19330
+1907,movie,A Short Film About Love,1988.0,Drama Romance,8.2,19312
+1908,movie,The Namesake,2006.0,Drama,7.5,19309
+1909,movie,I Am Not Your Negro,2016.0,Documentary,7.9,19239
+1911,movie,It's All Gone Pete Tong,2004.0,Biography Comedy Drama,7.3,19234
+1912,movie,Salvador,1986.0,Drama History Thriller,7.4,19210
+1913,movie,Sonu Ke Titu Ki Sweety,2018.0,Comedy Romance,7.1,19200
+1918,movie,Monsieur Lazhar,2011.0,Comedy Drama,7.5,19084
+1920,movie,Russian Ark,2002.0,Drama Fantasy History,7.4,19045
+1921,movie,Omkara,2006.0,Action Crime Drama,8.1,19045
+1923,movie,The Long Good Friday,1980.0,Crime Drama Mystery,7.6,19006
+1927,movie,Santa Sangre,1989.0,Drama Horror Thriller,7.6,18959
+1928,movie,Lucky,2017.0,Comedy Drama,7.3,18948
+1929,movie,Hearts of Darkness: A Filmmaker's Apocalypse,1991.0,Documentary,8.1,18940
+1930,movie,The 12th Man,2017.0,Drama History Thriller,7.4,18904
+1936,movie,Bareilly Ki Barfi,2017.0,Comedy Romance,7.5,18837
+1938,movie,The Stoning of Soraya M.,2008.0,Drama,8.0,18817
+1939,movie,I,2015.0,Action Drama Thriller,7.4,18811
+1940,movie,Distant,2002.0,Drama,7.6,18778
+1941,movie,5 to 7,2014.0,Comedy Drama Romance,7.1,18774
+1942,movie,Ali: Fear Eats the Soul,1974.0,Drama Romance,8.1,18760
+1943,movie,Wadjda,2012.0,Comedy Drama,7.5,18760
+1944,movie,The Beat That My Heart Skipped,2005.0,Crime Drama Music,7.3,18741
+1945,movie,Tape,2001.0,Drama,7.2,18733
+1947,movie,99 francs,2007.0,Comedy Drama,7.3,18705
+1948,movie,Pardon,2005.0,Comedy Drama,8.2,18696
+1949,movie,The Yellow Sea,2010.0,Action Crime Drama,7.3,18694
+1950,movie,Rocket Singh: Salesman of the Year,2009.0,Comedy Drama,7.5,18688
+1952,movie,Hum Aapke Hain Koun...!,1994.0,Comedy Drama Musical,7.5,18685
+1954,movie,Black Friday,2004.0,Action Crime Drama,8.5,18671
+1956,movie,Breathe,2017.0,Biography Drama Romance,7.2,18655
+1957,movie,Death in Venice,1971.0,Drama,7.4,18642
+1958,movie,Bacurau,2019.0,Adventure Horror Mystery,7.5,18633
+1959,movie,Barfly,1987.0,Comedy Drama Romance,7.2,18623
+1960,movie,Operation Condor,1991.0,Action Adventure Comedy,7.3,18622
+1963,movie,The Big Red One,1980.0,Drama War,7.1,18575
+1964,movie,Eight Men Out,1988.0,Drama History Sport,7.2,18567
+1965,movie,Brassed Off,1996.0,Comedy Drama Romance,7.1,18563
+1967,movie,Pusher II,2004.0,Action Crime Drama,7.4,18543
+1968,movie,Lantana,2001.0,Drama Mystery Romance,7.2,18541
+1969,movie,Eat Drink Man Woman,1994.0,Comedy Drama Romance,7.8,18528
+1971,movie,Nobody's Fool,1994.0,Comedy Drama,7.4,18501
+1972,movie,Kikujiro,1999.0,Comedy Drama,7.8,18491
+1973,movie,Diner,1982.0,Comedy Drama,7.1,18484
+1975,movie,Love & Basketball,2000.0,Drama Romance Sport,7.2,18450
+1976,movie,Rangasthalam 1985,2018.0,Action Drama,8.4,18444
+1977,movie,Crumb,1994.0,Biography Comedy Documentary,8.0,18442
+1978,movie,Missing,1982.0,Biography Drama History,7.7,18427
+1979,movie,"OSS 117: Cairo, Nest of Spies",2006.0,Action Adventure Comedy,7.1,18418
+1981,movie,Akeelah and the Bee,2006.0,Drama Family,7.3,18393
+1984,movie,He Loves Me... He Loves Me Not,2002.0,Romance Thriller,7.2,18345
+1985,movie,Ben X,2007.0,Drama Thriller,7.4,18332
+1986,movie,Tomboy,2011.0,Drama,7.4,18327
+1989,movie,Çöpçüler Krali,1977.0,Comedy Romance,8.6,18308
+1992,movie,Ernest & Celestine,2012.0,Adventure Animation Comedy,7.9,18263
+1993,movie,Eddie Murphy: Raw,1987.0,Comedy Documentary,7.7,18246
+1995,movie,Süt Kardesler,1976.0,Comedy Family Mystery,8.9,18238
+1997,movie,My Life as a Dog,1985.0,Comedy Drama,7.6,18225
+1998,movie,Laurence Anyways,2012.0,Drama Romance,7.7,18219
+2000,movie,Kinky Boots,2005.0,Comedy Drama Music,7.1,18214
+2001,movie,My Dinner with Andre,1981.0,Biography Comedy Drama,7.8,18206
+2002,movie,96,2018.0,Drama Romance,8.6,18190
+2003,movie,Silkwood,1983.0,Biography Drama History,7.2,18186
+2004,movie,Croupier,1998.0,Crime Drama,7.1,18175
+2005,movie,A Dog's Journey,2019.0,Adventure Comedy Drama,7.5,18160
+2006,movie,Interiors,1978.0,Drama,7.4,18145
+2008,movie,Freier Fall,2013.0,Drama,7.6,18105
+2009,movie,Bring Me the Head of Alfredo Garcia,1974.0,Action Crime Drama,7.5,18080
+2010,movie,Carandiru,2003.0,Crime Drama,7.6,18078
+2011,movie,The Chaos Class Is Waking Up,1977.0,Comedy,8.8,18073
+2014,movie,Aquarius,2016.0,Drama,7.5,18025
+2017,movie,Wheels,2014.0,Drama,8.7,18015
+2018,movie,Babette's Feast,1987.0,Drama,7.8,18010
+2020,movie,Lovers of the Arctic Circle,1998.0,Drama Mystery Romance,7.7,18005
+2021,movie,Lean on Me,1989.0,Drama,7.4,17998
+2022,movie,Suburra,2015.0,Crime Drama Thriller,7.4,17973
+2024,movie,Magadheera,2009.0,Action Drama Fantasy,7.6,17970
+2025,movie,Pat Garrett & Billy the Kid,1973.0,Biography Drama Western,7.3,17965
+2028,movie,Days of Being Wild,1990.0,Crime Drama Romance,7.6,17924
+2029,movie,Toilet: A Love Story,2017.0,Comedy Drama,7.2,17906
+2033,movie,Dum Laga Ke Haisha,2015.0,Comedy Drama Romance,7.5,17857
+2034,movie,Turtles Can Fly,2004.0,Drama War,8.1,17852
+2035,movie,Hanky Panky,1979.0,Comedy Romance,8.6,17848
+2036,movie,Venus in Fur,2013.0,Drama,7.2,17838
+2037,movie,Betty Blue,1986.0,Drama Romance,7.4,17826
+2040,movie,Earthlings,2005.0,Documentary,8.7,17813
+2041,movie,Sorcerer,1977.0,Adventure Drama Thriller,7.7,17808
+2043,movie,The Ultimate Gift,2006.0,Drama Family Romance,7.3,17766
+2044,movie,Cartel Land,2015.0,Documentary News,7.4,17756
+2045,movie,Sonatine,1993.0,Action Comedy Crime,7.5,17743
+2046,movie,The Child,2005.0,Crime Drama Romance,7.4,17714
+2048,movie,Big Night,1996.0,Drama Romance,7.3,17680
+2049,movie,Sivaji,2007.0,Action Drama Thriller,7.5,17679
+2050,movie,Les Misérables,2019.0,Crime Drama Thriller,7.6,17675
+2051,movie,Manjhi: The Mountain Man,2015.0,Adventure Biography Drama,8.0,17666
+2052,movie,Mystery Science Theater 3000: The Movie,1996.0,Comedy Sci-Fi,7.3,17637
+2053,movie,Armour of God,1986.0,Action Adventure Comedy,7.1,17628
+2054,movie,King of Devil's Island,2010.0,Action Drama,7.5,17602
+2058,movie,Songs from the Second Floor,2000.0,Comedy Drama,7.6,17511
+2060,movie,The Son's Room,2001.0,Drama,7.3,17492
+2061,movie,Jolly LLB,2013.0,Comedy Drama,7.5,17476
+2062,movie,Zeitgeist: Moving Forward,2011.0,Documentary,8.1,17476
+2064,movie,Rudderless,2014.0,Comedy Drama Music,7.5,17472
+2065,movie,Evangelion: 1.0 You Are (Not) Alone,2007.0,Action Animation Drama,7.7,17466
+2067,movie,Flame & Citron,2008.0,Action Drama History,7.3,17440
+2068,movie,Knife,2014.0,Action Drama,7.9,17429
+2070,movie,The Day of the Beast,1995.0,Action Adventure Comedy,7.4,17406
+2071,movie,Bad Genius,2017.0,Comedy Crime Drama,7.6,17404
+2072,movie,Forgotten,2017.0,Mystery Thriller,7.4,17371
+2073,movie,O.J.: Made in America,2016.0,Biography Crime Documentary,8.9,17369
+2074,movie,Love Likes Coincidences,2011.0,Drama Romance,7.3,17365
+2075,movie,The Concert,2009.0,Comedy Drama Music,7.6,17315
+2076,movie,Metallica: Some Kind of Monster,2004.0,Documentary Music,7.5,17293
+2077,movie,Police Story 2,1988.0,Action Comedy Crime,7.1,17288
+2078,movie,Bilal: A New Breed of Hero,2015.0,Action Adventure Animation,7.9,17265
+2080,movie,Wazir,2016.0,Action Crime Drama,7.1,17243
+2082,movie,Guzaarish,2010.0,Drama,7.4,17153
+2083,movie,A Hidden Life,2019.0,Biography Drama Romance,7.4,17151
+2084,movie,Kabhi Haan Kabhi Naa,1994.0,Comedy Drama Music,7.8,17150
+2087,movie,Once Upon a Time in China,1991.0,Action Adventure History,7.3,17136
+2088,movie,American Factory,2019.0,Documentary,7.4,17132
+2089,movie,Quadrophenia,1979.0,Drama Music,7.3,17126
+2090,movie,Chinese Take-Out,2011.0,Comedy Drama,7.3,17111
+2091,movie,One Cut of the Dead,2017.0,Comedy Horror,7.7,17109
+2092,movie,Encounters at the End of the World,2007.0,Documentary,7.7,17103
+2093,movie,Thursday,1998.0,Action Comedy Crime,7.2,17101
+2096,movie,24,2016.0,Action Sci-Fi Thriller,7.8,17050
+2097,movie,A Short Film About Killing,1988.0,Crime Drama,8.1,17032
+2098,movie,Shadowlands,1993.0,Biography Drama Romance,7.3,17015
+2100,movie,Brother,1997.0,Crime Drama Romance,8.0,16989
+2102,movie,The Young and Prodigious T.S. Spivet,2013.0,Action Adventure Comedy,7.1,16966
+2103,movie,The Longest Yard,1974.0,Comedy Crime Drama,7.1,16958
+2106,movie,Defending Your Life,1991.0,Comedy Drama Fantasy,7.2,16899
+2107,movie,A Passage to India,1984.0,Adventure Drama History,7.3,16887
+2109,movie,Hum Dil De Chuke Sanam,1999.0,Drama Musical Romance,7.5,16842
+2110,movie,What's Love Got to Do with It,1993.0,Biography Drama Music,7.3,16840
+2111,movie,Como agua para chocolate,1992.0,Drama Romance,7.1,16828
+2115,movie,Premam,2015.0,Comedy Drama Romance,8.3,16783
+2116,movie,Trade,2007.0,Crime Drama Thriller,7.4,16774
+2117,movie,Stand and Deliver,1988.0,Biography Drama,7.3,16773
+2119,movie,Enron: The Smartest Guys in the Room,2005.0,Biography Documentary History,7.6,16763
+2120,movie,Phantom of the Paradise,1974.0,Comedy Drama Fantasy,7.4,16763
+2122,movie,Waves,2019.0,Drama Romance Sport,7.6,16741
+2123,movie,Infernal Affairs II,2003.0,Action Crime Drama,7.3,16735
+2127,movie,13 Tzameti,2005.0,Crime Drama Horror,7.4,16705
+2128,movie,The Banker,2020.0,Biography Drama,7.3,16697
+2129,movie,The Spirit of the Beehive,1973.0,Drama Fantasy,7.9,16697
+2132,movie,Red Dog,2011.0,Biography Comedy Drama,7.4,16676
+2134,movie,American Movie,1999.0,Comedy Documentary,7.9,16640
+2135,movie,Phoenix,2014.0,Drama History Music,7.3,16621
+2137,movie,Coal Miner's Daughter,1980.0,Biography Drama Music,7.5,16594
+2138,movie,Buena Vista Social Club,1999.0,Documentary Music,7.7,16588
+2139,movie,Metallica Through the Never,2013.0,Music,7.2,16567
+2143,movie,The Bear,1988.0,Adventure Drama Family,7.7,16506
+2144,movie,Newton,2017.0,Comedy Drama,7.7,16422
+2145,movie,Tickled,2016.0,Documentary Mystery,7.6,16418
+2146,movie,The Chaos Class Is on Vacation,1977.0,Adventure Comedy Drama,8.7,16412
+2147,movie,Kaminey,2009.0,Action Crime Drama,7.4,16400
+2148,movie,Anbe Sivam,2003.0,Adventure Comedy Drama,8.7,16392
+2151,movie,Wendy and Lucy,2008.0,Drama,7.1,16367
+2153,movie,The Bothersome Man,2006.0,Comedy Drama Fantasy,7.3,16366
+2154,movie,Living in Oblivion,1995.0,Comedy Drama,7.5,16364
+2155,movie,Thani Oruvan,2015.0,Action Crime Thriller,8.4,16361
+2157,movie,Castaway on the Moon,2009.0,Drama Romance,8.1,16348
+2158,movie,Southern Comfort,1981.0,Action Thriller,7.2,16344
+2159,movie,Pele: Birth of a Legend,2016.0,Biography Drama Sport,7.2,16339
+2160,movie,Miracle in Cell No. 7,2013.0,Comedy Drama,8.2,16332
+2161,movie,The Enigma of Kaspar Hauser,1974.0,Biography Drama History,7.8,16311
+2162,movie,Politics,2010.0,Crime Drama Thriller,7.1,16298
+2163,movie,Once Upon a Time in Mumbai,2010.0,Action Crime Drama,7.4,16295
+2164,movie,36th Precinct,2004.0,Action Crime Drama,7.1,16293
+2168,movie,As It Is in Heaven,2004.0,Comedy Drama Music,7.5,16239
+2169,movie,Queen Margot,1994.0,Biography Drama History,7.4,16236
+2170,movie,Timbuktu,2014.0,Drama War,7.1,16218
+2173,movie,Oye Lucky! Lucky Oye!,2008.0,Comedy Crime Drama,7.7,16191
+2174,movie,In Your Name,2003.0,Action Drama Romance,7.1,16182
+2175,movie,Maurice,1987.0,Drama Romance,7.7,16162
+2176,movie,Born Into Brothels: Calcutta's Red Light Kids,2004.0,Biography Documentary News,7.2,16158
+2178,movie,The Last Waltz,1978.0,Biography Documentary Music,8.2,16131
+2179,movie,Bangalore Days,2014.0,Comedy Drama Romance,8.3,16126
+2180,movie,Mosul,2019.0,Action Drama War,7.2,16077
+2182,movie,"Saban, Son of Saban",1977.0,Comedy Crime Mystery,8.8,16069
+2185,movie,Much Ado About Nothing,2012.0,Comedy Drama Romance,7.1,16040
+2186,movie,The Panic in Needle Park,1971.0,Drama,7.1,16039
+2188,movie,Maudie,2016.0,Biography Drama Romance,7.6,16027
+2189,movie,Elle s'appelait Sarah,2010.0,Drama War,7.5,16025
+2191,movie,Nayakan,1987.0,Crime Drama,8.6,15998
+2194,movie,Il Divo,2008.0,Biography Drama,7.3,15985
+2196,movie,Looking for Eric,2009.0,Comedy Drama Fantasy,7.2,15964
+2197,movie,To Live,1994.0,Drama War,8.3,15955
+2201,movie,Dangerous Beauty,1998.0,Biography Drama Romance,7.2,15927
+2206,movie,Brubaker,1980.0,Crime Drama,7.2,15869
+2210,movie,Iqbal,2005.0,Drama Sport,8.1,15796
+2212,movie,Starbuck,2011.0,Comedy Drama Romance,7.2,15766
+2214,movie,A Hijacking,2012.0,Drama Thriller,7.2,15761
+2215,movie,Twice Born,2012.0,Drama Romance War,7.4,15761
+2216,movie,The Turin Horse,2011.0,Drama,7.8,15759
+2217,movie,Into the Abyss,2011.0,Crime Documentary Drama,7.3,15751
+2219,movie,The Beguiled,1971.0,Drama Thriller War,7.2,15728
+2224,movie,Close-Up,1990.0,Biography Crime Drama,8.3,15681
+2226,movie,American Murder: The Family Next Door,2020.0,Crime Documentary,7.2,15673
+2227,movie,Dolls,2002.0,Drama Romance,7.6,15664
+2228,movie,Tampopo,1985.0,Comedy,7.9,15634
+2229,movie,A Taxi Driver,2017.0,Action Drama History,7.9,15618
+2232,movie,The Color of Paradise,1999.0,Drama Family,8.2,15596
+2236,movie,The Internet's Own Boy: The Story of Aaron Swartz,2014.0,Biography Crime Documentary,8.0,15570
+2237,movie,Death Note: The Last Name,2006.0,Adventure Crime Drama,7.2,15561
+2238,movie,Gangaajal,2003.0,Action Crime Drama,7.8,15558
+2240,movie,Private Life,2018.0,Comedy Drama,7.2,15544
+2242,movie,Memories,1995.0,Animation Comedy Fantasy,7.6,15532
+2243,movie,The Game Changers,2018.0,Documentary,7.9,15529
+2244,movie,Johnny Got His Gun,1971.0,Drama War,7.9,15524
+2245,movie,Anvil: The Story of Anvil,2008.0,Biography Documentary Drama,7.9,15520
+2247,movie,Sorry We Missed You,2019.0,Drama,7.6,15472
+2249,movie,Evangelion: 2.0 You Can (Not) Advance,2009.0,Action Animation Drama,8.0,15457
+2251,movie,Brigsby Bear,2017.0,Comedy Drama,7.3,15395
+2252,movie,Scarecrow,1973.0,Drama,7.3,15384
+2255,movie,The Three Musketeers,1973.0,Action Adventure,7.2,15360
+2256,movie,The Parallax View,1974.0,Drama Thriller,7.1,15353
+2257,movie,Bharath Ane Nenu,2018.0,Action Drama,7.7,15340
+2258,movie,The Madness of King George,1994.0,Biography Comedy Drama,7.2,15340
+2259,movie,Queen of Katwe,2016.0,Biography Drama Sport,7.4,15336
+2260,movie,The Man in the Moon,1991.0,Drama Romance,7.4,15335
+2261,movie,Iron Monkey,1993.0,Action Crime Drama,7.5,15317
+2264,movie,The Dish,2000.0,Comedy Drama History,7.1,15270
+2266,movie,Time After Time,1979.0,Adventure Drama Sci-Fi,7.1,15229
+2268,movie,First They Killed My Father,2017.0,Biography Drama History,7.2,15226
+2269,movie,The Twelve Tasks of Asterix,1976.0,Adventure Animation Comedy,7.7,15218
+2271,movie,Innocence,1997.0,Drama,8.2,15205
+2272,movie,A Better Life,2011.0,Drama Romance,7.2,15204
+2276,movie,Cave of Forgotten Dreams,2010.0,Documentary History,7.4,15178
+2278,movie,The Joy Luck Club,1993.0,Drama,7.7,15169
+2280,movie,Paradise Lost: The Child Murders at Robin Hood Hills,1996.0,Crime Documentary,8.3,15153
+2281,movie,Müslüm,2018.0,Biography Drama Music,7.8,15153
+2282,movie,Raid,2018.0,Action Crime Drama,7.4,15150
+2283,movie,When We Were Kings,1996.0,Documentary Sport,8.0,15142
+2284,movie,The Tale,2018.0,Biography Drama Mystery,7.3,15136
+2285,movie,Tess,1979.0,Drama Romance,7.3,15130
+2286,movie,The Consequences of Love,2004.0,Crime Drama Romance,7.5,15128
+2291,movie,Shahid,2012.0,Biography Drama,8.2,15078
+2292,movie,What's in a Name?,2012.0,Comedy Drama,7.3,15072
+2293,movie,Nattevagten,1994.0,Horror Thriller,7.2,15069
+2294,movie,Gardener,2003.0,Drama Romance,7.4,15058
+2295,movie,Band Baaja Baaraat,2010.0,Comedy Drama Romance,7.2,15054
+2297,movie,Miss Americana,2020.0,Biography Documentary Music,7.4,15046
+2298,movie,City of Men,2007.0,Crime Drama,7.2,15041
+2299,movie,Merry Christmas Mr. Lawrence,1983.0,Drama War,7.3,15030
+2300,movie,Jin-Roh: The Wolf Brigade,1999.0,Animation Drama Fantasy,7.4,15024
+2301,movie,Europa Europa,1990.0,Drama History War,7.6,15009
+2303,movie,Atlantic City,1980.0,Crime Drama Romance,7.3,15000
+2304,movie,Hotchpotch: Fun Unlimited,2006.0,Action Comedy Drama,7.4,14999
+2305,movie,F for Fake,1973.0,Documentary,7.8,14982
+2306,movie,A Coffee in Berlin,2012.0,Comedy Drama,7.4,14977
+2308,movie,The Castle,1997.0,Comedy Drama,7.7,14918
+2309,movie,Project A,1983.0,Action Comedy,7.4,14917
+2310,movie,Ivan Vasilievich: Back to the Future,1973.0,Adventure Comedy Sci-Fi,8.4,14914
+2311,movie,Khakee,2004.0,Action Crime Drama,7.4,14901
+2314,movie,Meru,2015.0,Documentary Sport,7.7,14878
+2316,movie,Taxi to the Dark Side,2007.0,Crime Documentary History,7.4,14866
+2317,movie,Children of a Lesser God,1986.0,Drama Romance,7.2,14862
+2318,movie,Café de Flore,2011.0,Drama Romance,7.4,14862
+2320,movie,Never Look Away,2018.0,Biography Drama Romance,7.7,14850
+2321,movie,Sword of the Stranger,2007.0,Action Adventure Animation,7.8,14827
+2322,movie,Happy as Lazzaro,2018.0,Drama Fantasy,7.5,14827
+2324,movie,Life Itself,2014.0,Biography Documentary,7.8,14820
+2325,movie,Life in a Day,2011.0,Documentary Drama,7.6,14820
+2327,movie,Telling Tales,2015.0,Comedy Fantasy Romance,7.5,14817
+2331,movie,Of Gods and Men,2010.0,Drama History,7.2,14782
+2332,movie,North Face,2008.0,Adventure Biography Drama,7.4,14781
+2336,movie,The 36th Chamber of Shaolin,1978.0,Action Adventure Drama,7.7,14753
+2341,movie,Son of the Bride,2001.0,Comedy Drama,7.8,14713
+2344,movie,The Legend of Bhagat Singh,2002.0,Action Biography Drama,8.1,14655
+2346,movie,The Girl with the Red Scarf,1977.0,Drama Romance,8.6,14637
+2347,movie,Reversal of Fortune,1990.0,Biography Drama Mystery,7.2,14632
+2351,movie,Lenny,1974.0,Biography Drama,7.6,14614
+2353,movie,Kibar Feyzo,1978.0,Comedy Romance,8.7,14594
+2354,movie,Lootera,2013.0,Drama Romance,7.3,14591
+2357,movie,The Insult,2017.0,Crime Drama Thriller,7.7,14563
+2361,movie,Kolya,1996.0,Comedy Drama Music,7.8,14517
+2362,movie,"Pretty Village, Pretty Flame",1996.0,Comedy Drama History,8.7,14507
+2366,movie,Pina,2011.0,Documentary Music,7.7,14437
+2367,movie,Company,2002.0,Action Crime Drama,8.0,14428
+2368,movie,Two Brothers,2004.0,Adventure Drama Family,7.1,14404
+2369,movie,Orlando,1992.0,Biography Drama Fantasy,7.2,14398
+2374,movie,Before the Fall,2004.0,Drama Sport Thriller,7.4,14334
+2375,movie,Made in Dagenham,2010.0,Biography Comedy Drama,7.2,14330
+2376,movie,Rory O'Shea Was Here,2004.0,Comedy Drama,7.8,14326
+2377,movie,The Marathon Family,1982.0,Comedy Drama,9.0,14314
+2379,movie,Khuda Haafiz,2020.0,Action Drama Thriller,7.1,14305
+2380,movie,Kesari,2019.0,Action Drama History,7.4,14305
+2381,movie,"You, the Living",2007.0,Comedy Drama Music,7.5,14300
+2382,movie,I'm Not Scared,2003.0,Crime Drama Mystery,7.4,14299
+2386,movie,The Driver,1978.0,Action Crime Thriller,7.2,14293
+2387,movie,Thunder Road,2018.0,Comedy Drama,7.1,14288
+2388,movie,The Dawn Wall,2017.0,Biography Documentary Sport,8.1,14285
+2389,movie,Trinity Is Still My Name,1971.0,Comedy Western,7.3,14273
+2391,movie,The Class,2007.0,Drama,7.9,14258
+2392,movie,Water,2005.0,Drama,7.7,14251
+2393,movie,The Lizard,2004.0,Comedy Drama,8.5,14250
+2395,movie,Burnt by the Sun,1994.0,Drama History War,7.9,14241
+2396,movie,Evil Under the Sun,1982.0,Crime Drama Mystery,7.1,14239
+2397,movie,Anniyan,2005.0,Action Drama Thriller,8.2,14236
+2398,movie,Lore,2012.0,Drama Romance War,7.1,14228
+2399,movie,Columbus,2017.0,Drama,7.2,14215
+2400,movie,Dheepan,2015.0,Crime Drama,7.2,14215
+2402,movie,Crossroads,1986.0,Drama Music Mystery,7.1,14211
+2403,movie,The Phantom of Liberty,1974.0,Comedy,7.9,14204
+2404,movie,Nayak: The Real Hero,2001.0,Action Drama Thriller,7.8,14195
+2406,movie,Earth,2007.0,Documentary,8.0,14171
+2407,movie,Benny's Video,1992.0,Crime Drama,7.2,14134
+2408,movie,Kiss of the Spider Woman,1985.0,Drama,7.4,14133
+2410,movie,Blue Jay,2016.0,Drama Romance,7.3,14114
+2413,movie,Lion of the Desert,1980.0,Biography Drama History,8.4,14068
+2414,movie,Running on Empty,1988.0,Crime Drama Music,7.7,14054
+2415,movie,The Princess and the Warrior,2000.0,Drama Mystery Romance,7.5,14044
+2416,movie,I Can Only Imagine,2018.0,Biography Drama Family,7.3,14038
+2417,movie,The Road Within,2014.0,Comedy Drama,7.1,14034
+2421,movie,Elling,2001.0,Comedy Drama,7.5,13995
+2422,movie,The Last Black Man in San Francisco,2019.0,Drama,7.3,13989
+2423,movie,Mr. India,1987.0,Action Comedy Drama,7.8,13975
+2426,movie,The Unknown Woman,2006.0,Drama Mystery Thriller,7.4,13968
+2429,movie,The Wedding Banquet,1993.0,Comedy Drama Romance,7.6,13934
+2431,movie,Sidewalls,2011.0,Comedy Drama,7.5,13925
+2432,movie,Who's Singin' Over There?,1980.0,Adventure Comedy Drama,8.9,13921
+2433,movie,Pyaar Ka Punchnama 2,2015.0,Comedy Drama Romance,7.3,13911
+2436,movie,12,2007.0,Crime Drama Thriller,7.7,13892
+2437,movie,High Heels,1991.0,Comedy Drama Romance,7.1,13863
+2439,movie,The American Friend,1977.0,Crime Drama Mystery,7.4,13847
+2440,movie,Gulaal,2009.0,Crime Drama Thriller,8.1,13830
+2442,movie,Bad Boys,1983.0,Crime Drama Thriller,7.2,13820
+2443,movie,A Late Quartet,2012.0,Drama Music,7.1,13799
+2445,movie,Mediterraneo,1991.0,Comedy Drama War,7.5,13788
+2446,movie,Border,1997.0,Action Drama History,7.9,13771
+2449,movie,Dragon,2011.0,Action Crime Drama,7.1,13750
+2450,movie,Before the Rain,1994.0,Drama War,8.0,13739
+2452,movie,My Octopus Teacher,2020.0,Documentary,8.3,13717
+2454,movie,Taxi,2015.0,Comedy Drama,7.3,13712
+2456,movie,Revanche,2008.0,Crime Drama Romance,7.5,13697
+2457,movie,Richard III,1995.0,Drama Sci-Fi War,7.4,13684
+2458,movie,Trees Lounge,1996.0,Comedy Drama,7.1,13679
+2459,movie,Three Women,1977.0,Drama Mystery Thriller,7.8,13677
+2460,movie,The Rider,2017.0,Drama Western,7.4,13677
+2461,movie,The Broken Landlord,1985.0,Comedy Drama,8.7,13672
+2462,movie,The Great Muppet Caper,1981.0,Adventure Comedy Crime,7.2,13669
+2463,movie,The Death of Mr. Lazarescu,2005.0,Comedy Drama,7.9,13665
+2464,movie,Ghost in the Shell 2.0,2008.0,Action Adventure Animation,8.0,13647
+2467,movie,Still Walking,2008.0,Drama,7.9,13621
+2468,movie,I'm the Angel of Death: Pusher III,2005.0,Crime Drama Thriller,7.3,13614
+2471,movie,The Apartment,1996.0,Drama Mystery Romance,7.4,13586
+2476,movie,Children Who Chase Lost Voices,2011.0,Adventure Animation Drama,7.2,13517
+2477,movie,To the Forest of Firefly Lights,2011.0,Animation Drama Fantasy,7.9,13489
+2479,movie,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003.0,Action Adventure Animation,7.8,13473
+2482,movie,Raat Akeli Hai,2020.0,Crime Drama Mystery,7.3,13471
+2483,movie,The Devils,1971.0,Biography Drama History,7.8,13466
+2484,movie,Berlin Calling,2008.0,Comedy Drama Music,7.3,13442
+2485,movie,Honeyland,2019.0,Documentary Drama,8.0,13440
+2486,movie,The Abominable Dr. Phibes,1971.0,Comedy Horror,7.1,13428
+2487,movie,Amen.,2002.0,Biography Crime Drama,7.2,13428
+2488,movie,The Tiger and the Snow,2005.0,Comedy Drama Romance,7.1,13396
+2489,movie,Read My Lips,2001.0,Crime Drama Romance,7.3,13390
+2490,movie,TPB AFK: The Pirate Bay Away from Keyboard,2013.0,Documentary,7.5,13373
+2494,movie,The Apostle,1997.0,Drama,7.2,13361
+2495,movie,Polisse,2011.0,Crime Drama,7.3,13353
+2497,movie,Summer Storm,2004.0,Comedy Drama Romance,7.2,13337
+2499,movie,Mrs. Brown,1997.0,Biography Drama History,7.2,13328
+2500,movie,Satya,1998.0,Action Crime Drama,8.2,13316
+2501,movie,Kim Bok-nam salinsageonui jeonmal,2010.0,Drama Horror Thriller,7.3,13306
+2502,movie,The Aura,2005.0,Crime Drama Thriller,7.1,13302
+2505,movie,XXY,2007.0,Drama Romance,7.1,13276
+2506,movie,Safe,1995.0,Drama,7.2,13272
+2507,movie,Broken,2012.0,Drama Romance,7.3,13272
+2509,movie,A Touch of Spice,2003.0,Comedy Drama,7.5,13251
+2511,movie,Frantz,2016.0,Drama History Romance,7.5,13238
+2513,movie,BPM (Beats Per Minute),2017.0,Drama,7.4,13214
+2514,movie,Polytechnique,2009.0,Crime Drama History,7.2,13211
+2517,movie,Monty Python Live at the Hollywood Bowl,1982.0,Comedy Documentary Musical,7.9,13183
+2519,movie,Ashes of Time,1994.0,Action Drama,7.2,13179
+2521,movie,Vampire Hunter D,1985.0,Action Animation Fantasy,7.2,13159
+2522,movie,Omar,2013.0,Crime Drama Romance,7.5,13157
+2523,movie,On Board,1998.0,Crime Drama,8.0,13153
+2524,movie,Girl on the Bridge,1999.0,Comedy Drama Romance,7.5,13152
+2525,movie,October,2018.0,Drama Romance,7.5,13149
+2526,movie,Marley,2012.0,Biography Documentary Music,8.0,13142
+2527,movie,Madaari,2016.0,Adventure Drama Thriller,7.6,13134
+2528,movie,Insomnia,1997.0,Crime Mystery Thriller,7.3,13124
+2529,movie,Mondays in the Sun,2002.0,Comedy Drama,7.6,13119
+2531,movie,Jaane Bhi Do Yaaro,1983.0,Comedy Drama,8.4,13099
+2533,movie,Pieta,2012.0,Crime Drama,7.2,13089
+2534,movie,Finding Vivian Maier,2013.0,Biography Documentary Mystery,7.7,13086
+2535,movie,The Edge of Democracy,2019.0,Documentary History,7.1,13072
+2536,movie,Bigger Stronger Faster*,2008.0,Documentary Sport,7.6,13072
+2537,movie,Dhamaal,2007.0,Action Adventure Comedy,7.3,13071
+2539,movie,Mona Lisa,1986.0,Crime Drama Romance,7.3,13065
+2540,movie,The Seventh Continent,1989.0,Drama,7.7,13064
+2541,movie,The Professional,1981.0,Action Crime Drama,7.6,13057
+2543,movie,Diego Maradona,2019.0,Biography Documentary Sport,7.7,13050
+2544,movie,Sweet Sixteen,2002.0,Crime Drama,7.4,13049
+2545,movie,In the Company of Men,1997.0,Comedy Drama,7.2,13046
+2546,movie,Ghajini,2005.0,Action Drama Mystery,7.5,13040
+2547,movie,Stop Making Sense,1984.0,Documentary Music,8.6,13038
+2549,movie,Hungama,2003.0,Comedy Drama Romance,7.5,13028
+2550,movie,Elena,2011.0,Crime Drama Thriller,7.3,13023
+2551,movie,The Second Mother,2015.0,Comedy Drama,7.8,13007
+2552,movie,The Captain,2017.0,Drama History Thriller,7.4,13002
+2553,movie,The Cowboys,1972.0,Adventure Drama Western,7.4,13002
+2554,movie,Sunshine,1999.0,Drama History Romance,7.5,12995
+2556,movie,Side by Side,2012.0,Documentary,7.6,12993
+2557,movie,Samaritan Girl,2004.0,Drama,7.1,12987
+2559,movie,Stroszek,1977.0,Comedy Drama,7.9,12981
+2562,movie,The Little Girl Who Lives Down the Lane,1976.0,Drama Horror Mystery,7.1,12952
+2563,movie,Theri,2016.0,Action Drama Thriller,7.1,12951
+2564,movie,Kedi,2016.0,Documentary,7.7,12922
+2567,movie,Free to Play,2014.0,Action Documentary,7.9,12901
+2569,movie,The Band's Visit,2007.0,Comedy Drama Music,7.5,12840
+2571,movie,Another Woman,1988.0,Drama,7.3,12819
+2575,movie,Karwaan,2018.0,Comedy Drama,7.5,12795
+2577,movie,Psycho Raman,2016.0,Crime Drama Thriller,7.4,12745
+2581,movie,Caramel,2007.0,Comedy Drama Romance,7.1,12683
+2582,movie,Even the Rain,2010.0,Drama History,7.4,12670
+2583,movie,Rosetta,1999.0,Drama,7.5,12656
+2586,movie,Rams,2015.0,Comedy Drama,7.3,12651
+2587,movie,Werckmeister Harmonies,2000.0,Drama Mystery,8.2,12645
+2589,movie,Winter on Fire: Ukraine's Fight for Freedom,2015.0,Documentary,8.4,12633
+2590,movie,Barbara,2012.0,Drama,7.1,12613
+2595,movie,Riki-Oh: The Story of Ricky,1991.0,Action Comedy Thriller,7.1,12579
+2597,movie,Mankatha,2011.0,Action Crime Thriller,7.6,12568
+2599,movie,Vaastav: The Reality,1999.0,Action Crime Drama,8.0,12560
+2600,movie,Shaadi Mein Zaroor Aana,2017.0,Drama Romance,7.6,12556
+2601,movie,Lootcase,2020.0,Comedy Crime,7.6,12554
+2602,movie,Owning Mahowny,2003.0,Crime Drama Thriller,7.1,12554
+2605,movie,Tekkonkinkreet,2006.0,Action Adventure Animation,7.6,12530
+2606,movie,Pokiri,2006.0,Action Crime Thriller,7.9,12529
+2607,movie,Paris Is Burning,1990.0,Documentary,8.2,12523
+2609,movie,Dookudu,2011.0,Action Comedy,7.4,12502
+2610,movie,The Queen of Versailles,2012.0,Documentary,7.1,12498
+2612,movie,Macbeth,1971.0,Biography Drama History,7.4,12492
+2614,movie,Talk Radio,1988.0,Drama,7.3,12481
+2615,movie,The Last Metro,1980.0,Drama Romance War,7.4,12462
+2616,movie,The Goodbye Girl,1977.0,Comedy Drama Romance,7.4,12450
+2618,movie,Nowhere in Africa,2001.0,Biography Drama History,7.5,12439
+2619,movie,Desert Flower,2009.0,Biography Drama,7.4,12429
+2620,movie,The Front Page,1974.0,Comedy Drama Romance,7.3,12422
+2621,movie,Chachi 420,1997.0,Comedy Drama Family,7.4,12407
+2623,movie,Brat 2,2000.0,Action Crime Thriller,7.8,12398
+2625,movie,Philanthropy,2002.0,Comedy Drama,8.5,12389
+2626,movie,The Pinchcliffe Grand Prix,1975.0,Animation Comedy Family,8.5,12389
+2627,movie,Bang Bang You're Dead,2002.0,Crime Drama Thriller,7.8,12388
+2629,movie,Cry Freedom,1987.0,Biography Drama History,7.4,12379
+2630,movie,Educating Rita,1983.0,Comedy Drama,7.2,12379
+2631,movie,Bad Boy Bubby,1993.0,Comedy Crime Drama,7.4,12375
+2632,movie,Bagdad Cafe,1987.0,Comedy Drama,7.4,12369
+2633,movie,RangiTaranga,2015.0,Mystery Thriller,8.3,12359
+2634,movie,Yol,1982.0,Drama,8.1,12352
+2636,movie,It Might Get Loud,2008.0,Documentary Music,7.6,12342
+2637,movie,Venus,2006.0,Comedy Drama Romance,7.1,12341
+2638,movie,Cocaine Cowboys,2006.0,Crime Documentary History,7.8,12340
+2640,movie,Hope and Glory,1987.0,Comedy Drama Romance,7.3,12336
+2641,movie,The Lovers on the Bridge,1991.0,Drama Romance,7.6,12333
+2642,movie,Stories We Tell,2012.0,Documentary,7.5,12331
+2644,movie,Journal 64,2018.0,Crime Mystery Thriller,7.4,12325
+2645,movie,Peranbu,2018.0,Drama,9.0,12320
+2646,movie,The Road Home,1999.0,Drama History Romance,7.8,12320
+2650,movie,The Mighty,1998.0,Comedy Drama,7.3,12294
+2651,movie,Get Real,1998.0,Comedy Drama Romance,7.5,12290
+2652,movie,Little Nicholas,2009.0,Comedy Family,7.1,12290
+2653,movie,Eyes,2002.0,Crime Drama Thriller,7.4,12288
+2655,movie,20 Feet from Stardom,2013.0,Biography Documentary History,7.4,12281
+2656,movie,Coming Home,1978.0,Drama Romance War,7.3,12266
+2657,movie,Our Little Sister,2015.0,Drama Family,7.5,12266
+2658,movie,Lady Snowblood,1973.0,Action Drama Thriller,7.7,12250
+2659,movie,The Marriage of Maria Braun,1979.0,Drama,7.8,12240
+2660,movie,RBG,2018.0,Biography Documentary,7.6,12238
+2662,movie,Dogtown and Z-Boys,2001.0,Documentary Sport,7.7,12233
+2663,movie,Snow Cake,2006.0,Drama Romance,7.5,12221
+2664,movie,Gantz: O,2016.0,Action Animation Drama,7.1,12216
+2665,movie,Limonata,2015.0,Comedy Drama,7.4,12210
+2666,movie,Let's Sin,2014.0,Action Crime Drama,7.8,12208
+2667,movie,Destiny,2006.0,Drama,7.9,12200
+2669,movie,Life Is a Miracle,2004.0,Comedy Drama Music,7.6,12189
+2670,movie,Graduation,2016.0,Crime Drama,7.3,12177
+2671,movie,"What Happened, Miss Simone?",2015.0,Biography Documentary Music,7.6,12154
+2672,movie,An Officer and a Spy,2019.0,Drama History Thriller,7.2,12148
+2674,movie,Tyson,2008.0,Biography Documentary Sport,7.5,12139
+2675,movie,Sound City,2013.0,Documentary Music,7.8,12128
+2676,movie,Grey Gardens,1975.0,Comedy Documentary Drama,7.6,12124
+2679,movie,Fresh,1994.0,Crime Drama Thriller,7.6,12112
+2681,movie,Who Killed the Electric Car?,2006.0,Documentary,7.6,12106
+2683,movie,Dhuruvangal Pathinaaru,2016.0,Action Crime Mystery,8.3,12100
+2687,movie,Copenhagen,2014.0,Adventure Drama Romance,7.1,12063
+2688,movie,Trailer Park Boys: The Movie,2006.0,Comedy Crime,7.2,12063
+2690,movie,Utøya: July 22,2018.0,Drama Thriller,7.2,12049
+2691,movie,Labyrinth of Lies,2014.0,Drama History,7.3,12044
+2692,movie,At the End of the Tunnel,2016.0,Crime Drama Thriller,7.1,12043
+2693,movie,N.H 10,2015.0,Action Crime Drama,7.2,12041
+2694,movie,Breaker Morant,1980.0,Drama History War,7.8,12029
+2697,movie,Kilo Two Bravo,2014.0,Adventure Biography Drama,7.1,11973
+2701,movie,The Mad Adventures of Rabbi Jacob,1973.0,Adventure Comedy Crime,7.4,11933
+2702,movie,Sexmission,1984.0,Adventure Comedy Sci-Fi,7.7,11921
+2703,movie,Çalgi Çengi,2011.0,Comedy,7.1,11917
+2704,movie,Athadu,2005.0,Action Thriller,8.2,11916
+2706,movie,The Secret Life of Words,2005.0,Drama Romance,7.5,11889
+2708,movie,La Grande Bouffe,1973.0,Comedy Drama,7.2,11888
+2709,movie,The Dark Valley,2014.0,Action Drama Western,7.1,11880
+2713,movie,Spellbound,2002.0,Comedy Documentary Thriller,7.5,11860
+2714,movie,Takva: A Man's Fear of God,2006.0,Drama,7.5,11860
+2716,movie,Climates,2006.0,Drama Romance,7.2,11854
+2718,movie,Code Unknown,2000.0,Drama,7.2,11837
+2719,movie,Ten Inch Hero,2007.0,Comedy Drama Romance,7.4,11836
+2720,movie,61 Days,2016.0,Comedy Drama,7.4,11835
+2721,movie,Diva,1981.0,Music Thriller,7.1,11828
+2723,movie,Neon Genesis Evangelion: Death & Rebirth,1997.0,Action Animation Drama,7.5,11824
+2724,movie,Rurouni Kenshin Part II: Kyoto Inferno,2014.0,Action Adventure Drama,7.6,11815
+2725,movie,Along With the Gods: The Two Worlds,2017.0,Action Drama Fantasy,7.3,11812
+2726,movie,Kuai can che,1984.0,Action Comedy Crime,7.2,11806
+2727,movie,Girl,2018.0,Drama,7.1,11800
+2728,movie,Peepli [Live],2010.0,Comedy Drama,7.4,11785
+2730,movie,My Neighbors the Yamadas,1999.0,Animation Comedy Family,7.2,11777
+2731,movie,The Ghazi Attack,2017.0,Action Thriller War,7.6,11775
+2732,movie,Time,2006.0,Drama Mystery Romance,7.2,11762
+2736,movie,Wild Bill,2011.0,Drama,7.2,11745
+2739,movie,A Special Day,1977.0,Drama,8.1,11727
+2740,movie,The Look of Silence,2014.0,Biography Documentary History,8.3,11721
+2742,movie,Night Moves,1975.0,Crime Mystery Thriller,7.1,11711
+2743,movie,Human Capital,2013.0,Crime Drama,7.3,11695
+2747,movie,A Dog's Will,2000.0,Comedy Drama Western,8.6,11679
+2748,movie,The Black Stallion,1979.0,Adventure Family Sport,7.3,11676
+2749,movie,Topsy-Turvy,1999.0,Biography Comedy Drama,7.3,11675
+2750,movie,Corpus Christi,2019.0,Drama,7.7,11669
+2751,movie,Cannibal! The Musical,1993.0,Comedy Musical Thriller,7.1,11664
+2753,movie,Love Exposure,2008.0,Action Comedy Drama,8.1,11662
+2754,movie,Metal: A Headbanger's Journey,2005.0,Documentary Music,8.1,11660
+2759,movie,The Fool,2014.0,Crime Drama Thriller,8.0,11630
+2760,movie,Where Do We Go Now?,2011.0,Comedy Drama,7.5,11629
+2761,movie,Forks Over Knives,2011.0,Documentary,7.7,11627
+2762,movie,Truman,2015.0,Comedy Drama,7.3,11624
+2766,movie,Goodbye Bafana,2007.0,Biography Drama History,7.1,11593
+2767,movie,Roma,1972.0,Comedy Drama,7.4,11591
+2768,movie,Roja,1992.0,Drama Romance Thriller,8.2,11571
+2769,movie,The Selfish Giant,2013.0,Drama,7.3,11559
+2771,movie,Mardaani,2014.0,Action Crime Drama,7.3,11554
+2773,movie,Mother and Child,2009.0,Drama Romance,7.2,11542
+2775,movie,Hush Hush,1975.0,Comedy Drama Romance,8.3,11537
+2776,movie,Ustad Hotel,2012.0,Comedy Drama Family,8.2,11530
+2779,movie,Alice,1988.0,Adventure Animation Fantasy,7.5,11519
+2780,movie,Loose Cannons,2010.0,Comedy Drama Romance,7.3,11514
+2783,movie,Three,2016.0,Drama Mystery Thriller,7.3,11499
+2784,movie,Butterflies,2018.0,Comedy Drama,7.4,11492
+2785,movie,Nicholas Nickleby,2002.0,Adventure Drama Romance,7.1,11488
+2786,movie,Winged Migration,2001.0,Documentary,7.9,11485
+2790,movie,Beyond the Hills,2012.0,Drama,7.5,11459
+2791,movie,Fed Up,2014.0,Documentary,7.7,11456
+2793,movie,Johnny the Traitor,2007.0,Crime Drama Mystery,7.8,11448
+2795,movie,Lucia,2013.0,Drama Sci-Fi Thriller,8.3,11440
+2798,movie,El Crimen Perfecto (The Perfect Crime),2004.0,Comedy Crime Thriller,7.1,11420
+2799,movie,The Barber of Siberia,1998.0,Comedy Drama History,7.8,11417
+2802,movie,Vavien,2009.0,Comedy Drama Thriller,7.5,11402
+2803,movie,Moscow Does Not Believe in Tears,1980.0,Comedy Drama Romance,8.1,11391
+2805,movie,Kin-dza-dza!,1986.0,Comedy Drama Sci-Fi,8.1,11387
+2807,movie,Hey Ram,2000.0,Crime Drama History,7.9,11379
+2808,movie,The Parade,2011.0,Comedy Drama,7.3,11367
+2809,movie,Bird,1988.0,Biography Drama Music,7.2,11359
+2810,movie,Section 375,2019.0,Drama Mystery,8.1,11352
+2813,movie,Redline,2009.0,Action Animation Sci-Fi,7.5,11337
+2816,movie,Bala,2019.0,Comedy,7.4,11308
+2818,movie,GOLD,2018.0,Drama History Sport,7.3,11297
+2821,movie,Knock Down the House,2019.0,Documentary,7.1,11278
+2822,movie,Saala Khadoos,2016.0,Action Drama Sport,7.6,11267
+2823,movie,Father,2009.0,Comedy Drama,7.2,11262
+2824,movie,Cold Fish,2010.0,Crime Drama Horror,7.1,11255
+2825,movie,Sairat,2016.0,Drama Romance,8.3,11255
+2826,movie,Table No. 21,2013.0,Adventure Drama Thriller,7.1,11249
+2827,movie,The Beatles: Eight Days a Week - The Touring Years,2016.0,Documentary Music,7.8,11241
+2829,movie,Bombay,1995.0,Drama Musical Romance,8.1,11234
+2831,movie,Montevideo: Taste of a Dream,2010.0,Adventure Comedy Drama,8.2,11231
+2833,movie,Nanban,2012.0,Comedy Drama,7.4,11216
+2834,movie,Big Jake,1971.0,Western,7.2,11216
+2837,movie,Don,1978.0,Action Crime Thriller,7.8,11199
+2838,movie,Lost in La Mancha,2002.0,Documentary,7.4,11191
+2840,movie,Lean on Pete,2017.0,Drama,7.2,11184
+2841,movie,Two-Lane Blacktop,1971.0,Drama,7.2,11179
+2844,movie,King of the Doormen,1976.0,Comedy Drama,8.4,11140
+2845,movie,Bheja Fry,2007.0,Comedy Drama,7.6,11139
+2846,movie,War of the Arrows,2011.0,Action Adventure,7.2,11137
+2848,movie,The Young Offenders,2016.0,Adventure Comedy Crime,7.1,11122
+2850,movie,The Road to Guantanamo,2006.0,Documentary Drama War,7.4,11087
+2851,movie,Silenced,2011.0,Drama,8.1,11079
+2853,movie,A Hard Day,2014.0,Action Crime Thriller,7.2,11076
+2854,movie,Srimanthudu,2015.0,Action Drama,7.5,11072
+2856,movie,Shine a Light,2008.0,Biography Documentary Music,7.2,11063
+2858,movie,The Killing of a Chinese Bookie,1976.0,Crime Drama Thriller,7.4,11053
+2859,movie,Killing the Shadows,2006.0,Comedy Drama History,7.5,11051
+2863,movie,Soaked in Bleach,2015.0,Crime Documentary,7.4,11033
+2864,movie,The Last: Naruto the Movie,2014.0,Action Adventure Animation,7.6,11024
+2865,movie,Cure,1997.0,Crime Horror Mystery,7.4,11020
+2867,movie,Life in a Metro,2007.0,Comedy Drama Romance,7.4,11019
+2869,movie,The Island,2006.0,Drama,7.9,11015
+2870,movie,The Bridge,2006.0,Documentary Drama,7.2,11005
+2871,movie,Beyond the Gates,2005.0,Drama History War,7.7,11004
+2876,movie,My King,2015.0,Drama Romance,7.1,10933
+2878,movie,Common Wealth,2000.0,Comedy Crime Horror,7.3,10923
+2879,movie,Machuca,2004.0,Biography Drama History,7.7,10913
+2880,movie,No One Killed Jessica,2011.0,Biography Crime Drama,7.2,10904
+2881,movie,Charley Varrick,1973.0,Action Crime Drama,7.5,10898
+2882,movie,Three O'Clock High,1987.0,Comedy,7.2,10898
+2884,movie,Soldier of Orange,1977.0,Drama Romance Thriller,7.7,10888
+2885,movie,Modigliani,2004.0,Biography Drama,7.4,10887
+2887,movie,Cars of the Revolution,2008.0,Drama,8.0,10885
+2889,movie,"20,000 Days on Earth",2014.0,Documentary Drama Music,7.5,10875
+2891,movie,Paddleton,2019.0,Comedy Drama,7.2,10865
+2892,movie,It's Such a Beautiful Day,2012.0,Animation Comedy Drama,8.3,10839
+2897,movie,Slave,1998.0,Action Crime Drama,7.3,10808
+2899,movie,Last Life in the Universe,2003.0,Comedy Drama Romance,7.5,10801
+2900,movie,"Watch Out, We're Mad",1974.0,Action Comedy,7.5,10797
+2902,movie,The Other Side of Hope,2017.0,Comedy Drama,7.2,10794
+2903,movie,Law of Desire,1987.0,Comedy Drama Thriller,7.1,10783
+2904,movie,United,2011.0,Drama History Sport,7.4,10760
+2905,movie,Lammbock,2001.0,Comedy,7.3,10754
+2906,movie,Monsieur Ibrahim,2003.0,Comedy Drama,7.3,10746
+2907,movie,Brothers,2004.0,Drama War,7.5,10741
+2910,movie,Aruvi,2016.0,Drama,8.5,10729
+2912,movie,Kaithi,2019.0,Action Thriller,8.5,10703
+2916,movie,Faces Places,2017.0,Documentary,7.9,10667
+2919,movie,Microcosmos,1996.0,Documentary,7.9,10659
+2920,movie,The Bow,2005.0,Drama Romance,7.1,10658
+2921,movie,The Warrior,2001.0,Action Drama History,7.1,10652
+2922,movie,Facing Windows,2003.0,Drama Romance,7.3,10650
+2923,movie,Asterix in Britain,1986.0,Adventure Animation Comedy,7.1,10646
+2926,movie,Holding the Man,2015.0,Biography Drama Romance,7.4,10641
+2927,movie,Waiting for 'Superman',2010.0,Documentary,7.5,10641
+2930,movie,When Love Calls,1989.0,Drama Family Musical,7.3,10614
+2933,movie,Two Lottery Tickets,2016.0,Comedy,7.7,10609
+2934,movie,My Way,2011.0,Action Drama War,7.7,10601
+2936,movie,Aamir,2008.0,Action Crime Drama,7.7,10591
+2937,movie,Paid in Full,2002.0,Action Crime Drama,7.1,10582
+2938,movie,Snake in the Eagle's Shadow,1978.0,Action Comedy,7.4,10574
+2939,movie,Secret of the Wings,2012.0,Animation Family Fantasy,7.1,10573
+2940,movie,Spare Parts,2015.0,Drama,7.3,10565
+2941,movie,Poetry,2010.0,Drama,7.8,10549
+2943,movie,Indian,1996.0,Action Drama Thriller,8.1,10538
+2944,movie,George Harrison: Living in the Material World,2011.0,Biography Documentary Music,8.2,10531
+2945,movie,Vada Chennai,2018.0,Action Crime Drama,8.5,10512
+2946,movie,Violent Cop,1989.0,Action Crime Drama,7.2,10511
+2952,movie,Berserk: The Golden Age Arc I - The Egg of the King,2012.0,Action Adventure Animation,7.6,10474
+2957,movie,Karthik Calling Karthik,2010.0,Drama Mystery Thriller,7.1,10462
+2958,movie,Fullmetal Alchemist the Movie: Conqueror of Shamballa,2005.0,Action Adventure Animation,7.4,10458
+2959,movie,Shall We Dance?,1996.0,Comedy Drama Music,7.6,10457
+2962,movie,Tell Me Who I Am,2019.0,Documentary Drama Mystery,7.6,10445
+2963,movie,Eternity and a Day,1998.0,Drama,7.9,10443
+2964,movie,Battle for Sevastopol,2015.0,Biography Drama Romance,7.1,10440
+2966,movie,Crime Busters,1977.0,Action Adventure Comedy,7.2,10430
+2970,movie,Hichki,2018.0,Comedy Drama,7.5,10414
+2971,movie,Palm Trees in the Snow,2015.0,Drama Romance,7.4,10413
+2972,movie,The Miracle,2015.0,Comedy Drama Romance,7.6,10403
+2973,movie,Hannah Arendt,2012.0,Biography Drama,7.1,10402
+2975,movie,Gentlemen of Fortune,1971.0,Comedy Crime Drama,8.5,10393
+2976,movie,Character,1997.0,Crime Drama Mystery,7.7,10391
+2977,movie,Norma Rae,1979.0,Drama,7.3,10387
+2981,movie,Bella,2006.0,Drama Romance,7.2,10376
+2982,movie,Wake in Fright,1971.0,Drama Thriller,7.7,10372
+2984,movie,Balkan Spy,1984.0,Comedy Drama,8.9,10366
+2985,movie,Where Is the Friend's House?,1987.0,Drama Family,8.1,10366
+2986,movie,Blancanieves,2012.0,Drama Fantasy,7.5,10359
+2989,movie,My Best Fiend,1999.0,Biography Documentary,7.9,10343
+2990,movie,Who Finds a Friend Finds a Treasure,1981.0,Action Adventure Comedy,7.2,10339
+2991,movie,Land and Freedom,1995.0,Drama War,7.6,10331
+2993,movie,City of Life and Death,2009.0,Drama History War,7.7,10309
+2994,movie,Gangster's Paradise: Jerusalema,2008.0,Action Crime Drama,7.3,10306
+2997,movie,The Wings of the Dove,1997.0,Drama Romance,7.1,10300
+2999,movie,The Method,2005.0,Drama,7.2,10296
+3000,movie,Angrezi Medium,2020.0,Comedy Drama,7.3,10293
+3001,movie,A Pure Formality,1994.0,Crime Drama Thriller,7.7,10289
+3002,movie,A Touch of Sin,2013.0,Action Drama,7.1,10286
+3003,movie,Ronja Robbersdaughter,1984.0,Adventure Drama Family,7.3,10270
+3005,movie,From Doom Till Doom,1988.0,Drama Musical Romance,7.5,10266
+3006,movie,Ill Manors,2012.0,Crime Drama,7.1,10264
+3007,movie,Trapped,2016.0,Drama Thriller,7.5,10258
+3011,movie,Noises Off...,1992.0,Comedy,7.6,10249
+3012,movie,The Red Pill,2016.0,Documentary,8.2,10245
+3013,movie,Virunga,2014.0,Documentary War,8.2,10239
+3015,movie,Savior,1998.0,Drama War,7.3,10234
+3016,movie,Barefoot,2005.0,Comedy Drama Romance,7.2,10227
+3017,movie,The Admiral: Roaring Currents,2014.0,Action Drama History,7.1,10220
+3019,movie,Saving Face,2004.0,Comedy Drama Romance,7.4,10188
+3020,movie,GasLand,2010.0,Documentary,7.7,10183
+3023,movie,Klown,2010.0,Comedy,7.2,10170
+3025,movie,Places in the Heart,1984.0,Drama,7.4,10160
+3026,movie,Ittefaq,2017.0,Mystery Thriller,7.2,10157
+3028,movie,Forever Strong,2008.0,Drama Sport,7.2,10145
+3029,movie,The Lady,2011.0,Biography Drama History,7.1,10134
+3030,movie,Oasis: Supersonic,2016.0,Biography Documentary Music,7.9,10132
+3033,movie,Scum,1979.0,Crime Drama,7.6,10127
+3035,movie,Wild Rose,2018.0,Comedy Drama Music,7.2,10123
+3038,movie,Tere Bin Laden,2010.0,Comedy Drama,7.2,10118
+3041,movie,Theeb,2014.0,Adventure Drama Thriller,7.2,10104
+3042,movie,Pelle the Conqueror,1987.0,Drama,7.8,10099
+3043,movie,After Life,1998.0,Drama Fantasy,7.6,10096
+3044,movie,Asuran,2019.0,Action Drama,8.5,10093
+3046,movie,The Snow Walker,2003.0,Adventure Drama,7.3,10088
+3048,movie,Where's Firuze?,2004.0,Comedy Drama Music,7.3,10067
+3049,movie,Jigarthanda,2014.0,Action Crime Drama,8.3,10064
+3051,movie,The Misfortunates,2009.0,Comedy Drama,7.4,10052
+3052,movie,Two Hands,1999.0,Comedy Crime Thriller,7.1,10050
+3053,movie,The Wounds,1998.0,Comedy Crime Drama,8.0,10041
+3055,movie,Ankhon Dekhi,2013.0,Comedy Drama,8.0,10025
+3057,movie,The Wanderers,1979.0,Crime Drama Romance,7.4,10023
+3058,movie,Deewaar,1975.0,Action Crime Drama,8.1,10022
+3059,movie,La Cérémonie,1995.0,Crime Drama Mystery,7.5,10015
+3060,movie,In Darkness,2011.0,Drama War,7.3,10011
+3062,movie,Geetha Govindam,2018.0,Drama Romance,7.7,10007
+3064,movie,Cholera Street,1997.0,Crime Drama Romance,7.7,9993
+3067,movie,"Don't Worry, I'm Fine",2006.0,Drama,7.4,9979
+3068,movie,Alice in the Cities,1974.0,Drama,8.0,9974
+3069,movie,Birds of Passage,2018.0,Crime Drama,7.5,9972
+3071,movie,We are the Best!,2013.0,Drama Music,7.2,9969
+3073,movie,Johnny Stecchino,1991.0,Comedy Crime Romance,7.2,9961
+3076,movie,Turkish Delight,1973.0,Drama Romance,7.1,9940
+3080,movie,Stanley Kubrick: A Life in Pictures,2001.0,Biography Documentary,8.0,9921
+3082,movie,All or Nothing,2002.0,Drama,7.5,9919
+3083,movie,Mortal Kombat Legends: Scorpion's Revenge,2020.0,Action Adventure Animation,7.4,9912
+3084,movie,Gadar: Ek Prem Katha,2001.0,Action Drama Romance,7.2,9912
+3086,movie,Thalapathi,1991.0,Action Crime Drama,8.5,9912
+3087,movie,Stage Beauty,2004.0,Drama,7.1,9911
+3089,movie,Ishqiya,2010.0,Comedy Drama Romance,7.3,9895
+3090,movie,Martin,1977.0,Drama Horror,7.1,9870
+3091,movie,Us,2014.0,Comedy Drama Fantasy,8.0,9870
+3094,movie,Shotgun Stories,2007.0,Drama Thriller,7.2,9866
+3095,movie,Fireworks Wednesday,2006.0,Drama Mystery Romance,7.7,9854
+3098,movie,The Connection,2014.0,Action Crime Thriller,7.1,9845
+3101,movie,Murderball,2005.0,Documentary Sport,7.7,9819
+3102,movie,Theeran Adhigaram Ondru,2017.0,Action Crime Thriller,8.2,9817
+3103,movie,Vaaranam Aayiram,2008.0,Drama Musical Romance,8.1,9816
+3104,movie,Happy Days,1978.0,Comedy Drama Family,8.7,9815
+3106,movie,Deliver Us from Evil,2006.0,Crime Documentary,7.9,9808
+3107,movie,The Decameron,1971.0,Comedy Drama History,7.1,9805
+3109,movie,Bully,2011.0,Documentary,7.3,9803
+3110,movie,When the Wind Blows,1986.0,Animation Comedy Drama,7.7,9798
+3111,movie,Bullet in the Head,1990.0,Action Crime Drama,7.6,9795
+3112,movie,The Wing or The Thigh?,1976.0,Comedy Family,7.2,9792
+3113,movie,La Cage aux Folles,1978.0,Comedy,7.3,9787
+3114,movie,West of Memphis,2012.0,Crime Documentary,7.9,9784
+3115,movie,Mr. Muhsin,1987.0,Comedy Drama Music,8.5,9777
+3116,movie,Terkel in Trouble,2004.0,Animation Comedy Musical,7.1,9770
+3117,movie,One False Move,1992.0,Crime Drama Thriller,7.1,9763
+3118,movie,A War,2015.0,Crime Drama Thriller,7.1,9759
+3120,movie,Gunda,1998.0,Action Comedy Crime,7.3,9744
+3124,movie,Why We Fight,2005.0,Documentary History War,8.0,9727
+3127,movie,The Women on the 6th Floor,2010.0,Comedy,7.1,9719
+3128,movie,Hilary and Jackie,1998.0,Biography Drama Music,7.3,9711
+3130,movie,Shogun Assassin,1980.0,Action Adventure,7.4,9683
+3131,movie,Weiner,2016.0,Documentary,7.6,9678
+3133,movie,The Gilded Cage,2013.0,Comedy Drama,7.2,9676
+3134,movie,Tokyo!,2008.0,Comedy Drama Fantasy,7.1,9675
+3135,movie,The Distinguished Citizen,2016.0,Comedy Drama,7.5,9673
+3137,movie,South Wind,2018.0,Crime Drama Thriller,8.1,9658
+3140,movie,The Club,2015.0,Comedy Drama Mystery,7.2,9648
+3142,movie,Smoke Signals,1998.0,Comedy Drama,7.1,9626
+3144,movie,The American Meme,2018.0,Documentary,7.1,9616
+3145,movie,The Monster,1994.0,Comedy Crime Mystery,7.5,9613
+3147,movie,Salyut-7,2017.0,Action Drama History,7.2,9609
+3149,movie,From the Village to the City,1974.0,Adventure Comedy Crime,8.3,9601
+3152,movie,The War Zone,1999.0,Drama Thriller,7.3,9592
+3153,movie,Shanghai,2012.0,Crime Mystery Thriller,7.2,9588
+3154,movie,Bang Boom Bang - Ein todsicheres Ding,1999.0,Action Comedy Crime,7.6,9574
+3155,movie,Metropolitan,1990.0,Comedy Drama Romance,7.4,9569
+3156,movie,We Are Legion: The Story of the Hacktivists,2012.0,Documentary,7.3,9567
+3159,movie,Eye of the Needle,1981.0,Romance Thriller War,7.1,9554
+3161,movie,Open Hearts,2002.0,Drama Romance,7.5,9554
+3163,movie,Sanam Teri Kasam,2016.0,Drama Musical Romance,7.3,9549
+3164,movie,My Grandfather's People,2011.0,Comedy Drama Family,8.0,9540
+3165,movie,Mahanati,2018.0,Biography Drama,8.5,9537
+3168,movie,With a Friend Like Harry...,2000.0,Comedy Drama Mystery,7.1,9532
+3171,movie,L.I.E.,2001.0,Crime Drama,7.1,9509
+3172,movie,Theater of Blood,1973.0,Comedy Drama Horror,7.2,9508
+3173,movie,The Hater,2020.0,Drama Thriller,7.1,9507
+3174,movie,Business Man,2012.0,Action Crime,7.2,9502
+3177,movie,Never Rarely Sometimes Always,2020.0,Drama,7.3,9498
+3178,movie,Champion,2018.0,Biography Drama Romance,8.3,9495
+3179,movie,Sans Soleil,1983.0,Documentary Drama,8.0,9493
+3181,movie,Dragon Ball Z: Broly - The Legendary Super Saiyan,1993.0,Action Animation Sci-Fi,7.5,9487
+3183,movie,Belle Epoque,1992.0,Comedy Drama Romance,7.1,9484
+3185,movie,"When I Grow Up, I'll Be a Kangaroo",2004.0,Comedy,8.4,9480
+3188,movie,Happy Accidents,2000.0,Comedy Romance,7.2,9465
+3189,movie,The Man Who Copied,2003.0,Comedy Crime Drama,7.6,9465
+3190,movie,La Belle Époque,2019.0,Comedy Drama Romance,7.4,9463
+3191,movie,Lovelorn,2005.0,Drama,7.8,9460
+3193,movie,Mephisto,1981.0,Drama,7.8,9440
+3194,movie,The Song of Sparrows,2008.0,Drama Family,7.9,9436
+3196,movie,Reprise,2006.0,Drama,7.4,9426
+3197,movie,The Innocents,2016.0,Drama History,7.3,9420
+3198,movie,The Memory of a Killer,2003.0,Action Crime Drama,7.3,9419
+3199,movie,Maqbool,2003.0,Crime Drama Thriller,8.1,9415
+3204,movie,Talk to Me,2007.0,Biography Drama History,7.3,9405
+3205,movie,Election,2005.0,Crime Drama Thriller,7.1,9405
+3206,movie,Imaginary Heroes,2004.0,Comedy Drama,7.1,9387
+3207,movie,Tai-Chi Master,1993.0,Action Comedy Drama,7.2,9383
+3208,movie,Behzat Ç.: Seni Kalbime Gömdüm,2011.0,Action Crime Mystery,7.6,9380
+3209,movie,Avanti!,1972.0,Comedy Romance,7.2,9378
+3210,movie,Abbas in Flower,1982.0,Comedy Drama Romance,8.1,9374
+3211,movie,Let the Bullets Fly,2010.0,Action Comedy Drama,7.3,9361
+3213,movie,Hard Times,1975.0,Crime Drama Sport,7.3,9354
+3216,movie,Cat City,1986.0,Adventure Animation Comedy,8.4,9349
+3217,movie,Tuntematon sotilas,2017.0,Drama War,7.8,9349
+3218,movie,Dragon Ball Z: Fusion Reborn,1995.0,Action Animation Sci-Fi,7.7,9347
+3220,movie,Shootout at Lokhandwala,2007.0,Action Crime History,7.1,9342
+3221,movie,Submarino,2010.0,Drama,7.5,9342
+3222,movie,An Honest Liar,2014.0,Biography Comedy Documentary,7.5,9338
+3223,movie,Batla House,2019.0,Action Drama Thriller,7.2,9336
+3224,movie,D-Day,2013.0,Action Thriller,7.2,9332
+3225,movie,Life and a Day,2016.0,Drama,8.2,9331
+3228,movie,Appleseed Ex Machina,2007.0,Action Adventure Animation,7.1,9325
+3229,movie,Tender Mercies,1983.0,Drama Music,7.4,9316
+3230,movie,Satantango,1994.0,Drama,8.4,9308
+3231,movie,Sweet Bean,2015.0,Drama,7.4,9307
+3233,movie,The Devil and Daniel Johnston,2005.0,Biography Documentary Music,7.9,9285
+3234,movie,After the Storm,2016.0,Comedy Drama,7.4,9277
+3236,movie,Super Deluxe,2019.0,Comedy Crime Drama,8.4,9266
+3238,movie,Ivy,2015.0,Drama Fantasy Thriller,8.1,9254
+3239,movie,Armadillo,2010.0,Documentary War,7.5,9254
+3241,movie,Last Night,1998.0,Comedy Drama Romance,7.1,9248
+3244,movie,Indochine,1992.0,Drama Romance War,7.1,9229
+3246,movie,Paradise Lost 3: Purgatory,2011.0,Crime Documentary,8.1,9221
+3247,movie,A Better Tomorrow II,1987.0,Action Crime Drama,7.3,9221
+3248,movie,That Sugar Film,2014.0,Documentary,7.5,9219
+3249,movie,You Are the Apple of My Eye,2011.0,Comedy Drama Romance,7.6,9219
+3250,movie,The Power of One,1992.0,Drama Sport,7.2,9219
+3252,movie,Survive Style 5+,2004.0,Fantasy Mystery Romance,7.6,9208
+3254,movie,The Call,2020.0,Crime Horror Mystery,7.1,9182
+3255,movie,Trust,1990.0,Comedy Drama,7.3,9180
+3258,movie,Manic,2001.0,Drama,7.3,9159
+3261,movie,The Best of Enemies,2019.0,Biography Drama History,7.2,9154
+3262,movie,Rangeela,1995.0,Comedy Drama Musical,7.5,9152
+3263,movie,Opening Night,1977.0,Drama,8.0,9148
+3264,movie,Project A 2,1987.0,Action Comedy Crime,7.1,9147
+3267,movie,Before I Disappear,2014.0,Drama,7.2,9135
+3268,movie,The Cure,1995.0,Drama,7.7,9134
+3270,movie,The Butcher Boy,1997.0,Comedy Drama,7.1,9129
+3272,movie,Taxi No. 9 2 11: Nau Do Gyarah,2006.0,Comedy Drama Thriller,7.2,9121
+3275,movie,Double Trouble,1984.0,Action Comedy,7.2,9115
+3276,movie,When You're Strange,2009.0,Documentary Music,7.7,9114
+3277,movie,May God Save Us,2016.0,Action Adventure Crime,7.1,9113
+3278,movie,The Draughtsman's Contract,1982.0,Comedy Drama History,7.3,9112
+3281,movie,Blackmail,2018.0,Comedy Thriller,7.1,9104
+3283,movie,The First Day of the Rest of Your Life,2008.0,Drama,7.6,9084
+3285,movie,Thou Gild'st the Even,2013.0,Drama Fantasy Romance,7.9,9079
+3287,movie,In the Name of God,2007.0,Drama,8.4,9069
+3288,movie,Noi the Albino,2003.0,Drama,7.3,9060
+3290,movie,Life Is Sweet,1990.0,Comedy Drama,7.5,9050
+3291,movie,A Small September Affair,2014.0,Drama Mystery Romance,7.2,9049
+3292,movie,Hardcore,1979.0,Crime Drama,7.1,9048
+3294,movie,Somersault in a Coffin,1996.0,Drama,7.8,9045
+3295,movie,Oceans,2009.0,Documentary,7.8,9044
+3296,movie,Love Songs,2007.0,Drama Musical Romance,7.1,9042
+3298,movie,Bread and Tulips,2000.0,Comedy Romance,7.3,9037
+3299,movie,Cría Cuervos,1976.0,Drama,8.0,9034
+3302,movie,Everything About Mustafa,2004.0,Drama Thriller,7.6,9025
+3308,movie,Once Upon a Time in China II,1992.0,Action Adventure Biography,7.4,9003
+3309,movie,Mishima: A Life in Four Chapters,1985.0,Biography Drama,8.0,8998
+3310,movie,The Hairdresser's Husband,1990.0,Comedy Drama Romance,7.2,8992
+3311,movie,Dirty Wars,2013.0,Crime Documentary History,7.5,8986
+3312,movie,Day of the Wacko,2002.0,Comedy Drama Romance,8.1,8966
+3314,movie,Tupac: Resurrection,2003.0,Biography Documentary Music,7.9,8956
+3316,movie,The Son,2002.0,Drama Mystery,7.6,8953
+3319,movie,We Are the Nobles,2013.0,Comedy,7.3,8944
+3322,movie,The Eighth Day,1996.0,Comedy Drama,7.5,8939
+3323,movie,Fortress of War,2010.0,Action Drama History,7.5,8937
+3324,movie,The Taste of Others,2000.0,Comedy Drama Romance,7.2,8936
+3328,movie,Tokyo Sonata,2008.0,Drama,7.5,8906
+3330,movie,Go for It,1983.0,Action Adventure Comedy,7.2,8899
+3332,movie,Un Coeur en Hiver,1992.0,Drama Music Romance,7.6,8890
+3333,movie,The Match Factory Girl,1990.0,Comedy Drama,7.6,8885
+3334,movie,Sound of Noise,2010.0,Comedy Crime Music,7.2,8881
+3335,movie,Murmur of the Heart,1971.0,Comedy Drama,7.7,8867
+3337,movie,Woyzeck,1979.0,Drama,7.1,8860
+3339,movie,Confession of Murder,2012.0,Action Crime Thriller,7.1,8849
+3341,movie,Nannaku Prematho,2016.0,Action Drama Thriller,7.6,8826
+3342,movie,Vagabond,1985.0,Drama Romance,7.7,8825
+3343,movie,The Trap,2007.0,Crime Drama Thriller,7.9,8823
+3346,movie,Zero Days,2016.0,Documentary,7.8,8809
+3347,movie,The Beast of War,1988.0,Adventure Drama War,7.3,8809
+3350,movie,A Chinese Ghost Story,1987.0,Action Fantasy Horror,7.5,8799
+3351,movie,System Crasher,2019.0,Drama,7.8,8796
+3352,movie,Soodhu Kavvum,2013.0,Comedy Crime Thriller,8.3,8792
+3353,movie,Dave Chappelle's Block Party,2005.0,Comedy Documentary Music,7.2,8782
+3355,movie,A Soldier's Story,1984.0,Crime Drama Mystery,7.2,8772
+3356,movie,Mom,2017.0,Crime Drama Thriller,7.3,8764
+3357,movie,And Then We Danced,2019.0,Drama Romance,7.8,8745
+3358,movie,Champions,2018.0,Comedy Drama Family,7.3,8744
+3359,movie,The Married Woman,2005.0,Drama Musical Romance,7.2,8741
+3362,movie,Train of Life,1998.0,Comedy Drama War,7.7,8728
+3363,movie,Ragtime,1981.0,Drama,7.3,8728
+3366,movie,Propaganda,1999.0,Comedy Drama History,7.1,8718
+3367,movie,White Dog,1982.0,Drama Horror,7.1,8717
+3370,movie,The Friends of Eddie Coyle,1973.0,Crime Drama,7.5,8701
+3371,movie,When Father Was Away on Business,1985.0,Drama,7.8,8700
+3373,movie,Divines,2016.0,Crime Drama,7.4,8694
+3374,movie,Ratcatcher,1999.0,Drama,7.5,8693
+3375,movie,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012.0,Action Adventure Animation,7.8,8692
+3376,movie,The Tashkent Files,2019.0,Drama Mystery Thriller,7.8,8688
+3377,movie,84 Charing Cross Road,1987.0,Biography Drama Romance,7.4,8683
+3378,movie,Baasha,1995.0,Action Crime Drama,8.2,8682
+3379,movie,The Wind Will Carry Us,1999.0,Drama,7.5,8675
+3381,movie,The Hedgehog,2009.0,Drama,7.4,8674
+3382,movie,Twin Peaks: The Missing Pieces,2014.0,Drama Horror Mystery,7.7,8670
+3383,movie,Whisper If I Forget,2014.0,Drama Music Romance,7.5,8670
+3384,movie,What Have I Done to Deserve This?,1984.0,Comedy Drama,7.2,8669
+3386,movie,Kirikou and the Sorceress,1998.0,Adventure Animation Family,7.5,8653
+3387,movie,My Favorite Year,1982.0,Comedy Drama,7.4,8639
+3388,movie,Gloria,1980.0,Crime Drama Thriller,7.1,8631
+3389,movie,Julia,1977.0,Drama,7.2,8626
+3390,movie,Eve's Bayou,1997.0,Drama,7.3,8623
+3391,movie,Aftershock,2010.0,Drama History,7.5,8621
+3394,movie,Pink Floyd: Live at Pompeii,1972.0,Documentary Music,8.7,8615
+3395,movie,In This Corner of the World,2016.0,Animation Drama Family,7.8,8613
+3396,movie,Osama,2003.0,Drama,7.3,8612
+3397,movie,Anything for Her,2008.0,Crime Drama Thriller,7.1,8606
+3398,movie,My Bodyguard,1980.0,Comedy Drama Family,7.1,8601
+3400,movie,The Black Balloon,2008.0,Drama Romance,7.2,8595
+3404,movie,Salaam Bombay!,1988.0,Crime Drama,8.0,8583
+3405,movie,Requiem for the American Dream,2015.0,Biography Documentary News,8.1,8579
+3406,movie,Chico & Rita,2010.0,Animation Crime Drama,7.2,8578
+3407,movie,Rurouni Kenshin Part III: The Legend Ends,2014.0,Action Adventure Drama,7.6,8577
+3408,movie,The Square,2013.0,Documentary Drama History,8.1,8576
+3410,movie,Dasavatharam,2008.0,Action Adventure Sci-Fi,7.2,8564
+3412,movie,Bol,2011.0,Drama,8.2,8558
+3413,movie,The Ignorant Fairies,2001.0,Drama Romance,7.3,8557
+3414,movie,Muhammad: The Messenger of God,2015.0,Biography Drama History,7.5,8555
+3415,movie,Romanzo Criminale,2005.0,Crime Drama,7.2,8548
+3418,movie,Angst,1983.0,Drama Horror Thriller,7.3,8539
+3419,movie,My Dear Brother,1973.0,Drama,8.7,8535
+3420,movie,For Sama,2019.0,Documentary War,8.5,8531
+3422,movie,Frozen Stiff,2002.0,Comedy Drama,8.4,8514
+3423,movie,Race Gurram,2014.0,Action Comedy,7.2,8513
+3424,movie,Kumbalangi Nights,2019.0,Comedy Drama Romance,8.6,8513
+3428,movie,Time to Leave,2005.0,Drama,7.1,8501
+3430,movie,Blind Chance,1987.0,Drama,7.9,8498
+3433,movie,Beau travail,1999.0,Drama War,7.4,8494
+3434,movie,Bommarillu,2006.0,Comedy Drama Romance,8.2,8482
+3436,movie,The Bitter Tears of Petra von Kant,1972.0,Drama Romance,7.7,8478
+3437,movie,Nisshartho Bhalobasha: What is Love!,2013.0,Action Comedy Drama,7.4,8465
+3438,movie,Beyond the Mat,1999.0,Biography Documentary Sport,7.6,8451
+3439,movie,Santa Claus Is a Stinker,1982.0,Comedy,7.6,8442
+3440,movie,Paradise: Love,2012.0,Drama,7.1,8441
+3441,movie,Simple Simon,2010.0,Comedy Drama Romance,7.1,8434
+3442,movie,Youth,2004.0,Action Drama Thriller,7.4,8431
+3443,movie,Nil by Mouth,1997.0,Drama,7.3,8431
+3444,movie,"Fat, Sick & Nearly Dead",2010.0,Documentary,7.5,8430
+3445,movie,Like Crazy,2016.0,Comedy Drama,7.2,8426
+3446,movie,L'Argent,1983.0,Crime Drama,7.5,8422
+3447,movie,The Happiness of the Katakuris,2001.0,Comedy Fantasy Horror,7.1,8414
+3450,movie,Okkadu,2003.0,Action Romance Sport,8.0,8407
+3451,movie,Shoah,1985.0,Documentary History War,8.7,8405
+3452,movie,Ayan,2009.0,Action,7.4,8398
+3456,movie,Ma vie en rose,1997.0,Drama,7.5,8372
+3457,movie,The Age of Shadows,2016.0,Action Drama Thriller,7.1,8369
+3458,movie,Exiled,2006.0,Action Crime Thriller,7.2,8362
+3459,movie,Fear City: A Family-Style Comedy,1994.0,Comedy Horror,7.6,8359
+3460,movie,Manichitrathazhu,1993.0,Comedy Horror Musical,8.7,8351
+3464,movie,North Sea Texas,2011.0,Drama Romance,7.1,8329
+3466,movie,Mind Game,2004.0,Adventure Animation Comedy,7.8,8321
+3468,movie,Pariyerum Perumal,2018.0,Drama,8.7,8310
+3472,movie,Dogfight,1991.0,Comedy Drama Romance,7.4,8288
+3473,movie,Boruto: Naruto The Movie,2015.0,Action Adventure Animation,7.9,8287
+3474,movie,Ballon,2018.0,Drama History Thriller,7.5,8281
+3475,movie,Waste Land,2010.0,Documentary,7.9,8279
+3476,movie,Chasing Ice,2012.0,Biography Documentary,7.8,8275
+3478,movie,Lorna's Silence,2008.0,Drama,7.1,8265
+3479,movie,The Classic,2003.0,Drama Romance,7.8,8262
+3481,movie,Three Wishes for Cinderella,1973.0,Adventure Drama Family,7.8,8250
+3482,movie,Agneepath,1990.0,Action Crime Drama,7.7,8247
+3483,movie,A Twelve-Year Night,2018.0,Biography Crime Drama,7.6,8244
+3484,movie,Liza the Fox-Fairy,2015.0,Comedy Fantasy Romance,7.6,8244
+3486,movie,Berserk: The Golden Age Arc III - The Advent,2013.0,Action Adventure Animation,7.9,8232
+3487,movie,Under the Sand,2000.0,Drama Mystery,7.1,8232
+3488,movie,Davaro: Son Eskiya,1981.0,Adventure Comedy Drama,8.1,8229
+3490,movie,Atharintiki Daaredi,2013.0,Action Comedy Drama,7.2,8222
+3492,movie,The Official Story,1985.0,Drama History War,7.7,8215
+3493,movie,Always,2011.0,Action Drama Romance,7.8,8214
+3495,movie,Not One Less,1999.0,Drama,7.7,8209
+3496,movie,Antonia's Line,1995.0,Comedy Drama,7.4,8205
+3497,movie,Pokkiri,2007.0,Action Crime Thriller,7.2,8204
+3499,movie,A Midnight Clear,1992.0,Drama War,7.1,8196
+3500,movie,Butterfly,1999.0,Drama,7.6,8188
+3501,movie,The Roundup,2010.0,Drama History War,7.1,8187
+3503,movie,Going Places,1974.0,Action Comedy Crime,7.3,8179
+3506,movie,The Treatment,2014.0,Mystery Thriller,7.2,8168
+3507,movie,Oasis,2002.0,Drama Romance,7.9,8166
+3508,movie,Trick,1999.0,Comedy Music Romance,7.1,8162
+3509,movie,The Buddy Holly Story,1978.0,Biography Drama Music,7.2,8160
+3511,movie,The Third Half,2012.0,Drama History Romance,7.7,8153
+3512,movie,Project Nim,2011.0,Documentary,7.4,8148
+3513,movie,Stander,2003.0,Action Biography Crime,7.1,8148
+3514,movie,The God of Cookery,1996.0,Action Comedy Fantasy,7.3,8147
+3515,movie,A Cop,1972.0,Crime Thriller,7.1,8142
+3516,movie,No End in Sight,2007.0,Documentary War,8.2,8139
+3517,movie,Office Romance,1977.0,Comedy Drama Romance,8.3,8133
+3518,movie,Ab Tak Chhappan,2004.0,Action Crime Drama,7.8,8130
+3519,movie,The Blue Bead,1975.0,Comedy Crime Drama,7.8,8126
+3520,movie,The General,1998.0,Biography Crime Drama,7.3,8117
+3523,movie,Il Mare,2000.0,Drama Fantasy Romance,7.6,8109
+3524,movie,Khaleja,2010.0,Action Comedy Fantasy,7.5,8107
+3528,movie,Don't Torture a Duckling,1972.0,Horror Mystery Thriller,7.1,8103
+3530,movie,We Are Not Angels,1992.0,Comedy Fantasy Romance,8.4,8091
+3531,movie,The Five Obstructions,2003.0,Documentary,7.5,8081
+3532,movie,The Inventor: Out for Blood in Silicon Valley,2019.0,Documentary,7.1,8079
+3533,movie,The Front,1976.0,Drama,7.3,8078
+3535,movie,Sound of Metal,2019.0,Drama Music,7.8,8072
+3538,movie,The Phantom of the Opera at the Royal Albert Hall,2011.0,Drama Music Musical,8.8,8071
+3539,movie,Drowning by Numbers,1988.0,Comedy Drama,7.2,8068
+3542,movie,Street Fighter II: The Animated Movie,1994.0,Action Adventure Animation,7.3,8053
+3543,movie,Female Trouble,1974.0,Comedy Crime,7.3,8048
+3545,movie,Ghilli,2004.0,Action Romance,7.6,8038
+3547,movie,Custody,2017.0,Drama,7.5,8035
+3551,movie,Kitchen Stories,2003.0,Comedy Drama,7.3,7992
+3552,movie,El infierno,2010.0,Action Comedy Crime,7.8,7990
+3553,movie,The Interview,1998.0,Crime Drama Thriller,7.1,7989
+3557,movie,La Chevre,1981.0,Adventure Comedy Crime,7.4,7977
+3559,movie,Shaitan,2011.0,Action Crime Drama,7.2,7962
+3562,movie,Odds and Evens,1978.0,Action Comedy Crime,7.3,7944
+3563,movie,Red Sorghum,1988.0,Drama History Romance,7.4,7943
+3564,movie,Metro Manila,2013.0,Crime Drama,7.6,7941
+3565,movie,The Man from Snowy River,1982.0,Adventure Drama Romance,7.3,7940
+3566,movie,Three Men and a Leg,1997.0,Comedy,7.6,7933
+3567,movie,A Dirty Carnival,2006.0,Action Crime Drama,7.4,7931
+3571,movie,Yennai Arindhaal,2015.0,Action Thriller,7.3,7922
+3572,movie,Simon,2004.0,Comedy Drama,7.9,7919
+3574,movie,American Me,1992.0,Biography Crime Drama,7.2,7914
+3576,movie,See You Up There,2017.0,Comedy Crime Drama,7.5,7896
+3577,movie,Petta,2019.0,Action Drama,7.2,7893
+3580,movie,In Search of a Midnight Kiss,2007.0,Comedy Romance,7.2,7886
+3581,movie,Child's Pose,2013.0,Drama,7.4,7883
+3582,movie,Mostly Martha,2001.0,Comedy Drama Romance,7.2,7881
+3585,movie,All About Lily Chou-Chou,2001.0,Crime Drama Music,7.6,7880
+3586,movie,Uppi 2,2015.0,Action Mystery Thriller,8.0,7876
+3587,movie,The Scent of Green Papaya,1993.0,Drama Music Romance,7.4,7866
+3591,movie,The Traitor,2019.0,Biography Crime Drama,7.1,7859
+3593,movie,The Class of '92,2013.0,Documentary Sport,8.0,7856
+3594,movie,Woman at War,2018.0,Adventure Comedy Drama,7.4,7854
+3595,movie,Cargo 200,2007.0,Crime Drama Thriller,7.1,7850
+3596,movie,Bus 174,2002.0,Crime Documentary,7.8,7846
+3597,movie,The Blue Elephant 2,2019.0,Crime Drama Horror,8.2,7843
+3598,movie,Worlds Apart,2015.0,Drama Romance,7.4,7842
+3602,movie,Sigur Rós: Heima,2007.0,Documentary Music,8.5,7833
+3603,movie,Looking for Richard,1996.0,Documentary Drama,7.3,7831
+3608,movie,Baran,2001.0,Drama Romance,7.8,7812
+3612,movie,The Music Never Stopped,2011.0,Drama Music,7.5,7804
+3613,movie,The Yakuza,1974.0,Action Crime Drama,7.2,7792
+3614,movie,The Call of Cthulhu,2005.0,Fantasy Horror Mystery,7.2,7792
+3615,movie,The Dance of Reality,2013.0,Biography Drama Fantasy,7.5,7787
+3616,movie,Goodachari,2018.0,Action Thriller,7.8,7784
+3617,movie,The Decline of the American Empire,1986.0,Comedy Drama,7.2,7783
+3619,movie,Peppermint Candy,1999.0,Drama,7.7,7777
+3620,movie,George Washington,2000.0,Drama,7.3,7772
+3623,movie,To Be and to Have,2002.0,Documentary Family,7.8,7759
+3624,movie,Lemmy,2010.0,Biography Documentary Music,7.8,7754
+3626,movie,Powaqqatsi,1988.0,Documentary Music,7.3,7751
+3628,movie,Inside,2012.0,Drama,7.2,7749
+3629,movie,Duma,2005.0,Adventure Drama Family,7.2,7745
+3630,movie,Don't Move,2004.0,Drama Romance,7.1,7740
+3633,movie,The Hunters,1996.0,Crime Thriller,7.1,7737
+3634,movie,Jersey,2019.0,Drama Sport,8.5,7732
+3636,movie,Tim's Vermeer,2013.0,Documentary History,7.9,7731
+3637,movie,Dark Blue Almost Black,2006.0,Drama,7.2,7731
+3638,movie,Happy People: A Year in the Taiga,2010.0,Documentary,7.7,7723
+3639,movie,Best Worst Movie,2009.0,Comedy Documentary Drama,7.3,7718
+3640,movie,The Song Remains the Same,1976.0,Documentary Music,7.7,7716
+3641,movie,Pocket Hercules: Naim Süleymanoglu,2019.0,Biography Drama Sport,8.4,7705
+3642,movie,Virgin Mountain,2015.0,Drama,7.4,7700
+3643,movie,My Name Is Joe,1998.0,Drama Romance,7.5,7697
+3644,movie,Krisha,2015.0,Drama,7.2,7696
+3645,movie,Mommy Dead and Dearest,2017.0,Crime Documentary,7.4,7692
+3651,movie,Minding the Gap,2018.0,Documentary,8.1,7673
+3652,movie,The Winter War,1989.0,Drama History War,7.7,7668
+3653,movie,Dragon Ball Z: Wrath of the Dragon,1995.0,Action Animation Sci-Fi,7.5,7658
+3654,movie,1776,1972.0,Drama Family History,7.6,7657
+3655,movie,"Ugly, Dirty and Bad",1976.0,Comedy Drama,7.8,7653
+3658,movie,A Brighter Summer Day,1991.0,Crime Drama Romance,8.4,7646
+3659,movie,Secret,2007.0,Drama Fantasy Music,7.5,7644
+3660,movie,Bent,1997.0,Drama History Romance,7.2,7643
+3663,movie,Patema Inverted,2013.0,Adventure Animation Drama,7.4,7624
+3665,movie,Hababam Sinifi Dokuz Doguruyor,1978.0,Comedy Drama Romance,7.3,7622
+3666,movie,The Union: The Business Behind Getting High,2007.0,Documentary,8.2,7613
+3667,movie,Never Cry Wolf,1983.0,Adventure Drama,7.5,7612
+3668,movie,Fat City,1972.0,Drama Sport,7.3,7611
+3669,movie,The Music Man,2007.0,Drama Musical Romance,7.5,7609
+3675,movie,The Message,1976.0,Biography Drama History,9.0,7587
+3677,movie,Out in the Dark,2012.0,Crime Drama Romance,7.5,7581
+3679,movie,Sachin - A Billion Dreams,2017.0,Documentary Sport,8.6,7576
+3680,movie,Generation Iron,2013.0,Documentary Drama Sport,7.1,7575
+3681,movie,Save the Green Planet!,2003.0,Comedy Sci-Fi Thriller,7.3,7574
+3684,movie,Minuscule: Valley of the Lost Ants,2013.0,Adventure Animation Family,7.1,7571
+3685,movie,Lawn Dogs,1997.0,Drama,7.5,7568
+3686,movie,The Art of Flight,2011.0,Adventure Documentary Sport,8.2,7566
+3687,movie,Pearl Jam Twenty,2011.0,Documentary History Music,8.3,7566
+3688,movie,"Faraway, So Close!",1993.0,Drama Fantasy Romance,7.3,7564
+3689,movie,The Ax,2005.0,Comedy Crime Drama,7.4,7563
+3690,movie,Chaar Sahibzaade,2014.0,Animation History,7.9,7556
+3691,movie,Ju Dou,1990.0,Drama Romance,7.6,7554
+3692,movie,Khiladi,1992.0,Action Mystery Romance,7.2,7551
+3693,movie,A Town Called Panic,2009.0,Adventure Animation Comedy,7.5,7551
+3694,movie,Beneath Hill 60,2010.0,Drama History War,7.1,7551
+3695,movie,Charlie,2015.0,Drama Musical Thriller,7.9,7545
+3696,movie,The Whiskey Bandit,2017.0,Action Biography Crime,7.5,7544
+3697,movie,Gonzo,2008.0,Biography Documentary Music,7.7,7543
+3698,movie,The Mafia Kills Only in Summer,2013.0,Comedy Crime,7.1,7542
+3701,movie,O Lucky Man!,1973.0,Comedy Drama Fantasy,7.7,7536
+3703,movie,Human,2015.0,Documentary,8.7,7528
+3704,movie,Helvetica,2007.0,Documentary,7.2,7528
+3707,movie,Straight Time,1978.0,Crime Drama,7.4,7524
+3708,movie,Gregory's Girl,1980.0,Comedy Drama Romance,7.1,7520
+3709,movie,The Banishment,2007.0,Drama Romance,7.6,7512
+3711,movie,The King's Choice,2016.0,Biography Drama History,7.1,7510
+3712,movie,Hara-Kiri: Death of a Samurai,2011.0,Drama,7.3,7507
+3713,movie,King of the Hill,1993.0,Drama History,7.4,7505
+3715,movie,10 Rillington Place,1971.0,Biography Crime Drama,7.6,7503
+3717,movie,Samsara,2001.0,Adventure Drama Romance,7.8,7502
+3718,movie,Phoebe in Wonderland,2008.0,Drama,7.1,7501
+3719,movie,The In-Laws,1979.0,Action Adventure Comedy,7.3,7498
+3720,movie,California Dreamin',2007.0,Comedy Drama War,7.8,7497
+3721,movie,Crows Zero,2007.0,Action Comedy Crime,7.1,7495
+3723,movie,The Other Me,2016.0,Crime Drama Mystery,7.9,7494
+3724,movie,Racing Extinction,2015.0,Adventure Documentary News,8.3,7492
+3727,movie,On My Skin: The Last Seven Days of Stefano Cucchi,2018.0,Biography Drama,7.3,7465
+3728,movie,Sonchiriya,2019.0,Action Crime Drama,7.9,7465
+3733,movie,Mardaani 2,2019.0,Action Crime Drama,7.4,7452
+3735,movie,Mifune,1999.0,Comedy Drama Romance,7.1,7441
+3736,movie,A Time for Drunken Horses,2000.0,Drama War,7.7,7441
+3737,movie,Active Measures,2018.0,Documentary,7.9,7440
+3739,movie,The Names of Love,2010.0,Comedy Drama Romance,7.2,7436
+3741,movie,Pauline at the Beach,1983.0,Comedy Drama Romance,7.4,7434
+3742,movie,Truly Madly Deeply,1990.0,Comedy Drama Fantasy,7.2,7430
+3746,movie,The Crazy Stranger,1997.0,Comedy Drama Music,7.7,7422
+3747,movie,French Fried Vacation 2,1979.0,Comedy,7.5,7418
+3749,movie,Bliss,2007.0,Drama,7.5,7411
+3751,movie,Offside,2006.0,Comedy Drama Sport,7.3,7410
+3752,movie,Equus,1977.0,Drama Mystery,7.2,7409
+3753,movie,"1,000 Times Good Night",2013.0,Drama War,7.1,7395
+3754,movie,The September Issue,2009.0,Documentary,7.1,7393
+3755,movie,Earth,1998.0,Drama Romance War,7.7,7392
+3758,movie,Rosewood,1997.0,Action Drama History,7.2,7382
+3759,movie,Mao's Last Dancer,2009.0,Biography Drama Music,7.3,7380
+3760,movie,A Peck on the Cheek,2002.0,Action Drama War,8.4,7374
+3762,movie,Didn't Think of It,2005.0,Comedy Romance,7.4,7371
+3765,movie,I Served the King of England,2006.0,Comedy Drama Romance,7.4,7341
+3766,movie,Still Life,2013.0,Drama,7.4,7340
+3767,movie,The Legend,1993.0,Action Comedy History,7.2,7335
+3768,movie,The Winslow Boy,1999.0,Drama Romance,7.3,7334
+3769,movie,In My Father's Den,2004.0,Drama Mystery Thriller,7.5,7332
+3772,movie,Sakar Sakir,1977.0,Comedy,8.1,7317
+3773,movie,The Story of Adele H,1975.0,Biography Drama History,7.3,7317
+3774,movie,Visaaranai,2015.0,Crime Drama Thriller,8.5,7313
+3775,movie,"Jeanne Dielman, 23, quai du commerce, 1080 Bruxelles",1975.0,Drama,7.8,7311
+3777,movie,Matewan,1987.0,Drama History,7.9,7305
+3778,movie,Rehnaa Hai Terre Dil Mein,2001.0,Musical Romance,7.5,7304
+3779,movie,The Tall Blond Man with One Black Shoe,1972.0,Comedy Mystery,7.3,7296
+3782,movie,Arabesque,1988.0,Comedy Musical,8.1,7288
+3783,movie,Queen of Hearts,2019.0,Drama,7.1,7285
+3785,movie,The Cuckoo,2002.0,Comedy Drama War,7.8,7269
+3788,movie,Tower,2016.0,Animation Crime Documentary,8.0,7258
+3791,movie,Into the Inferno,2016.0,Documentary,7.2,7248
+3794,movie,Love Per Square Foot,2018.0,Comedy Romance,7.2,7245
+3795,movie,Dragons Forever,1988.0,Action Comedy Romance,7.2,7245
+3796,movie,Ala Vaikunthapurramuloo,2020.0,Action Drama,7.1,7242
+3798,movie,The Ballad of Narayama,1983.0,Drama,7.9,7238
+3799,movie,Innocent Voices,2004.0,Drama Thriller War,7.9,7237
+3800,movie,Heroic Losers,2019.0,Adventure Comedy Crime,7.3,7233
+3802,movie,The Armstrong Lie,2013.0,Biography Documentary Sport,7.3,7221
+3803,movie,The Promise,1996.0,Comedy Drama,7.8,7220
+3804,movie,Blue Collar,1978.0,Crime Drama,7.5,7215
+3806,movie,Prince of the City,1981.0,Crime Drama,7.5,7203
+3807,movie,The Dreamlife of Angels,1998.0,Drama,7.4,7203
+3808,movie,I Am David,2003.0,Adventure Drama,7.2,7200
+3809,movie,Neighboring Sounds,2012.0,Drama Thriller,7.2,7196
+3812,movie,The Woman Next Door,1981.0,Drama Romance,7.3,7192
+3814,movie,The Piano Player,1999.0,Drama Romance,7.8,7189
+3816,movie,Beynelmilel,2006.0,Comedy Drama Music,7.2,7182
+3817,movie,The Secret of Roan Inish,1994.0,Drama Family Fantasy,7.5,7179
+3818,movie,Stromberg - Der Film,2014.0,Comedy,7.3,7178
+3821,movie,Summer of '42,1971.0,Drama Romance,7.2,7172
+3824,movie,Particle Fever,2013.0,Documentary,7.4,7156
+3827,movie,Sällskapsresan eller Finns det svenskt kaffe på grisfesten,1980.0,Comedy,7.2,7147
+3829,movie,"Amar, Akbar and Anthony",1977.0,Action Comedy Drama,7.5,7146
+3831,movie,12:08 East of Bucharest,2006.0,Comedy Drama,7.4,7141
+3833,movie,Miss Violence,2013.0,Drama,7.1,7132
+3834,movie,Irina Palm,2007.0,Drama,7.2,7131
+3835,movie,Manorama: Six Feet Under,2007.0,Crime Drama Mystery,7.6,7130
+3836,movie,Love Letter,1995.0,Drama Romance,8.0,7130
+3839,movie,Bad Blood,1986.0,Crime Drama Romance,7.3,7124
+3840,movie,Summer Hours,2008.0,Drama Family,7.2,7124
+3841,movie,Ridicule,1996.0,Comedy Drama History,7.4,7121
+3843,movie,Come as You Are,2011.0,Comedy Drama,7.4,7121
+3844,movie,Dear Diary,1993.0,Biography Comedy Drama,7.3,7116
+3845,movie,The Taming of the Scoundrel,1980.0,Comedy Romance,7.7,7115
+3846,movie,Who Killed Captain Alex?,2010.0,Action Comedy Crime,8.2,7111
+3848,movie,Beanpole,2019.0,Drama War,7.1,7107
+3849,movie,Barefoot Gen,1983.0,Animation Biography Drama,8.0,7105
+3850,movie,Reconstruction,2003.0,Drama Romance,7.4,7100
+3852,movie,The Beautiful Troublemaker,1991.0,Drama,7.7,7095
+3853,movie,Why Don't You Play in Hell?,2013.0,Action Comedy,7.2,7094
+3854,movie,Fellini's Casanova,1976.0,Biography Drama History,7.2,7093
+3855,movie,Welcome,2009.0,Drama,7.5,7091
+3857,movie,Polyester,1981.0,Comedy,7.1,7088
+3860,movie,Zübük,1980.0,Comedy Crime,8.4,7074
+3861,movie,The Paper Chase,1973.0,Comedy Drama,7.2,7073
+3862,movie,Shirley Valentine,1989.0,Comedy Drama Romance,7.2,7072
+3864,movie,The Dead,1987.0,Drama,7.3,7069
+3867,movie,Landscape in the Mist,1988.0,Drama,8.0,7063
+3868,movie,Children's Party,2011.0,Comedy Drama Family,7.4,7057
+3870,movie,Lone Wolf and Cub: Sword of Vengeance,1972.0,Action Adventure,7.8,7039
+3873,movie,"The Prize Winner of Defiance, Ohio",2005.0,Biography Drama,7.3,7028
+3881,movie,The Great Father,2017.0,Action Crime Drama,7.3,7000
+3883,movie,War Witch,2012.0,Drama War,7.1,6993
+3885,movie,Frances,1982.0,Biography Drama Romance,7.4,6984
+3886,movie,Trailer Park Boys: Countdown to Liquor Day,2009.0,Comedy Crime,7.4,6982
+3887,movie,Hopscotch,1980.0,Adventure Comedy,7.1,6982
+3889,movie,Secret Sunshine,2007.0,Drama,7.5,6977
+3891,movie,The 4th Man,1983.0,Drama Mystery Thriller,7.2,6974
+3892,movie,Listen to Me Marlon,2015.0,Biography Documentary,8.2,6970
+3895,movie,Babyteeth,2019.0,Comedy Drama Music,7.1,6963
+3897,movie,Lucifer,2019.0,Action Crime Drama,7.5,6961
+3898,movie,The Plague Dogs,1982.0,Adventure Animation Drama,7.8,6959
+3900,movie,Soul Food,1997.0,Comedy Drama,7.1,6956
+3904,movie,Babies,2010.0,Documentary,7.1,6950
+3908,movie,The Kid Stays in the Picture,2002.0,Biography Documentary,7.3,6939
+3909,movie,Windstruck,2004.0,Comedy Crime Drama,7.2,6926
+3910,movie,The Central Park Five,2012.0,Crime Documentary History,7.7,6926
+3911,movie,Bad Cat,2016.0,Action Adventure Animation,7.2,6925
+3914,movie,The Sky Is Pink,2019.0,Drama Romance,7.5,6918
+3918,movie,Man on the Train,2002.0,Crime Drama Thriller,7.1,6909
+3919,movie,Kamikaze Girls,2004.0,Comedy,7.2,6908
+3920,movie,Drifting Clouds,1996.0,Comedy Drama,7.7,6907
+3921,movie,The Secret of the Grain,2007.0,Drama,7.4,6900
+3926,movie,Far from Men,2014.0,Drama War Western,7.2,6871
+3927,movie,Summer,1986.0,Drama Romance,7.7,6870
+3928,movie,Music Box,1989.0,Crime Drama Thriller,7.4,6867
+3929,movie,Henry Fool,1997.0,Comedy Drama,7.2,6861
+3930,movie,Dedh Ishqiya,2014.0,Comedy Drama Romance,7.1,6857
+3931,movie,Vedam,2010.0,Action Drama,8.1,6857
+3936,movie,No One Knows About Persian Cats,2009.0,Drama Music,7.1,6846
+3937,movie,Robin Williams: Come Inside My Mind,2018.0,Biography Comedy Documentary,8.0,6845
+3938,movie,Mad Detective,2007.0,Action Crime Mystery,7.2,6843
+3940,movie,Pizza,2012.0,Horror Thriller,8.0,6839
+3941,movie,Leningrad Cowboys Go America,1989.0,Comedy Music,7.1,6835
+3942,movie,Aravindha Sametha,2018.0,Action Drama,7.6,6830
+3943,movie,71 Fragments of a Chronology of Chance,1994.0,Drama,7.2,6826
+3944,movie,As Far as My Feet Will Carry Me,2001.0,Action Adventure Drama,7.4,6818
+3945,movie,Breathe,2014.0,Drama,7.1,6813
+3946,movie,Third Star,2010.0,Drama,7.5,6806
+3947,movie,Devils on the Doorstep,2000.0,Comedy Drama War,8.2,6797
+3948,movie,April and the Extraordinary World,2015.0,Adventure Animation Comedy,7.3,6794
+3949,movie,Ten,2002.0,Drama,7.5,6793
+3952,movie,Yossi & Jagger,2002.0,Drama Romance War,7.1,6786
+3953,movie,Bobby Fischer Against the World,2011.0,Biography Documentary History,7.4,6780
+3954,movie,The Fear of 13,2015.0,Biography Crime Documentary,7.6,6778
+3955,movie,Qarib Qarib Single,2017.0,Comedy Romance,7.1,6777
+3957,movie,Berlin Blues,2003.0,Comedy Drama,7.2,6770
+3959,movie,Ek Hasina Thi,2004.0,Crime Drama Mystery,7.5,6763
+3960,movie,Jesus of Montreal,1989.0,Drama,7.5,6762
+3961,movie,Behind the Sun,2001.0,Drama,7.6,6751
+3962,movie,Love on a Leash,2011.0,Comedy Drama Fantasy,9.1,6749
+3963,movie,Pixote,1981.0,Crime Drama,8.0,6747
+3968,movie,Love in Another Language,2009.0,Drama,7.3,6737
+3969,movie,Honey,2010.0,Drama,7.2,6736
+3970,movie,Little Nemo: Adventures in Slumberland,1989.0,Adventure Animation Comedy,7.2,6732
+3971,movie,Being Elmo: A Puppeteer's Journey,2011.0,Documentary,7.6,6731
+3972,movie,Undefeated,2011.0,Documentary Sport,7.7,6728
+3973,movie,Ulidavaru Kandanthe,2014.0,Crime Drama Thriller,8.4,6716
+3974,movie,12 and Holding,2005.0,Drama,7.5,6703
+3975,movie,A Letter to Momo,2011.0,Adventure Animation Comedy,7.3,6698
+3976,movie,Torch Song Trilogy,1988.0,Comedy Drama Romance,7.7,6692
+3977,movie,My Afternoons with Margueritte,2010.0,Comedy Drama,7.2,6692
+3978,movie,A Werewolf Boy,2012.0,Fantasy Romance,7.3,6690
+3980,movie,The Stupid Millionaire,1974.0,Comedy,8.0,6677
+3983,movie,Get Me Roger Stone,2017.0,Biography Documentary,7.4,6669
+3985,movie,Page 3,2005.0,Drama,7.3,6664
+3986,movie,"Farewell, My Lovely",1975.0,Crime Mystery Thriller,7.1,6663
+3987,movie,Leolo,1992.0,Comedy Drama,7.5,6653
+3989,movie,The White Balloon,1995.0,Drama Family,7.7,6646
+3990,movie,Aloko Udapadi,2017.0,Drama History,9.0,6642
+3992,movie,Veda - Atatürk,2010.0,Biography Drama History,7.2,6640
+3993,movie,Collapse,2009.0,Documentary,7.7,6639
+3994,movie,An Angel at My Table,1990.0,Biography Drama,7.5,6636
+3996,movie,Vettaiyaadu Vilaiyaadu,2006.0,Action Crime Thriller,7.9,6630
+3997,movie,A Fond Kiss,2004.0,Drama Romance,7.1,6629
+3998,movie,Ship of Theseus,2012.0,Drama,8.0,6625
+4002,movie,See You in Montevideo,2014.0,Adventure Biography Comedy,8.2,6610
+4003,movie,Maheshinte Prathikaaram,2016.0,Comedy Drama Thriller,8.3,6610
+4004,movie,Welcome to Dongmakgol,2005.0,Comedy Drama War,7.7,6608
+4005,movie,How to Make Money Selling Drugs,2012.0,Crime Documentary,7.6,6605
+4006,movie,Dudes,2001.0,Comedy,7.9,6603
+4008,movie,No Mercy,2010.0,Action Crime Thriller,7.5,6602
+4010,movie,Red Army,2014.0,Biography Documentary History,7.6,6598
+4011,movie,Inequality for All,2013.0,Documentary,8.0,6597
+4012,movie,My Name Ain't Johnny,2008.0,Biography Crime Drama,7.2,6595
+4013,movie,Cyborgs: Heroes Never Die,2017.0,Action Drama War,7.9,6595
+4014,movie,Barking at the Stars,1998.0,Comedy Romance,8.7,6592
+4015,movie,Tous les matins du monde,1991.0,Biography Drama History,7.5,6587
+4016,movie,Cold Eyes,2013.0,Action Crime Thriller,7.1,6583
+4017,movie,Warriors of the Rainbow: Seediq Bale I,2011.0,Action Drama History,7.5,6583
+4018,movie,The True Cost,2015.0,Documentary Drama News,7.7,6578
+4019,movie,Amici miei,1975.0,Comedy Drama,8.1,6578
+4020,movie,No Smoking,2007.0,Drama Mystery Thriller,7.2,6575
+4021,movie,Without Limits,1998.0,Biography Drama Sport,7.2,6569
+4022,movie,The Invisible War,2012.0,Crime Documentary,7.6,6568
+4023,movie,Whitney,2018.0,Biography Documentary Music,7.3,6568
+4024,movie,Foxtrot,2017.0,Drama,7.3,6562
+4026,movie,120,2008.0,Drama History War,7.3,6558
+4027,movie,The Candidate,2018.0,Adventure Drama Thriller,7.2,6557
+4029,movie,Athlete A,2020.0,Crime Documentary Sport,7.7,6556
+4030,movie,Under the Same Moon,2007.0,Adventure Drama,7.3,6556
+4032,movie,Just 6.5,2019.0,Action Crime Drama,7.9,6549
+4034,movie,Almanya: Welcome to Germany,2011.0,Comedy Drama,7.2,6542
+4035,movie,Kenny,2006.0,Comedy,7.2,6540
+4038,movie,I Want to Eat Your Pancreas,2018.0,Animation Drama Family,7.9,6535
+4041,movie,In Bloom,2013.0,Drama,7.6,6532
+4043,movie,In the Shadow of the Moon,2007.0,Documentary History,8.0,6530
+4044,movie,Tabu,2012.0,Drama Romance,7.4,6528
+4045,movie,Four Minutes,2006.0,Drama Music,7.3,6526
+4046,movie,Walk on Water,2004.0,Drama Mystery Thriller,7.3,6526
+4047,movie,Assembly,2007.0,Action Biography Drama,7.3,6526
+4048,movie,Uncle Frank,2020.0,Comedy Drama,7.2,6524
+4050,movie,Dragon Ball Z: The Return of Cooler,1992.0,Action Animation Fantasy,7.1,6520
+4053,movie,Banker Bilo,1980.0,Comedy Drama,7.6,6512
+4054,movie,Graves End,2005.0,Mystery Thriller,8.8,6505
+4055,movie,Who Can Kill a Child?,1976.0,Action Adventure Crime,7.3,6504
+4056,movie,The Young Master,1980.0,Action Adventure Comedy,7.2,6503
+4059,movie,Bhavesh Joshi Superhero,2018.0,Action Drama,7.6,6481
+4061,movie,Delusions of Grandeur,1971.0,Adventure Comedy History,7.2,6471
+4062,movie,A Summer's Tale,1996.0,Comedy Drama Romance,7.6,6469
+4063,movie,Sami Blood,2016.0,Drama History,7.3,6468
+4064,movie,The Brawler,2017.0,Action Drama Sport,8.0,6466
+4065,movie,"Lacombe, Lucien",1974.0,Drama Romance War,7.7,6466
+4071,movie,Awarapan,2007.0,Action Crime Drama,7.3,6451
+4072,movie,Bears,2014.0,Documentary Family,7.4,6445
+4076,movie,Undertow,2009.0,Drama Fantasy Romance,7.7,6434
+4083,movie,The Ascent,1977.0,Drama War,8.3,6423
+4085,movie,Summer 1993,2017.0,Drama Family,7.2,6422
+4087,movie,Chloe in the Afternoon,1972.0,Comedy Drama Romance,7.7,6416
+4089,movie,Through the Olive Trees,1994.0,Drama,7.8,6414
+4090,movie,Five Deadly Venoms,1978.0,Action Drama Mystery,7.1,6414
+4093,movie,23,1998.0,Drama Thriller,7.3,6411
+4094,movie,Burden of Dreams,1982.0,Documentary,7.9,6408
+4099,movie,Dark Days,2000.0,Documentary,7.8,6390
+4100,movie,Memories of Matsuko,2006.0,Comedy Drama Musical,7.8,6389
+4101,movie,Danton,1983.0,Biography Drama History,7.5,6384
+4102,movie,Black Robe,1991.0,Adventure Drama History,7.1,6384
+4103,movie,A Zed & Two Noughts,1985.0,Comedy Drama,7.4,6384
+4104,movie,Twin Sisters,2002.0,Drama Romance War,7.4,6383
+4106,movie,De Marathon,2012.0,Comedy Drama Sport,7.5,6377
+4107,movie,Tarnation,2003.0,Biography Documentary,7.1,6376
+4108,movie,102 Not Out,2018.0,Comedy Drama,7.4,6375
+4112,movie,Agent Sai Srinivasa Athreya,2019.0,Action Comedy Crime,8.4,6343
+4116,movie,Mudhalvan,1999.0,Action Drama Thriller,8.3,6322
+4117,movie,Little England,2013.0,Drama Romance,7.8,6320
+4120,movie,Laughing Eyes,1977.0,Comedy Drama Family,8.5,6318
+4122,movie,Aferim!,2015.0,Adventure Comedy Drama,7.6,6313
+4125,movie,McQueen,2018.0,Biography Documentary,7.8,6301
+4126,movie,Steins Gate the Movie: Load Region of Déjà vu,2013.0,Animation Mystery Sci-Fi,7.8,6301
+4127,movie,Aileen: Life and Death of a Serial Killer,2003.0,Crime Documentary,7.1,6299
+4129,movie,Camera Buff,1979.0,Comedy Drama Romance,7.9,6284
+4130,movie,The Pervert's Guide to Cinema,2006.0,Documentary,7.8,6281
+4132,movie,Take My Eyes,2003.0,Adventure Drama Romance,7.4,6274
+4135,movie,Atanarjuat: The Fast Runner,2001.0,Drama,7.5,6268
+4136,movie,A Chinese Odyssey Part Two: Cinderella,1995.0,Action Adventure Comedy,8.0,6267
+4137,movie,Lemon Tree,2008.0,Drama War,7.4,6265
+4138,movie,King of Comedy,1999.0,Comedy Drama Romance,7.3,6264
+4140,movie,The Boy and the World,2013.0,Adventure Animation Family,7.6,6253
+4141,movie,I.D.,1995.0,Crime Drama,7.3,6249
+4143,movie,Avicii: True Stories,2017.0,Biography Documentary Music,7.6,6246
+4145,movie,Billa,2007.0,Action Crime Thriller,7.2,6243
+4147,movie,Hamoun,1990.0,Drama,8.0,6240
+4148,movie,The Pervert's Guide to Ideology,2012.0,Documentary,7.7,6238
+4149,movie,Fist of the North Star,1986.0,Action Animation Drama,7.3,6236
+4150,movie,Sword Art Online the Movie: Ordinal Scale,2017.0,Action Adventure Animation,7.4,6234
+4153,movie,Sister,2012.0,Crime Drama,7.1,6226
+4154,movie,Glass Tiger,2001.0,Comedy,7.7,6224
+4155,movie,Rhapsody in August,1991.0,Drama,7.2,6224
+4160,movie,My Hero Academia: Two Heroes,2018.0,Action Adventure Animation,7.5,6218
+4161,movie,The Disappearance of Haruhi Suzumiya,2010.0,Animation Drama Family,8.1,6213
+4162,movie,My Brother Is an Only Child,2007.0,Comedy Crime Drama,7.1,6210
+4163,movie,Veronika Voss,1982.0,Drama,7.8,6208
+4164,movie,Riphagen,2016.0,Biography Drama War,7.1,6207
+4166,movie,Long Day's Journey Into Night,2018.0,Drama Mystery,7.2,6204
+4167,movie,Istanbul Tales,2005.0,Drama Thriller,7.4,6200
+4169,movie,Dragon Ball Z: Cooler's Revenge,1991.0,Action Animation Sci-Fi,7.2,6200
+4170,movie,Bummer,2003.0,Crime Drama,7.1,6198
+4173,movie,Sye Raa Narasimha Reddy,2019.0,Action Adventure Drama,7.5,6191
+4174,movie,Ulysses' Gaze,1995.0,Drama War,7.7,6190
+4175,movie,Blind Man's Bluff,2005.0,Comedy Crime Thriller,7.2,6190
+4176,movie,Stanley Ka Dabba,2011.0,Comedy Drama Family,7.8,6183
+4177,movie,Caesar Must Die,2012.0,Drama,7.3,6182
+4178,movie,TT3D: Closer to the Edge,2011.0,Documentary Sport,8.0,6181
+4181,movie,African Cats,2011.0,Adventure Documentary,7.6,6173
+4183,movie,Punishment Park,1971.0,Drama Thriller,7.8,6166
+4184,movie,Another Round,2020.0,Comedy Drama,8.1,6166
+4187,movie,The Hidden Blade,2004.0,Action Drama History,7.7,6162
+4188,movie,Proof,1991.0,Drama Romance,7.2,6160
+4191,movie,The Man Who Loved Women,1977.0,Comedy Drama Romance,7.4,6151
+4192,movie,Mune: Guardian of the Moon,2014.0,Adventure Animation Comedy,7.2,6148
+4193,movie,Extreme Job,2019.0,Action Comedy Crime,7.1,6145
+4195,movie,Metalhead,2013.0,Drama,7.1,6140
+4196,movie,Camille Claudel,1988.0,Biography Drama History,7.3,6139
+4198,movie,The Three Brothers,1995.0,Comedy,7.2,6138
+4201,movie,The Honest One,1984.0,Comedy Drama,8.1,6130
+4205,movie,A Chinese Odyssey Part One: Pandora's Box,1995.0,Action Adventure Comedy,7.7,6113
+4206,movie,I Wish,2011.0,Drama,7.4,6111
+4208,movie,The Celluloid Closet,1995.0,Documentary History,7.8,6106
+4209,movie,Lady Jane,1986.0,Biography Drama History,7.1,6104
+4210,movie,Don't Let Them Shoot the Kite,1989.0,Crime Drama,8.4,6100
+4211,movie,Homecoming: A Film by Beyoncé,2019.0,Documentary Music,7.5,6099
+4213,movie,Outfoxed: Rupert Murdoch's War on Journalism,2004.0,Documentary,7.5,6091
+4214,movie,Love on the Run,1979.0,Comedy Drama Romance,7.1,6091
+4215,movie,Memoir of a Murderer,2017.0,Action Crime Thriller,7.1,6089
+4216,movie,Ariel,1988.0,Comedy Crime Romance,7.5,6089
+4217,movie,Yedi Bela Hüsnü,1983.0,Comedy,7.7,6087
+4218,movie,Aimee & Jaguar,1999.0,Biography Drama Romance,7.2,6083
+4219,movie,Big Wednesday,1978.0,Drama Sport,7.2,6082
+4220,movie,I Am Heath Ledger,2017.0,Biography Documentary,7.4,6080
+4223,movie,Mard Ko Dard Nahin Hota,2018.0,Action Comedy,7.4,6074
+4224,movie,The Brothers Lionheart,1977.0,Drama Family Fantasy,7.2,6072
+4225,movie,Michael the Brave,1971.0,Action Biography Drama,8.4,6072
+4228,movie,Pariah,2011.0,Drama,7.2,6062
+4230,movie,Dragon Ball Z: Super Android 13,1992.0,Action Animation Sci-Fi,7.1,6058
+4231,movie,"Ruben Brandt, Collector",2018.0,Action Animation Crime,7.5,6056
+4232,movie,Mr. Klein,1976.0,Crime Drama Mystery,7.6,6054
+4233,movie,Harrison's Flowers,2000.0,Drama Romance War,7.1,6053
+4234,movie,Crossing the Bridge: The Sound of Istanbul,2005.0,Documentary Music,7.9,6053
+4237,movie,John Rabe,2009.0,Biography Drama History,7.2,6051
+4238,movie,The Fugitives,1986.0,Comedy Crime Drama,7.1,6050
+4241,movie,Burnt Money,2000.0,Crime Drama Romance,7.2,6049
+4242,movie,The Professional,2003.0,Comedy Drama,8.5,6046
+4243,movie,After Lucia,2012.0,Drama,7.1,6046
+4244,movie,Mission London,2010.0,Comedy,7.2,6044
+4245,movie,"If I Want to Whistle, I Whistle",2010.0,Drama,7.1,6037
+4247,movie,Killer of Sheep,1978.0,Drama,7.3,6036
+4250,movie,Gett,2014.0,Drama,7.7,6029
+4252,movie,The Story of the Weeping Camel,2003.0,Documentary Drama Family,7.4,6028
+4255,movie,Kiler,1997.0,Action Comedy Crime,7.6,6020
+4256,movie,Silent Light,2007.0,Drama Romance,7.2,6017
+4257,movie,Over the Edge,1979.0,Crime Drama,7.4,6015
+4258,movie,Enchanted April,1991.0,Drama,7.4,6014
+4260,movie,A Woman in Berlin,2008.0,Biography Drama History,7.1,6007
+4263,movie,Dasvidaniya,2008.0,Comedy Drama,7.8,6004
+4264,movie,The Year My Parents Went on Vacation,2006.0,Drama,7.4,6000
+4267,movie,Eyes Wide Open,2009.0,Drama Romance,7.3,5990
+4269,movie,Monpura,2009.0,Crime Drama Musical,8.6,5984
+4270,movie,My All-American,2015.0,Biography Drama Sport,7.2,5984
+4271,movie,Game Over,2019.0,Drama Thriller,7.1,5981
+4273,movie,The Witch: Part 1 - The Subversion,2018.0,Action Mystery,7.1,5978
+4275,movie,My Father's Glory,1990.0,Adventure Biography Drama,7.6,5977
+4278,movie,Dig!,2004.0,Documentary Music,7.8,5972
+4279,movie,The Gleaners & I,2000.0,Documentary,7.7,5972
+4280,movie,The Tunnel,2001.0,Drama History Thriller,7.7,5969
+4282,movie,Greedy Guts,2000.0,Animation Comedy Drama,7.3,5965
+4285,movie,Masquerade,2012.0,Drama History,7.8,5956
+4286,movie,James White,2015.0,Drama,7.1,5950
+4288,movie,Foo Fighters: Back and Forth,2011.0,Documentary Music,8.3,5946
+4289,movie,Ajami,2009.0,Crime Drama,7.3,5946
+4291,movie,The Front Line,2011.0,Action Drama History,7.4,5941
+4292,movie,The Yacoubian Building,2006.0,Drama,7.5,5940
+4296,movie,Aligarh,2015.0,Biography Drama,7.8,5931
+4299,movie,El Bola,2000.0,Action Adventure Drama,7.2,5923
+4300,movie,Magical Girl,2014.0,Drama Thriller,7.3,5922
+4302,movie,Grbavica: The Land of My Dreams,2006.0,Drama,7.2,5920
+4303,movie,The Pixar Story,2007.0,Documentary,7.8,5919
+4305,movie,Monsieur Hire,1989.0,Crime Drama Romance,7.6,5916
+4307,movie,The Emperor and the Assassin,1998.0,Drama History Romance,7.2,5914
+4308,movie,Molière,2007.0,Biography Comedy,7.2,5913
+4312,movie,Beloved,1991.0,Drama Musical Romance,7.2,5905
+4314,movie,Montage,2013.0,Drama Thriller,7.5,5904
+4315,movie,Bogowie,2014.0,Biography Drama,7.7,5902
+4316,movie,Leto,2018.0,Biography Music Romance,7.3,5898
+4317,movie,Dog Days,2001.0,Drama,7.1,5892
+4320,movie,City on Fire,1987.0,Action Adventure Crime,7.1,5888
+4321,movie,Terms and Conditions May Apply,2013.0,Documentary News,7.3,5885
+4323,movie,Chimpanzee,2012.0,Documentary Family,7.2,5885
+4324,movie,Sour Apples,2016.0,Biography Comedy Drama,7.2,5883
+4326,movie,Memories,2013.0,Mystery Thriller,8.0,5879
+4328,movie,Spacewalk,2017.0,Drama History,7.3,5870
+4329,movie,Best of Enemies: Buckley vs. Vidal,2015.0,Biography Documentary History,7.6,5867
+4330,movie,Still Life,2006.0,Drama Family,7.3,5865
+4331,movie,The Glass Agency,1998.0,Action Drama Romance,7.9,5864
+4333,movie,The Hunting Ground,2015.0,Documentary,7.4,5861
+4335,movie,Janatha Garage,2016.0,Action Drama,7.3,5857
+4338,movie,Invisible Life,2019.0,Drama,7.8,5853
+4339,movie,Mumbai Meri Jaan,2008.0,Drama,7.7,5853
+4340,movie,Saint Ralph,2004.0,Comedy Drama Sport,7.3,5850
+4341,movie,The Hammer,2007.0,Comedy Romance Sport,7.2,5850
+4342,movie,Assassination,2015.0,Action Drama Thriller,7.3,5844
+4343,movie,Confidentially Yours,1983.0,Comedy Crime Mystery,7.2,5843
+4345,movie,Lilting,2014.0,Drama Romance,7.2,5843
+4348,movie,The Terror Live,2013.0,Action Crime Thriller,7.1,5837
+4352,movie,13B: Fear Has a New Address,2009.0,Drama Horror Mystery,7.3,5835
+4353,movie,Deiji,2006.0,Drama Romance,7.5,5835
+4356,movie,Any Day Now,2012.0,Drama,7.5,5830
+4357,movie,Cha no aji,2004.0,Comedy Fantasy,7.7,5829
+4358,movie,Séraphine,2008.0,Biography Drama,7.4,5825
+4359,movie,Bekçiler Krali,1979.0,Comedy,7.7,5825
+4363,movie,On Probation,2005.0,Action Comedy Crime,7.6,5822
+4364,movie,Audrie & Daisy,2016.0,Documentary,7.2,5818
+4365,movie,One Piece: Z,2012.0,Action Adventure Animation,7.9,5812
+4366,movie,Live and Become,2005.0,Drama,7.8,5811
+4367,movie,Marina Abramovic: The Artist Is Present,2012.0,Biography Documentary History,7.9,5808
+4368,movie,Trafic,1971.0,Comedy,7.1,5806
+4369,movie,Twelve Chairs,1971.0,Adventure Comedy Crime,8.3,5802
+4370,movie,Sekerpare,1983.0,Comedy History Romance,8.0,5802
+4372,movie,Hitchcock/Truffaut,2015.0,Documentary,7.4,5801
+4373,movie,Vengeance Is Mine,1979.0,Crime Drama,7.8,5799
+4374,movie,The Specials,2019.0,Comedy Drama,7.4,5798
+4375,movie,Giant Little Ones,2018.0,Drama,7.2,5798
+4376,movie,Bizim Aile,1975.0,Comedy Drama Family,8.4,5793
+4384,movie,The Dark Horse,2014.0,Biography Drama,7.5,5776
+4386,movie,Behzat Ç. Ankara Yaniyor,2013.0,Action Adventure Crime,7.5,5765
+4389,movie,I Hired a Contract Killer,1990.0,Comedy Drama Romance,7.2,5754
+4392,movie,Korkusuz Korkak,1979.0,Adventure Comedy,8.1,5746
+4393,movie,True Stories,1986.0,Comedy Musical,7.2,5739
+4394,movie,Temper,2015.0,Action Crime Drama,7.4,5738
+4395,movie,Stand by Me Doraemon,2014.0,Animation Comedy Drama,7.4,5738
+4396,movie,5 Broken Cameras,2011.0,Documentary War,7.9,5729
+4397,movie,The Saddest Music in the World,2003.0,Comedy Musical,7.1,5728
+4399,movie,Mumbai Police,2013.0,Mystery Thriller,8.0,5725
+4404,movie,The Circle,2000.0,Drama,7.4,5723
+4405,movie,Little Dieter Needs to Fly,1997.0,Biography Documentary Drama,8.0,5722
+4406,movie,The Border Post,2006.0,Comedy Drama,7.6,5722
+4410,movie,Lisbela and the Prisoner,2003.0,Comedy Romance,7.5,5716
+4411,movie,Pelli Choopulu,2016.0,Comedy Drama Romance,8.2,5715
+4412,movie,Kireedam,1989.0,Action Drama,8.9,5710
+4414,movie,Kevin Hart: Laugh at My Pain,2011.0,Comedy Documentary,7.4,5704
+4415,movie,The World is Big and Salvation Lurks Around the Corner,2008.0,Drama,8.0,5704
+4419,movie,The Ruling Class,1972.0,Comedy Drama Musical,7.4,5695
+4420,movie,Papanasam,2015.0,Drama Thriller,8.4,5692
+4421,movie,The Hospital,1971.0,Comedy Drama Mystery,7.2,5691
+4422,movie,Footnote,2011.0,Comedy Drama,7.1,5689
+4424,movie,The Battleship Island,2017.0,Action Drama History,7.1,5685
+4425,movie,Dhruva,2016.0,Action Crime Thriller,7.8,5684
+4426,movie,Kill Bill: The Whole Bloody Affair,2011.0,Action Crime Thriller,8.8,5684
+4428,movie,Election 2,2006.0,Crime Drama Thriller,7.4,5680
+4429,movie,Autumn,2008.0,Drama,7.8,5676
+4430,movie,303,2018.0,Comedy Drama Romance,7.5,5675
+4431,movie,Fire,1996.0,Drama Romance,7.2,5675
+4432,movie,La Ciénaga,2001.0,Comedy Drama,7.1,5672
+4434,movie,Frozen Land,2005.0,Drama,7.4,5671
+4436,movie,Maharshi,2019.0,Action Drama,7.3,5669
+4439,movie,One of Us,2017.0,Documentary,7.1,5666
+4440,movie,Flirting,1991.0,Drama Romance,7.2,5665
+4442,movie,Troubled Water,2008.0,Drama Music,7.6,5661
+4443,movie,Toss-Up,2004.0,Drama,7.6,5659
+4444,movie,Do You Remember Dolly Bell?,1981.0,Comedy Drama Romance,7.7,5659
+4445,movie,Avalon,1990.0,Drama,7.2,5657
+4446,movie,Dor,2006.0,Drama,7.9,5653
+4447,movie,The Maid,2009.0,Comedy Drama,7.3,5652
+4449,movie,Emperor of the North,1973.0,Action Adventure Drama,7.3,5643
+4450,movie,U2: Rattle and Hum,1988.0,Documentary Music,7.6,5639
+4451,movie,The Emigrants,1971.0,Drama History,8.0,5638
+4452,movie,Nameless Gangster: Rules of the Time,2012.0,Action Crime Drama,7.1,5637
+4454,movie,The Horseman on the Roof,1995.0,Adventure Drama Romance,7.1,5631
+4455,movie,Until the Light Takes Us,2008.0,Documentary Music,7.1,5630
+4456,movie,One Day in September,1999.0,Documentary History Sport,7.8,5628
+4459,movie,"Life, Animated",2016.0,Comedy Documentary Drama,7.5,5626
+4460,movie,Twelfth Night,1996.0,Comedy Drama Romance,7.2,5624
+4462,movie,Cherry Blossoms,2008.0,Drama Romance,7.6,5614
+4463,movie,The Great Santini,1979.0,Drama,7.2,5613
+4466,movie,Salako,1974.0,Adventure Comedy Crime,7.4,5602
+4468,movie,Road to Ninja - Naruto the Movie,2012.0,Action Adventure Animation,7.7,5595
+4469,movie,Boats Out of Watermelon Rinds,2004.0,Comedy Drama Family,7.9,5590
+4470,movie,The Filth and the Fury,2000.0,Biography Documentary Music,7.7,5586
+4473,movie,"Same Time, Next Year",1978.0,Comedy Drama Romance,7.2,5582
+4474,movie,Being 17,2016.0,Drama Romance,7.1,5579
+4477,movie,The Sunshine Boys,1975.0,Comedy,7.1,5574
+4479,movie,The Collini Case,2019.0,Crime Drama Thriller,7.2,5570
+4480,movie,Music Within,2007.0,Biography Comedy Drama,7.3,5569
+4482,movie,The Times of Harvey Milk,1984.0,Biography Documentary History,8.3,5559
+4483,movie,The 11th Hour,2007.0,Documentary,7.3,5558
+4485,movie,Boys Don't Cry,2000.0,Comedy Crime,7.6,5556
+4489,movie,White Collar Blues,1975.0,Comedy,7.9,5548
+4490,movie,Nil Battey Sannata,2015.0,Drama Family,8.3,5548
+4492,movie,Goodbye Solo,2008.0,Drama,7.3,5546
+4496,movie,Prick Up Your Ears,1987.0,Biography Drama,7.3,5538
+4498,movie,A Long Story,2012.0,Drama,7.6,5537
+4500,movie,And the Ship Sails On,1983.0,Drama History Music,7.6,5536
+4502,movie,Hope,2013.0,Drama,8.3,5533
+4504,movie,Sunday Bloody Sunday,1971.0,Drama,7.1,5529
+4505,movie,Padayappa,1999.0,Action Comedy Drama,8.1,5529
+4507,movie,Ne Zha,2019.0,Action Adventure Animation,7.5,5525
+4509,movie,Silent Wedding,2008.0,Comedy Drama History,7.9,5524
+4511,movie,Failan,2001.0,Drama Romance,7.6,5519
+4514,movie,Dark Blue World,2001.0,Action Drama Romance,7.2,5509
+4517,movie,The Field,1990.0,Drama Thriller,7.4,5497
+4518,movie,Images,1972.0,Drama Horror Mystery,7.1,5494
+4519,movie,Kaakkaa Muttai,2014.0,Comedy Drama,8.4,5486
+4521,movie,Nothing Left to Do but Cry,1984.0,Comedy Fantasy,7.7,5481
+4522,movie,Kids Return,1996.0,Crime Drama Sport,7.5,5476
+4524,movie,The Eel,1997.0,Drama,7.4,5470
+4525,movie,Waiting for the Hearse,1985.0,Comedy,8.1,5464
+4526,movie,Zero 2,2010.0,Comedy Thriller,7.6,5461
+4527,movie,Import Export,2007.0,Drama,7.1,5460
+4530,movie,What Men Talk About,2010.0,Comedy,7.6,5455
+4532,movie,Lone Wolf and Cub: Baby Cart at the River Styx,1972.0,Action Adventure Drama,8.0,5452
+4533,movie,Dear Comrade,2019.0,Action Drama Romance,7.3,5451
+4534,movie,Velaiyilla Pattathari,2014.0,Action Comedy Drama,7.8,5447
+4535,movie,Gates of Heaven,1978.0,Documentary,7.4,5447
+4536,movie,Hail Satan?,2019.0,Documentary,7.3,5447
+4538,movie,Swept Away,1974.0,Adventure Comedy Drama,7.6,5443
+4541,movie,Ask Me If I'm Happy,2000.0,Comedy Drama,7.1,5438
+4542,movie,Heart of Glass,1976.0,Drama,7.1,5438
+4545,movie,The Story of Qiu Ju,1992.0,Comedy Drama,7.6,5430
+4546,movie,We All Loved Each Other So Much,1974.0,Comedy Drama,8.1,5429
+4550,movie,The Gatekeepers,2012.0,Documentary History War,7.6,5425
+4556,movie,Arya 2,2009.0,Action Comedy,7.4,5401
+4559,movie,From Beijing with Love,1994.0,Action Comedy Thriller,7.2,5398
+4561,movie,Toto the Hero,1991.0,Comedy Drama Fantasy,7.6,5396
+4562,movie,A Room for Romeo Brass,1999.0,Comedy Drama,7.6,5395
+4563,movie,Gangster,2006.0,Action Crime Drama,7.1,5394
+4564,movie,The Sun of Gnosis,2020.0,Comedy,7.9,5394
+4565,movie,Coming Home,2014.0,Drama Romance,7.2,5393
+4568,movie,Jalsa,2008.0,Action Comedy,7.3,5389
+4572,movie,Les Misérables in Concert: The 25th Anniversary,2010.0,Drama Music Musical,8.8,5375
+4574,movie,My First Mister,2001.0,Comedy Drama Romance,7.1,5371
+4577,movie,Grave Decisions,2006.0,Comedy Drama,7.5,5367
+4579,movie,Another Country,1984.0,Biography Drama History,7.1,5365
+4580,movie,The U.S. vs. John Lennon,2006.0,Biography Documentary Music,7.3,5362
+4581,movie,A Touch of Zen,1971.0,Action Adventure Drama,7.6,5362
+4582,movie,Darwin's Nightmare,2004.0,Documentary,7.5,5356
+4585,movie,Chekka Chivantha Vaanam,2018.0,Action Crime Drama,7.3,5338
+4586,movie,Lessons of Darkness,1992.0,Documentary War,8.0,5336
+4587,movie,The Bubble,2006.0,Comedy Drama Romance,7.3,5336
+4590,movie,Running Out of Time,1999.0,Action Crime Drama,7.4,5329
+4591,movie,The Beauty Inside,2015.0,Drama Romance,7.4,5328
+4592,movie,À Nos Amours,1983.0,Drama Romance,7.3,5328
+4594,movie,Teddy Bear,1981.0,Comedy,8.2,5327
+4595,movie,We Are Travelers on the Path of Love,1993.0,Comedy Drama Romance,7.4,5323
+4596,movie,California Split,1974.0,Comedy Drama,7.2,5323
+4597,movie,Everlasting Moments,2008.0,Drama History,7.5,5321
+4598,movie,The Seven Five,2014.0,Biography Crime Documentary,7.6,5315
+4599,movie,Colorful,2010.0,Animation Drama Fantasy,7.4,5313
+4600,movie,Along With the Gods: The Last 49 Days,2018.0,Action Drama Fantasy,7.1,5311
+4601,movie,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",1999.0,Biography Documentary,7.5,5310
+4602,movie,The Tree of Wooden Clogs,1978.0,Drama History,7.9,5308
+4603,movie,Strawberry and Chocolate,1993.0,Comedy Drama Romance,7.4,5303
+4606,movie,Box of Moonlight,1996.0,Comedy Drama,7.3,5296
+4608,movie,Mimino,1977.0,Comedy Drama,8.2,5286
+4609,movie,Dragon Ball Z: Bojack Unbound,1993.0,Action Adventure Animation,7.2,5281
+4610,movie,The Journey of Natty Gann,1985.0,Adventure Family,7.1,5280
+4611,movie,A Simple Life,2011.0,Drama,7.5,5278
+4613,movie,The Widow of Saint-Pierre,2000.0,Drama History Romance,7.1,5276
+4614,movie,Jallikattu,2019.0,Action Crime,7.6,5276
+4615,movie,Small Change,1976.0,Comedy Drama,7.7,5275
+4616,movie,Hearts and Minds,1974.0,Documentary History War,8.2,5275
+4617,movie,The Little Fox,1981.0,Adventure Animation Comedy,8.4,5273
+4618,movie,A Little Romance,1979.0,Adventure Comedy Romance,7.5,5273
+4620,movie,Tito and Me,1992.0,Comedy Drama Romance,8.0,5269
+4622,movie,The Last of Sheila,1973.0,Crime Drama Mystery,7.3,5263
+4624,movie,By the Grace of God,2018.0,Crime Drama,7.2,5260
+4625,movie,Wild Reeds,1994.0,Drama,7.4,5260
+4627,movie,Bittersweet,2010.0,Comedy Drama,7.9,5257
+4628,movie,Thevar Magan,1992.0,Drama,8.7,5256
+4629,movie,My Little Bride,2004.0,Comedy Drama Romance,7.1,5256
+4630,movie,Estomago: A Gastronomic Story,2007.0,Comedy Drama,7.8,5252
+4631,movie,The Biggest Little Farm,2018.0,Documentary,8.1,5250
+4632,movie,Sahte Kabadayi,1976.0,Comedy,7.7,5249
+4634,movie,7 Boxes,2012.0,Adventure Crime Drama,7.1,5245
+4635,movie,Nerkonda Paarvai,2019.0,Action Drama Thriller,8.1,5244
+4637,movie,Longtime Companion,1989.0,Drama Romance,7.6,5239
+4639,movie,Lola,1981.0,Drama Romance,7.5,5237
+4641,movie,Adolf Hitler: The Greatest Story Never Told,2013.0,Biography Documentary History,7.5,5231
+4642,movie,Günesin Oglu,2008.0,Comedy Fantasy,7.1,5231
+4643,movie,Solino,2002.0,Comedy Drama,7.4,5228
+4644,movie,Raising Victor Vargas,2002.0,Drama Romance,7.2,5226
+4645,movie,One Hundred Steps,2000.0,Biography Crime Drama,7.6,5224
+4646,movie,"LSD: Love, Sex Aur Dhokha",2010.0,Comedy Crime Drama,7.1,5222
+4647,movie,Seethamma Vakitlo Sirimalle Chettu,2013.0,Comedy Drama Family,7.5,5219
+4652,movie,Clouds of May,1999.0,Comedy Drama,7.4,5209
+4653,movie,HyperNormalisation,2016.0,Documentary,8.3,5208
+4654,movie,"Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",2001.0,Action Adventure Drama,7.1,5206
+4655,movie,An Affair of Love,1999.0,Drama Romance,7.1,5201
+4657,movie,Kincsem - Bet on Revenge,2017.0,Adventure Drama History,7.4,5195
+4659,movie,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019.0,Biography Documentary History,7.6,5195
+4664,movie,The Inevitable Defeat of Mister & Pete,2013.0,Drama,7.5,5189
+4665,movie,Iron Maiden: Flight 666,2009.0,Documentary Music,8.3,5184
+4667,movie,Unbelievable Adventures of Italians in Russia,1974.0,Adventure Comedy Crime,7.7,5178
+4669,movie,"Clean, Shaven",1993.0,Crime Drama Thriller,7.1,5175
+4670,movie,Love Streams,1984.0,Drama,7.8,5171
+4671,movie,Unnaipol Oruvan,2009.0,Crime Drama Mystery,8.0,5170
+4672,movie,A Brief History of Time,1991.0,Biography Documentary,7.3,5168
+4674,movie,Fox and His Friends,1975.0,Crime Drama Romance,7.7,5166
+4675,movie,Career Girls,1997.0,Comedy Drama,7.1,5162
+4677,movie,When We Leave,2010.0,Drama,7.5,5158
+4678,movie,The House I Live In,2012.0,Documentary,7.9,5158
+4679,movie,Arya,2004.0,Action Drama Romance,7.8,5156
+4682,movie,Shanghai Triad,1995.0,Crime Drama History,7.1,5155
+4683,movie,Bill Cunningham: New York,2010.0,Biography Documentary History,7.9,5155
+4687,movie,The Attorney,2013.0,Drama,7.7,5147
+4688,movie,Alai Payuthey,2000.0,Drama Musical Romance,8.3,5145
+4690,movie,Harry and Tonto,1974.0,Adventure Comedy Drama,7.4,5138
+4691,movie,More Than a Game,2008.0,Biography Documentary Sport,7.6,5138
+4693,movie,Oranges and Sunshine,2010.0,Drama History,7.1,5137
+4698,movie,Ulzana's Raid,1972.0,Adventure Western,7.1,5123
+4699,movie,Legend No. 17,2013.0,Biography Drama Sport,7.5,5120
+4700,movie,"Electric Boogaloo: The Wild, Untold Story of Cannon Films",2014.0,Biography Documentary History,7.4,5119
+4703,movie,Yüz Numarali Adam,1978.0,Comedy,7.8,5115
+4705,movie,LA 92,2017.0,Crime Documentary History,8.2,5114
+4710,movie,A Scene at the Sea,1991.0,Comedy Drama Romance,7.5,5110
+4711,movie,Tales from the Golden Age,2009.0,Comedy History,7.8,5110
+4712,movie,Elvis and Anabelle,2007.0,Drama Romance,7.2,5109
+4714,movie,Team Foxcatcher,2016.0,Biography Crime Documentary,7.3,5103
+4716,movie,The Yes Men Fix the World,2009.0,Comedy Documentary,7.6,5099
+4718,movie,Seducing Doctor Lewis,2003.0,Comedy,7.4,5095
+4719,movie,Seven Beauties,1975.0,Comedy Drama War,7.8,5091
+4720,movie,Ugramm,2014.0,Action Drama Thriller,8.1,5089
+4726,movie,For All Mankind,1989.0,Documentary History,8.2,5081
+4727,movie,Escaping Tel Aviv,2009.0,Action Drama Thriller,7.3,5080
+4729,movie,Sunny,2011.0,Comedy Drama,7.8,5079
+4731,movie,Tokatçi,1983.0,Comedy Crime,7.8,5075
+4733,movie,Avellaneda's Moon,2004.0,Comedy Drama Sport,7.2,5073
+4734,movie,Chandramukhi,2005.0,Action Comedy Fantasy,7.1,5069
+4735,movie,David Lynch: The Art Life,2016.0,Biography Documentary,7.2,5069
+4736,movie,Phas Gaye Re Obama,2010.0,Comedy Crime Drama,7.5,5069
+4737,movie,The Chipmunk Adventure,1987.0,Adventure Animation Comedy,7.2,5068
+4740,movie,Natsamrat,2016.0,Drama Family,9.0,5061
+4743,movie,Kings of the Road,1976.0,Drama,7.8,5058
+4744,movie,71: Into the Fire,2010.0,Action Drama War,7.3,5058
+4747,movie,Diplomacy,2014.0,Drama War,7.1,5051
+4749,movie,Tropical Malady,2004.0,Drama Fantasy Romance,7.2,5049
+4750,movie,The Sum of Us,1994.0,Comedy Drama,7.3,5048
+4752,movie,Wang-ui namja,2005.0,Drama History,7.4,5047
+4753,movie,The Flying Scotsman,2006.0,Drama Sport,7.1,5047
+4754,movie,100 Meters,2016.0,Biography Comedy Drama,7.5,5047
+4755,movie,Wise Blood,1979.0,Comedy Drama,7.1,5042
+4756,movie,Fate: Tales About Darkness,2001.0,Drama,7.6,5041
+4757,movie,Damnation,1988.0,Crime Drama Romance,7.8,5040
+4758,movie,Himalaya,1999.0,Drama,7.5,5040
+4759,movie,Valley Uprising,2014.0,Documentary,8.1,5039
+4760,movie,Pithamagan,2003.0,Action Drama,8.4,5033
+4763,movie,The Go-Between,1971.0,Drama Romance,7.3,5031
+4766,movie,Time Masters,1982.0,Adventure Animation Sci-Fi,7.4,5027
+4767,movie,The Rocket,2005.0,Biography Drama Sport,7.6,5027
+4768,movie,A New Leaf,1971.0,Comedy Romance,7.4,5027
+4773,movie,Mon oncle d'Amérique,1980.0,Comedy Drama Romance,7.8,5015
+4774,movie,Majority,2010.0,Drama,7.4,5014
+4775,movie,Passion Fish,1992.0,Drama,7.4,5014
+4778,movie,La Vie de Bohème,1992.0,Comedy Drama Romance,7.7,5004
+4779,movie,Nostalgia for the Light,2010.0,Documentary,7.6,5004
