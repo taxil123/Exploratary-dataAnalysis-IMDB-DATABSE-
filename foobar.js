@@ -207,7 +207,7 @@ $(document).ready(function(){
    $(document).ready(function(){
     $('#ALL').click(function(){
      $.ajax({
-      url:"final1.csv",
+      url:"finala.csv",
       dataType:"text",
       success:function(data)
       {
