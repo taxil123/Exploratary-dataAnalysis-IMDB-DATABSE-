@@ -69,7 +69,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $('#Tvseries').click(function(){
      $.ajax({
-      url:"tvseries.csv",
+      url:"tvseries1.csv",
       dataType:"text",
       success:function(data)
       {
